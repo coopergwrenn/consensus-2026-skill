@@ -1,0 +1,44 @@
+name: refresh
+
+on:
+  schedule:
+    # Hourly during conference week (May 4–8 inclusive).
+    # GitHub cron is UTC; pick a non-:00 minute to avoid the on-the-hour stampede.
+    - cron: "17 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  bake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Use Node 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Bake data
+        run: node scripts/bake-all.ts
+
+      - name: Commit if changed
+        run: |
+          git config user.name "consensus-bake-bot"
+          git config user.email "bot@instaclaw.io"
+          if [ -n "$(git status --porcelain data/)" ]; then
+            git add data/
+            git commit -m "chore(data): hourly refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          else
+            echo "No data changes — skipping commit."
+          fi
