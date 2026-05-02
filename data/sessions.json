@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-02T19:18:09.624Z",
+    "baked_at": "2026-05-02T21:00:31.641Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -9432,7 +9432,7 @@
     },
     {
       "id": "11F13E47D229B6F8AE260263DE4AB8DB",
-      "title": "The Great Refactor: How Organizations will all be Refactored into Agentic Enterprises",
+      "title": "Agentic Orchestration at Enterprise Scale",
       "description_html": "Forget vibe-coding &mdash; AgentGraph connects elite AI engineers with teams building custom agents for real-world deployment at the intersection of AI and blockchain infrastructure.<br />",
       "date": "2026-05-07",
       "day_of_week": "Thu",
@@ -9460,7 +9460,7 @@
       ],
       "url": "/agenda/event/-agents-that-actually-work-in-production-301",
       "active": true,
-      "mdate": "2026-04-30T16:01:30-04:00"
+      "mdate": "2026-05-02T16:49:34-04:00"
     },
     {
       "id": "11F126F8B07B3C0E98D30263DE4AB8DB",

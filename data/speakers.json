@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-02T19:18:09.624Z",
+    "baked_at": "2026-05-02T21:00:31.641Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
@@ -5762,7 +5762,7 @@
       "sessions": [
         {
           "id": "11F13E47D229B6F8AE260263DE4AB8DB",
-          "title": "The Great Refactor: How Organizations will all be Refactored into Agentic Enterprises",
+          "title": "Agentic Orchestration at Enterprise Scale",
           "date": "2026-05-07",
           "start_iso": "2026-05-07T11:15:00-04:00",
           "venue_slug": "workshop-stage"
