@@ -160,6 +160,14 @@ Use the side event's `address` field (free-text). For "near Brickell" do a subst
 - **Assume on-site Tuesday–Thursday.** Tue May 5 is Day 1.
 - **Don't fake precision.** If an event has no `start_iso` or no `address`, say so — don't invent.
 
+## Output rules (small but important)
+
+These are easy to miss and they kill screenshot quality. Apply them every time.
+
+- **Address fallback — when `address` is null, lead with the Luma link.** Roughly half of side events ship without an address (location is gated to the Luma RSVP). Don't pretend you know where the event is. Format: *"05/05 18:00 — Stablecoin Bowling (Circle). Address gated to RSVP — register at luma.com/abc."* Never write "address: null" or "no address" — the link IS the location.
+- **Generic / "Fireside:" titles — always include the speaker.** Sessions with titles like `Fireside: Cloudflare`, `Fireside: NASDAQ`, `Fireside: Patrick Witt`, or single-company-name titles convey nothing on their own. The speakers ARE the news. Format: *"Wed 12:00 Mainstage — Fireside: Cloudflare (Stephanie Cohen + Jay Yarow)"*. If `speakers[]` is empty, say so explicitly: "(no speaker listed)".
+- **Invite-only events — call it out before the link.** Some side-event names contain `(invite only)` (e.g., "Founders & Investors Brunch ✨ (invite only)"). Don't bury this in the name. Format: *"11:00 — Founders & Investors Brunch (Rime Salmi). **Invite-only — DM the organizer before clicking through.** luma.com/to0calcr"*. The user shouldn't show up at the door without an invitation.
+
 ## Onboarding (run once per user)
 
 If the user hasn't told you what they care about yet, ask:
