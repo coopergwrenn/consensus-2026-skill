@@ -1,0 +1,17 @@
+{
+  "name": "consensus-2026-skill",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Agent skill for Consensus 2026 Miami — InstaClaw partner skill. Ingests CoinDesk main agenda + plan.wtf side events.",
+  "type": "module",
+  "scripts": {
+    "bake": "node scripts/bake-all.ts",
+    "bake:events": "node scripts/bake-events.ts",
+    "bake:sessions": "node scripts/bake-sessions.ts",
+    "validate": "node scripts/bake-all.ts --validate-only"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "baked_at": "2026-05-02T00:00:00-04:00",
+    "schema_version": 1,
+    "source_url": "hand-curated from consensus.coindesk.com/venues + Miami Beach Convention Center",
+    "source_label": "Consensus 2026 Miami venues — hand-curated",
+    "record_count": 9
+  },
+  "records": [
+    {
+      "slug": "mainstage",
+      "name": "Anchorage Digital Mainstage",
+      "full_name": "MBCC: Anchorage Digital Mainstage",
+      "color": "#7092be",
+      "address": "Miami Beach Convention Center, 1901 Convention Center Dr, Miami Beach, FL 33139",
+      "lat": 25.7951,
+      "lng": -80.1336,
+      "note": "Largest stage; high-profile keynotes. Centrally located on the convention floor."
+    },
+    {
+      "slug": "convergence-stage",
+      "name": "Convergence Stage",
+      "full_name": "MBCC: Convergence Stage",
+      "color": null,
+      "address": "Miami Beach Convention Center, 1901 Convention Center Dr, Miami Beach, FL 33139",
+      "lat": 25.7951,
+      "lng": -80.1336,
+      "note": "Cross-track talks bridging policy, infra, finance."
+    },
+    {
+      "slug": "frontier-stage",
+      "name": "Frontier Stage",
+      "full_name": "MBCC: Frontier Stage",
+      "color": null,
+      "address": "Miami Beach Convention Center, 1901 Convention Center Dr, Miami Beach, FL 33139",
+      "lat": 25.7951,
+      "lng": -80.1336,
+      "note": "Capital Markets Summit and other forward-looking finance tracks live here."
+    },
+    {
+      "slug": "spotlight-stage",
+      "name": "Spotlight Stage",
+      "full_name": "MBCC: Spotlight Stage",
+      "color": null,
+      "address": "Miami Beach Convention Center, 1901 Convention Center Dr, Miami Beach, FL 33139",
+      "lat": 25.7951,
+      "lng": -80.1336,
+      "note": "Smaller stage for focused panels and product showcases."
+    },
+    {
+      "slug": "workshop-stage",
+      "name": "Workshop Stage",
+      "full_name": "MBCC: Workshop Stage",
+      "color": null,
+      "address": "Miami Beach Convention Center, 1901 Convention Center Dr, Miami Beach, FL 33139",
+      "lat": 25.7951,
+      "lng": -80.1336,
+      "note": "Hands-on sessions; bring a laptop."
+    },
+    {
+      "slug": "coindesk-live-studio",
+      "name": "CoinDesk Live Studio",
+      "full_name": "MBCC: CoinDesk Live Studio",
+      "color": null,
+      "address": "Miami Beach Convention Center, 1901 Convention Center Dr, Miami Beach, FL 33139",
+      "lat": 25.7951,
+      "lng": -80.1336,
+      "note": "Live broadcast studio — interviews and short-form segments."
+    },
+    {
+      "slug": "hackathon",
+      "name": "Hackathon",
+      "full_name": "MBCC: Hackathon",
+      "color": null,
+      "address": "Miami Beach Convention Center, 1901 Convention Center Dr, Miami Beach, FL 33139",
+      "lat": 25.7951,
+      "lng": -80.1336,
+      "note": "Hackathon zone with check-ins, judging, and team areas."
+    },
+    {
+      "slug": "deal-flow-zone",
+      "name": "Deal Flow Zone",
+      "full_name": "MBCC: Deal Flow Zone",
+      "color": null,
+      "address": "Miami Beach Convention Center, 1901 Convention Center Dr, Miami Beach, FL 33139",
+      "lat": 25.7951,
+      "lng": -80.1336,
+      "note": "Curated investor/founder meetings."
+    },
+    {
+      "slug": "meetups-area",
+      "name": "Meetups Area",
+      "full_name": "MBCC: Meetups Area",
+      "color": null,
+      "address": "Miami Beach Convention Center, 1901 Convention Center Dr, Miami Beach, FL 33139",
+      "lat": 25.7951,
+      "lng": -80.1336,
+      "note": "Self-organized small-group meetups."
+    }
+  ]
+}
