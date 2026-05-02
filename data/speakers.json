@@ -1,10 +1,10 @@
 {
   "meta": {
-    "baked_at": "2026-05-02T17:07:55.012Z",
+    "baked_at": "2026-05-02T19:18:09.624Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
-    "record_count": 451
+    "record_count": 453
   },
   "records": [
     {
@@ -579,7 +579,7 @@
         },
         {
           "id": "11F13DB08414E24FAE260263DE4AB8DB",
-          "title": "LOC'ed In: How Anvil and Bullish are forging the Future on payment using onchain letters of credit",
+          "title": "LOC'ed In: How Anvil and Bullish are Forging the Future on Payment Using Onchain Letters of Credit",
           "date": "2026-05-06",
           "start_iso": "2026-05-06T13:30:00-04:00",
           "venue_slug": "mainstage"
@@ -828,7 +828,7 @@
     {
       "name": "Pauline Shangett",
       "company": "ChangeNOW",
-      "title": "CSO",
+      "title": "Chief Strategy Officer",
       "session_count": 3,
       "sessions": [
         {
@@ -886,7 +886,7 @@
     {
       "name": "Ryan  Rugg",
       "company": "Citi",
-      "title": "Global Head of Digital Assets, Treasury and Trade Solutions",
+      "title": "Head of Digital Assets, Treasury and Trade Solutions",
       "session_count": 3,
       "sessions": [
         {
@@ -1151,28 +1151,6 @@
           "date": "2026-05-07",
           "start_iso": "2026-05-07T10:00:00-04:00",
           "venue_slug": "coindesk-live-studio"
-        }
-      ]
-    },
-    {
-      "name": "Anish Shivdasani",
-      "company": "Roland Berger",
-      "title": "Head of Digital Assets",
-      "session_count": 2,
-      "sessions": [
-        {
-          "id": "11F13CDED742D6C7AE260263DE4AB8DB",
-          "title": "Powering the Next Phase of Web3: Capital, Liquidity, and Lasting Impact",
-          "date": "2026-05-05",
-          "start_iso": "2026-05-05T15:20:00-04:00",
-          "venue_slug": "convergence-stage"
-        },
-        {
-          "id": "11F11EEB904CFA1098D30263DE4AB8DB",
-          "title": "Agentic & Frictionless Payments: AI Enters the Zone",
-          "date": "2026-05-06",
-          "start_iso": "2026-05-06T11:35:00-04:00",
-          "venue_slug": "convergence-stage"
         }
       ]
     },
@@ -1487,7 +1465,7 @@
     {
       "name": "Britt Cambas",
       "company": "Circle",
-      "title": "Business Development - Global Ecosystem",
+      "title": "Senior Manager",
       "session_count": 2,
       "sessions": [
         {
@@ -1509,7 +1487,7 @@
     {
       "name": "Caroline D.  Pham",
       "company": "MoonPay",
-      "title": "Chief Legal Officer and Chief Administrative Officer",
+      "title": "Head of MoonPay Institutional | CLO and CAO",
       "session_count": 2,
       "sessions": [
         {
@@ -1705,6 +1683,28 @@
       ]
     },
     {
+      "name": "David Wachsman",
+      "company": "Wachsman",
+      "title": "Founder & CEO",
+      "session_count": 2,
+      "sessions": [
+        {
+          "id": "11F117D656F5669C98D30263DE4AB8DB",
+          "title": "DeFi’s Infra, Data & Oracle Renaissance",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T16:40:00-04:00",
+          "venue_slug": "convergence-stage"
+        },
+        {
+          "id": "11F13A9A6985699BAE260263DE4AB8DB",
+          "title": "Tokenization and the Future of U.S. Dollar Demand",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T12:50:00-04:00",
+          "venue_slug": "mainstage"
+        }
+      ]
+    },
+    {
       "name": "Donald Trump Jr",
       "company": "World Liberty Financial",
       "title": "Co-Founder",
@@ -1723,6 +1723,28 @@
           "date": "2026-05-07",
           "start_iso": "2026-05-07T13:30:00-04:00",
           "venue_slug": "coindesk-live-studio"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Anish Shivdasani",
+      "company": "Roland Berger",
+      "title": "Head of Digital Assets",
+      "session_count": 2,
+      "sessions": [
+        {
+          "id": "11F13CDED742D6C7AE260263DE4AB8DB",
+          "title": "Powering the Next Phase of Web3: Capital, Liquidity, and Lasting Impact",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T15:20:00-04:00",
+          "venue_slug": "convergence-stage"
+        },
+        {
+          "id": "11F11EEB904CFA1098D30263DE4AB8DB",
+          "title": "Agentic & Frictionless Payments: AI Enters the Zone",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T11:35:00-04:00",
+          "venue_slug": "convergence-stage"
         }
       ]
     },
@@ -2080,8 +2102,8 @@
     },
     {
       "name": "Jeff Wilser",
-      "company": "AI Curious and The People's AI Podcast",
-      "title": "Founder/Host",
+      "company": "AI Curious",
+      "title": "Founder & Host",
       "session_count": 2,
       "sessions": [
         {
@@ -2652,8 +2674,8 @@
     },
     {
       "name": "Nicola White",
-      "company": "Robinhood",
-      "title": "VP of Crypto Institutions",
+      "company": "General Manager, Bitstamp",
+      "title": "Vice President of Crypto Institutions, Robinhood",
       "session_count": 2,
       "sessions": [
         {
@@ -2719,7 +2741,7 @@
     {
       "name": "Rachel Conlan",
       "company": "Binance",
-      "title": "Global Chief Marketing Officer",
+      "title": "Chief Marketing Officer",
       "session_count": 2,
       "sessions": [
         {
@@ -2762,8 +2784,8 @@
     },
     {
       "name": "Raoul Pal",
-      "company": "Real Vision/ EXPAAM",
-      "title": "Co-Founder & CEO (RV) , CEO/CIO (EXPAAM)",
+      "company": "CEO & CIO, EXPAAM",
+      "title": "Co-Founder & CEO, Real Vision",
       "session_count": 2,
       "sessions": [
         {
@@ -3348,6 +3370,21 @@
       ]
     },
     {
+      "name": "Adam Blumberg",
+      "company": "Protocol Wealth",
+      "title": "Managing Partner",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F139B10CBCC6B5AE260263DE4AB8DB",
+          "title": "The New Infrastructure Layer: How Broker/Dealers and Wealth Managers Are Operationalizing Digital Assets",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T10:45:00-04:00",
+          "venue_slug": "frontier-stage"
+        }
+      ]
+    },
+    {
       "name": "Akshat Vaidya",
       "company": "Maelstrom",
       "title": "Co-Founder & Head of Investments",
@@ -3374,6 +3411,21 @@
           "date": "2026-05-07",
           "start_iso": "2026-05-07T16:30:00-04:00",
           "venue_slug": "mainstage"
+        }
+      ]
+    },
+    {
+      "name": "Alex  Lang",
+      "company": "Early Warning (Zelle)",
+      "title": "Vice President, Digital Assets Partnerships & Strategy",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F13CDED742D6C7AE260263DE4AB8DB",
+          "title": "Powering the Next Phase of Web3: Capital, Liquidity, and Lasting Impact",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T15:20:00-04:00",
+          "venue_slug": "convergence-stage"
         }
       ]
     },
@@ -3438,24 +3490,9 @@
       ]
     },
     {
-      "name": "Alexandra  Lang",
-      "company": "Early Warning (Zelle)",
-      "title": "Vice President, Digital Assets Partnerships & Strategy",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F13CDED742D6C7AE260263DE4AB8DB",
-          "title": "Powering the Next Phase of Web3: Capital, Liquidity, and Lasting Impact",
-          "date": "2026-05-05",
-          "start_iso": "2026-05-05T15:20:00-04:00",
-          "venue_slug": "convergence-stage"
-        }
-      ]
-    },
-    {
       "name": "Alexandra Wilkis Wilson",
       "company": "Clerisy",
-      "title": "Co-Founder and Managing Partner",
+      "title": "Co-Founder & Managing Partner",
       "session_count": 1,
       "sessions": [
         {
@@ -3530,7 +3567,7 @@
     {
       "name": "Alison Mangiero",
       "company": "Crypto Council for Innovation",
-      "title": "Chief Strategy Officer & Head of U.S Policy",
+      "title": "Chief Strategy Officer & Head of U.S. Policy",
       "session_count": 1,
       "sessions": [
         {
@@ -4338,6 +4375,21 @@
       ]
     },
     {
+      "name": "Christine Moy",
+      "company": "Apollo",
+      "title": "Partner",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F1337BFCED8088AE260263DE4AB8DB",
+          "title": "Capital Markets Reimagined",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T10:15:00-04:00",
+          "venue_slug": "frontier-stage"
+        }
+      ]
+    },
+    {
       "name": "Christopher Russell",
       "company": "Calamos",
       "title": "SVP, Head of Strategic Planning and Analysis",
@@ -4559,21 +4611,6 @@
           "date": "2026-05-05",
           "start_iso": "2026-05-05T13:00:00-04:00",
           "venue_slug": "spotlight-stage"
-        }
-      ]
-    },
-    {
-      "name": "David Wachsman",
-      "company": "Wachsman",
-      "title": "Founder & CEO",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F117D656F5669C98D30263DE4AB8DB",
-          "title": "DeFi’s Infra, Data & Oracle Renaissance",
-          "date": "2026-05-06",
-          "start_iso": "2026-05-06T16:40:00-04:00",
-          "venue_slug": "convergence-stage"
         }
       ]
     },
@@ -5975,7 +6012,7 @@
     {
       "name": "Lindsey Dickman",
       "company": "Kantar",
-      "title": "Executive Vice President of Finance",
+      "title": "Executive Vice President, Finance, Health & Auto Industry Partner, NA",
       "session_count": 1,
       "sessions": [
         {
@@ -6110,7 +6147,7 @@
     {
       "name": "Maja Lapcevic",
       "company": "Mastercard",
-      "title": "SVP, Blockchain & Digital Assets",
+      "title": "Senior Vice President, Blockchain & Digital Assets",
       "session_count": 1,
       "sessions": [
         {
@@ -7535,7 +7572,7 @@
     {
       "name": "Smitha Purohit",
       "company": "PayPal",
-      "title": "Sr Director of Product, Crypto",
+      "title": "Senior Director of Product, Crypto",
       "session_count": 1,
       "sessions": [
         {
@@ -7930,7 +7967,7 @@
       "sessions": [
         {
           "id": "11F13DB08414E24FAE260263DE4AB8DB",
-          "title": "LOC'ed In: How Anvil and Bullish are forging the Future on payment using onchain letters of credit",
+          "title": "LOC'ed In: How Anvil and Bullish are Forging the Future on Payment Using Onchain Letters of Credit",
           "date": "2026-05-06",
           "start_iso": "2026-05-06T13:30:00-04:00",
           "venue_slug": "mainstage"

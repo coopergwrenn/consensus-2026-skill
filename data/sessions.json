@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-02T17:07:55.012Z",
+    "baked_at": "2026-05-02T19:18:09.624Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -276,6 +276,12 @@
           "role": "Speaker"
         },
         {
+          "name": "Lei Lei",
+          "company": "Kite",
+          "title": "VP, Global Head of BD & Strategy",
+          "role": "Speaker"
+        },
+        {
           "name": "Rohin  Lohe",
           "company": "Cloudflare",
           "title": "Senior Product Manager",
@@ -288,12 +294,6 @@
           "role": "Speaker"
         },
         {
-          "name": "Lei Lei",
-          "company": "Kite",
-          "title": "VP, Global Head of BD & Strategy",
-          "role": "Speaker"
-        },
-        {
           "name": "Carole House",
           "company": "Penumbra Strategies",
           "title": "CEO (Former White House Special Advisor)",
@@ -302,7 +302,7 @@
       ],
       "url": "/agenda/event/-the-trillion-dollar-question-whats-the-framework-for-agentic-paymentsa-67",
       "active": true,
-      "mdate": "2026-05-01T06:32:12-04:00"
+      "mdate": "2026-05-02T13:26:18-04:00"
     },
     {
       "id": "11F118C9079E3AEF98D30263DE4AB8DB",
@@ -656,6 +656,12 @@
           "role": "Speaker"
         },
         {
+          "name": "Christine Moy",
+          "company": "Apollo",
+          "title": "Partner",
+          "role": "Speaker"
+        },
+        {
           "name": "Tom Zschach",
           "company": "Independent (ex-Swift)",
           "title": "Architect & Advisor, Institutional Trust Infrastructure for Finance & AI",
@@ -670,7 +676,7 @@
       ],
       "url": "/agenda/event/-capital-markets-reimagined-187",
       "active": true,
-      "mdate": "2026-05-01T06:46:44-04:00"
+      "mdate": "2026-05-02T13:28:42-04:00"
     },
     {
       "id": "11F14369AB7D05C2AE260263DE4AB8DB",
@@ -943,11 +949,17 @@
           "company": "Broadridge",
           "title": "Chief Digital Officer",
           "role": "Speaker"
+        },
+        {
+          "name": "Adam Blumberg",
+          "company": "Protocol Wealth",
+          "title": "Managing Partner",
+          "role": "Moderator"
         }
       ],
       "url": "/agenda/event/-the-new-infrastructure-layer-how-brokerdealers-and-wealth-managers-are-operationalizing-digital-assets-215",
       "active": true,
-      "mdate": "2026-05-01T06:48:17-04:00"
+      "mdate": "2026-05-02T13:29:29-04:00"
     },
     {
       "id": "11F1429D6600544FAE260263DE4AB8DB",
@@ -1289,7 +1301,7 @@
         {
           "name": "Pauline Shangett",
           "company": "ChangeNOW",
-          "title": "CSO",
+          "title": "Chief Strategy Officer",
           "role": "Speaker"
         },
         {
@@ -1766,15 +1778,15 @@
           "role": "Speaker"
         },
         {
-          "name": "Ryan  Rugg",
-          "company": "Citi",
-          "title": "Global Head of Digital Assets, Treasury and Trade Solutions",
-          "role": "Speaker"
-        },
-        {
           "name": "Kara Kennedy",
           "company": "J.P. Morgan",
           "title": "Managing Director, Global Head of Market Development",
+          "role": "Speaker"
+        },
+        {
+          "name": "Ryan  Rugg",
+          "company": "Citi",
+          "title": "Head of Digital Assets, Treasury and Trade Solutions",
           "role": "Speaker"
         },
         {
@@ -1786,7 +1798,7 @@
       ],
       "url": "/agenda/event/-the-rwa-boom-tokenized-assets-institutional-surge-133",
       "active": true,
-      "mdate": "2026-05-01T06:33:28-04:00"
+      "mdate": "2026-05-02T13:26:32-04:00"
     },
     {
       "id": "11F1247368BAF12898D30263DE4AB8DB",
@@ -1995,8 +2007,8 @@
         },
         {
           "name": "Nicola White",
-          "company": "Robinhood",
-          "title": "VP of Crypto Institutions",
+          "company": "General Manager, Bitstamp",
+          "title": "Vice President of Crypto Institutions, Robinhood",
           "role": "Speaker"
         },
         {
@@ -2172,7 +2184,7 @@
         {
           "name": "Britt Cambas",
           "company": "Circle",
-          "title": "Business Development - Global Ecosystem",
+          "title": "Senior Manager",
           "role": "Speaker"
         },
         {
@@ -2184,7 +2196,7 @@
         {
           "name": "Pauline Shangett",
           "company": "ChangeNOW",
-          "title": "CSO",
+          "title": "Chief Strategy Officer",
           "role": "Speaker"
         },
         {
@@ -2525,19 +2537,19 @@
         {
           "name": "Smitha Purohit",
           "company": "PayPal",
-          "title": "Sr Director of Product, Crypto",
+          "title": "Senior Director of Product, Crypto",
           "role": "Speaker"
         },
         {
           "name": "Nicola White",
-          "company": "Robinhood",
-          "title": "VP of Crypto Institutions",
+          "company": "General Manager, Bitstamp",
+          "title": "Vice President of Crypto Institutions, Robinhood",
           "role": "Speaker"
         },
         {
           "name": "Jeff Wilser",
-          "company": "AI Curious and The People's AI Podcast",
-          "title": "Founder/Host",
+          "company": "AI Curious",
+          "title": "Founder & Host",
           "role": "Moderator"
         }
       ],
@@ -2865,19 +2877,19 @@
         {
           "name": "Maja Lapcevic",
           "company": "Mastercard",
-          "title": "SVP, Blockchain & Digital Assets",
+          "title": "Senior Vice President, Blockchain & Digital Assets",
           "role": "Speaker"
         },
         {
           "name": "Alison Mangiero",
           "company": "Crypto Council for Innovation",
-          "title": "Chief Strategy Officer & Head of U.S Policy",
+          "title": "Chief Strategy Officer & Head of U.S. Policy",
           "role": "Speaker"
         },
         {
           "name": "Alexandra Wilkis Wilson",
           "company": "Clerisy",
-          "title": "Co-Founder and Managing Partner",
+          "title": "Co-Founder & Managing Partner",
           "role": "Speaker"
         },
         {
@@ -3081,7 +3093,7 @@
         {
           "name": "Lindsey Dickman",
           "company": "Kantar",
-          "title": "Executive Vice President of Finance",
+          "title": "Executive Vice President, Finance, Health & Auto Industry Partner, NA",
           "role": "Speaker"
         },
         {
@@ -3462,7 +3474,7 @@
         {
           "name": "Rachel Conlan",
           "company": "Binance",
-          "title": "Global Chief Marketing Officer",
+          "title": "Chief Marketing Officer",
           "role": "Speaker"
         },
         {
@@ -3472,7 +3484,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Alexandra  Lang",
+          "name": "Alex  Lang",
           "company": "Early Warning (Zelle)",
           "title": "Vice President, Digital Assets Partnerships & Strategy",
           "role": "Speaker"
@@ -3480,11 +3492,11 @@
         {
           "name": "Ryan  Rugg",
           "company": "Citi",
-          "title": "Global Head of Digital Assets, Treasury and Trade Solutions",
+          "title": "Head of Digital Assets, Treasury and Trade Solutions",
           "role": "Speaker"
         },
         {
-          "name": "Anish Shivdasani",
+          "name": "Dr. Anish Shivdasani",
           "company": "Roland Berger",
           "title": "Head of Digital Assets",
           "role": "Moderator"
@@ -3985,7 +3997,7 @@
         {
           "name": "Ryan  Rugg",
           "company": "Citi",
-          "title": "Global Head of Digital Assets, Treasury and Trade Solutions",
+          "title": "Head of Digital Assets, Treasury and Trade Solutions",
           "role": "Speaker"
         }
       ],
@@ -5630,7 +5642,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Anish Shivdasani",
+          "name": "Dr. Anish Shivdasani",
           "company": "Roland Berger",
           "title": "Head of Digital Assets",
           "role": "Moderator"
@@ -5990,21 +6002,21 @@
           "role": "Speaker"
         },
         {
-          "name": "Stephen Alpher",
-          "company": "CoinDesk",
-          "title": "Managing Editor, Markets",
-          "role": "Moderator"
-        },
-        {
           "name": "Eric Piscini",
           "company": "Hashgraph",
           "title": "Chief Executive Officer",
           "role": "Speaker"
+        },
+        {
+          "name": "Stephen Alpher",
+          "company": "CoinDesk",
+          "title": "Managing Editor, Markets",
+          "role": "Moderator"
         }
       ],
       "url": "/agenda/event/-tokenized-treasuries-commodities-the-25b-yield-engine-44",
       "active": true,
-      "mdate": "2026-05-01T06:31:46-04:00"
+      "mdate": "2026-05-02T13:26:52-04:00"
     },
     {
       "id": "11F118C7A790B16B98D30263DE4AB8DB",
@@ -6395,7 +6407,7 @@
         {
           "name": "Britt Cambas",
           "company": "Circle",
-          "title": "Business Development - Global Ecosystem",
+          "title": "Senior Manager",
           "role": "Speaker"
         }
       ],
@@ -6559,7 +6571,7 @@
     },
     {
       "id": "11F13DB08414E24FAE260263DE4AB8DB",
-      "title": "LOC'ed In: How Anvil and Bullish are forging the Future on payment using onchain letters of credit",
+      "title": "LOC'ed In: How Anvil and Bullish are Forging the Future on Payment Using Onchain Letters of Credit",
       "description_html": null,
       "date": "2026-05-06",
       "day_of_week": "Wed",
@@ -6592,7 +6604,7 @@
       ],
       "url": "/agenda/event/-loced-in-how-anvil-and-bullish-are-forging-the-future-on-payment-using-onchain-letters-of-credit-294",
       "active": true,
-      "mdate": "2026-04-21T14:33:24-04:00"
+      "mdate": "2026-05-02T13:22:26-04:00"
     },
     {
       "id": "11F11B0AB0E27A3F98D30263DE4AB8DB",
@@ -6816,8 +6828,8 @@
       "speakers": [
         {
           "name": "Raoul Pal",
-          "company": "Real Vision/ EXPAAM",
-          "title": "Co-Founder & CEO (RV) , CEO/CIO (EXPAAM)",
+          "company": "CEO & CIO, EXPAAM",
+          "title": "Co-Founder & CEO, Real Vision",
           "role": "Speaker"
         }
       ],
@@ -7083,12 +7095,12 @@
           "name": "Edward Woodford",
           "company": "zerohash",
           "title": "Founder & CEO",
-          "role": "Speaker"
+          "role": "Moderator"
         }
       ],
       "url": "/agenda/event/-old-money-new-assets-102",
       "active": true,
-      "mdate": "2026-04-30T14:54:18-04:00"
+      "mdate": "2026-05-02T13:22:45-04:00"
     },
     {
       "id": "11F13C078AF4BBFAAE260263DE4AB8DB",
@@ -8150,8 +8162,8 @@
       "speakers": [
         {
           "name": "Raoul Pal",
-          "company": "Real Vision/ EXPAAM",
-          "title": "Co-Founder & CEO (RV) , CEO/CIO (EXPAAM)",
+          "company": "CEO & CIO, EXPAAM",
+          "title": "Co-Founder & CEO, Real Vision",
           "role": "Speaker"
         },
         {
@@ -8427,7 +8439,7 @@
         {
           "name": "Rachel Conlan",
           "company": "Binance",
-          "title": "Global Chief Marketing Officer",
+          "title": "Chief Marketing Officer",
           "role": "Speaker"
         },
         {
@@ -9106,8 +9118,8 @@
       "speakers": [
         {
           "name": "Jeff Wilser",
-          "company": "AI Curious and The People's AI Podcast",
-          "title": "Founder/Host",
+          "company": "AI Curious",
+          "title": "Founder & Host",
           "role": "Speaker"
         }
       ],
@@ -9673,21 +9685,21 @@
       ],
       "speakers": [
         {
-          "name": "Cody Carbone",
-          "company": "The Digital Chamber",
-          "title": "CEO",
-          "role": "Speaker"
-        },
-        {
           "name": "Ashley Moody",
           "company": "U.S. Senate",
           "title": "Senator",
           "role": "Speaker"
+        },
+        {
+          "name": "Cody Carbone",
+          "company": "The Digital Chamber",
+          "title": "CEO",
+          "role": "Moderator"
         }
       ],
       "url": "/agenda/event/-the-missing-layer-why-policy-is-the-last-piece-of-cryptos-tech-stack-141",
       "active": true,
-      "mdate": "2026-04-30T14:55:21-04:00"
+      "mdate": "2026-05-02T13:24:40-04:00"
     },
     {
       "id": "11F13DA4DCF40FAEAE260263DE4AB8DB",
@@ -9950,21 +9962,21 @@
           "role": "Speaker"
         },
         {
-          "name": "Gabriele Galli",
-          "company": "Mesh",
-          "title": "SVP of Sales, BD and Partnerships",
-          "role": "Moderator"
-        },
-        {
           "name": "Mark Zalan",
           "company": "GoMining",
           "title": "CEO",
           "role": "Speaker"
+        },
+        {
+          "name": "Gabriele Galli",
+          "company": "Mesh",
+          "title": "SVP of Sales, BD and Partnerships",
+          "role": "Moderator"
         }
       ],
       "url": "/agenda/event/-the-global-payments-pivot-crypto-cards-rewards-beyond-45",
       "active": true,
-      "mdate": "2026-05-01T06:32:03-04:00"
+      "mdate": "2026-05-02T13:27:19-04:00"
     },
     {
       "id": "11F13A9A6985699BAE260263DE4AB8DB",
@@ -9998,11 +10010,17 @@
           "company": "World Liberty Financial",
           "title": "Co-Founder & CEO",
           "role": "Speaker"
+        },
+        {
+          "name": "David Wachsman",
+          "company": "Wachsman",
+          "title": "Founder & CEO",
+          "role": "Moderator"
         }
       ],
       "url": "/agenda/event/-tokenization-and-the-future-of-us-dollar-demand-219",
       "active": true,
-      "mdate": "2026-04-19T13:37:43-04:00"
+      "mdate": "2026-05-02T14:35:22-04:00"
     },
     {
       "id": "11F11BBD061B47B198D30263DE4AB8DB",
@@ -10486,6 +10504,12 @@
       ],
       "speakers": [
         {
+          "name": "Lindsay Fraser",
+          "company": "Blockchain Association",
+          "title": "Chief Policy Officer",
+          "role": "Speaker"
+        },
+        {
           "name": "Gavin Zavatone",
           "company": "DeFi Education Fund",
           "title": "Policy Lead",
@@ -10496,17 +10520,11 @@
           "company": "CoinDesk",
           "title": "Editor",
           "role": "Moderator"
-        },
-        {
-          "name": "Lindsay Fraser",
-          "company": "Blockchain Association",
-          "title": "Chief Policy Officer",
-          "role": "Speaker"
         }
       ],
       "url": "/agenda/event/-the-2026-election-stakes-what-2027-will-bring-172",
       "active": true,
-      "mdate": "2026-05-01T06:46:11-04:00"
+      "mdate": "2026-05-02T13:29:50-04:00"
     },
     {
       "id": "11F118D08DB491F598D30263DE4AB8DB",
@@ -10888,7 +10906,7 @@
         {
           "name": "Caroline D.  Pham",
           "company": "MoonPay",
-          "title": "Chief Legal Officer and Chief Administrative Officer",
+          "title": "Head of MoonPay Institutional | CLO and CAO",
           "role": "Speaker"
         },
         {
@@ -11541,6 +11559,12 @@
       ],
       "speakers": [
         {
+          "name": "Julie Stitzel",
+          "company": "DCG",
+          "title": "Chief Policy Officer",
+          "role": "Speaker"
+        },
+        {
           "name": "Alex Thorn",
           "company": "Galaxy",
           "title": "Head of Firmwide Research",
@@ -11553,12 +11577,6 @@
           "role": "Speaker"
         },
         {
-          "name": "Julie Stitzel",
-          "company": "DCG",
-          "title": "Chief Policy Officer",
-          "role": "Speaker"
-        },
-        {
           "name": "Steve Vallas",
           "company": "Blockchain APAC",
           "title": "CEO",
@@ -11567,7 +11585,7 @@
       ],
       "url": "/agenda/event/-how-tokenization-rules-are-evolvinga-99",
       "active": true,
-      "mdate": "2026-05-01T06:42:39-04:00"
+      "mdate": "2026-05-02T13:30:08-04:00"
     },
     {
       "id": "11F1342AB78F87B7AE260263DE4AB8DB",
@@ -11624,6 +11642,12 @@
       ],
       "speakers": [
         {
+          "name": "Nicolas Cabrera",
+          "company": "Tala",
+          "title": "Chief Product Officer",
+          "role": "Speaker"
+        },
+        {
           "name": "Reeve Collins",
           "company": "Tether, STBL, and WeFi",
           "title": "Co-founder",
@@ -11636,12 +11660,6 @@
           "role": "Speaker"
         },
         {
-          "name": "Nicolas Cabrera",
-          "company": "Tala",
-          "title": "Chief Product Officer",
-          "role": "Speaker"
-        },
-        {
           "name": "Leah Callon Butler",
           "company": "Emfarsis",
           "title": "Director",
@@ -11650,7 +11668,7 @@
       ],
       "url": "/agenda/event/-how-stablecoins-are-rewriting-the-rules-of-money-178",
       "active": true,
-      "mdate": "2026-05-01T06:36:06-04:00"
+      "mdate": "2026-05-02T13:28:14-04:00"
     },
     {
       "id": "11F145C599670CB6AE260263DE4AB8DB",
@@ -11737,7 +11755,7 @@
         {
           "name": "Caroline D.  Pham",
           "company": "MoonPay",
-          "title": "Chief Legal Officer and Chief Administrative Officer",
+          "title": "Head of MoonPay Institutional | CLO and CAO",
           "role": "Speaker"
         }
       ],
@@ -12025,7 +12043,7 @@
         {
           "name": "Pauline Shangett",
           "company": "ChangeNOW",
-          "title": "CSO",
+          "title": "Chief Strategy Officer",
           "role": "Speaker"
         },
         {
