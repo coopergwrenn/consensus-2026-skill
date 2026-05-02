@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-02T21:59:16.524Z",
+    "baked_at": "2026-05-02T23:03:24.153Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
@@ -4906,11 +4906,11 @@
       "session_count": 1,
       "sessions": [
         {
-          "id": "11F132A69792D53CAE260263DE4AB8DB",
-          "title": "Skip the Small Talk: Midnight Builder Exchange Meetup",
-          "date": "2026-05-05",
-          "start_iso": "2026-05-05T13:30:00-04:00",
-          "venue_slug": "meetups-area"
+          "id": "11F1335CD6409A06AE260263DE4AB8DB",
+          "title": "Midnight.City: AI Agents Unleashed",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T16:00:00-04:00",
+          "venue_slug": "spotlight-stage"
         }
       ]
     },
@@ -5536,11 +5536,11 @@
       "session_count": 1,
       "sessions": [
         {
-          "id": "11F132A69792D53CAE260263DE4AB8DB",
-          "title": "Skip the Small Talk: Midnight Builder Exchange Meetup",
-          "date": "2026-05-05",
-          "start_iso": "2026-05-05T13:30:00-04:00",
-          "venue_slug": "meetups-area"
+          "id": "11F1335CD6409A06AE260263DE4AB8DB",
+          "title": "Midnight.City: AI Agents Unleashed",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T16:00:00-04:00",
+          "venue_slug": "spotlight-stage"
         }
       ]
     },

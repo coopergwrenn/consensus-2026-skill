@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-02T21:59:16.524Z",
+    "baked_at": "2026-05-02T23:03:24.153Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -2361,23 +2361,10 @@
       "tags": [
         "Meetups"
       ],
-      "speakers": [
-        {
-          "name": "JJ Siler",
-          "company": "Input Output Group",
-          "title": "VP of Commercial",
-          "role": "Speaker"
-        },
-        {
-          "name": "Gem Ozan",
-          "company": "Midnight.City",
-          "title": "Chief Architect",
-          "role": "Speaker"
-        }
-      ],
+      "speakers": [],
       "url": "/agenda/event/-midnight-meetup-184",
       "active": true,
-      "mdate": "2026-04-29T11:51:47-04:00"
+      "mdate": "2026-05-02T18:42:14-04:00"
     },
     {
       "id": "11F11EEA51EFEBA198D30263DE4AB8DB",
@@ -2695,7 +2682,7 @@
       ],
       "url": "/agenda/event/-fidelity-digital-assets-sponsored-session-1",
       "active": true,
-      "mdate": "2026-04-30T16:04:47-04:00"
+      "mdate": "2026-05-02T18:42:46-04:00"
     },
     {
       "id": "11F11BDD903F785A98D30263DE4AB8DB",
@@ -8059,10 +8046,23 @@
       "venue_color": "#b5e61d",
       "tracks": [],
       "tags": [],
-      "speakers": [],
+      "speakers": [
+        {
+          "name": "Gem Ozan",
+          "company": "Midnight.City",
+          "title": "Chief Architect",
+          "role": "Speaker"
+        },
+        {
+          "name": "JJ Siler",
+          "company": "Input Output Group",
+          "title": "VP of Commercial",
+          "role": "Speaker"
+        }
+      ],
       "url": "/agenda/event/-midnight-sponsored-session-185",
       "active": true,
-      "mdate": "2026-04-30T16:07:28-04:00"
+      "mdate": "2026-05-02T18:41:45-04:00"
     },
     {
       "id": "11F11F22142BF0A898D30263DE4AB8DB",
@@ -9373,7 +9373,7 @@
       ],
       "url": "/agenda/event/-xsolla-spotlight-session-209",
       "active": true,
-      "mdate": "2026-04-30T16:08:22-04:00"
+      "mdate": "2026-05-02T18:04:19-04:00"
     },
     {
       "id": "11F13E47A70237E9AE260263DE4AB8DB",
