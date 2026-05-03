@@ -1,10 +1,10 @@
 {
   "meta": {
-    "baked_at": "2026-05-03T00:01:29.110Z",
+    "baked_at": "2026-05-03T04:11:54.249Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
-    "record_count": 453
+    "record_count": 458
   },
   "records": [
     {
@@ -378,7 +378,7 @@
       ]
     },
     {
-      "name": "Dave  LaValle",
+      "name": "Dave LaValle",
       "company": "CoinDesk Indices & Data",
       "title": "President",
       "session_count": 4,
@@ -884,7 +884,7 @@
       ]
     },
     {
-      "name": "Ryan  Rugg",
+      "name": "Ryan Rugg",
       "company": "Citi",
       "title": "Head of Digital Assets, Treasury and Trade Solutions",
       "session_count": 3,
@@ -1155,7 +1155,7 @@
       ]
     },
     {
-      "name": "Anthony  Pompliano",
+      "name": "Anthony Pompliano",
       "company": "ProCap Financial",
       "title": "Chairman & CEO",
       "session_count": 2,
@@ -1881,7 +1881,7 @@
       ]
     },
     {
-      "name": "Grant  Cardone",
+      "name": "Grant Cardone",
       "company": "Grant Cardone Enterprises",
       "title": "Founder & CEO",
       "session_count": 2,
@@ -1991,7 +1991,7 @@
       ]
     },
     {
-      "name": "Ian  De Bode",
+      "name": "Ian De Bode",
       "company": "Ondo",
       "title": "President",
       "session_count": 2,
@@ -2603,6 +2603,28 @@
           "date": "2026-05-07",
           "start_iso": "2026-05-07T15:30:00-04:00",
           "venue_slug": "coindesk-live-studio"
+        }
+      ]
+    },
+    {
+      "name": "Milton \"Todd\" Ault III",
+      "company": "Ault Capital Group - Ault Blockchain",
+      "title": "Founder",
+      "session_count": 2,
+      "sessions": [
+        {
+          "id": "11F13381975175C5AE260263DE4AB8DB",
+          "title": "Tokenized Commodities and RWA Trading: Building the On-Chain Market for Real Assets",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T15:00:00-04:00",
+          "venue_slug": "spotlight-stage"
+        },
+        {
+          "id": "11F133968A19DB98AE260263DE4AB8DB",
+          "title": "What Gets Traded: Silver, RWAs, and the Market Structure for Tokenized Commodities on Ault Blockchain",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T11:15:00-04:00",
+          "venue_slug": "convergence-stage"
         }
       ]
     },
@@ -3700,21 +3722,6 @@
       ]
     },
     {
-      "name": "Anna  Kazlauskas",
-      "company": "Open Data Labs (creator of Vana)",
-      "title": "Co-Founder and CEO",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F13E46CD54E570AE260263DE4AB8DB",
-          "title": "Your Data, Your AI: Data Portability in Action",
-          "date": "2026-05-07",
-          "start_iso": "2026-05-07T10:00:00-04:00",
-          "venue_slug": "workshop-stage"
-        }
-      ]
-    },
-    {
       "name": "Anna Bertha",
       "company": "DCG",
       "title": "Director | Investments",
@@ -3726,6 +3733,21 @@
           "date": "2026-05-06",
           "start_iso": "2026-05-06T13:50:00-04:00",
           "venue_slug": "convergence-stage"
+        }
+      ]
+    },
+    {
+      "name": "Anna Kazlauskas",
+      "company": "Open Data Labs (creator of Vana)",
+      "title": "Co-Founder and CEO",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F13E46CD54E570AE260263DE4AB8DB",
+          "title": "Your Data, Your AI: Data Portability in Action",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T10:00:00-04:00",
+          "venue_slug": "workshop-stage"
         }
       ]
     },
@@ -3850,7 +3872,7 @@
       ]
     },
     {
-      "name": "Ben  Fielding",
+      "name": "Ben Fielding",
       "company": "Gensyn",
       "title": "CEO and Co Founder",
       "session_count": 1,
@@ -4990,6 +5012,21 @@
       ]
     },
     {
+      "name": "Gregory Johnson",
+      "company": "Rubicon Crypto",
+      "title": "CEO",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F13211E9BECA42AE260263DE4AB8DB",
+          "title": "Grant Thornton Advisors Spotlight Session: How regulatory developments impact institutional integration of stablecoins into payments and finance infrastructure.",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T10:00:00-04:00",
+          "venue_slug": "spotlight-stage"
+        }
+      ]
+    },
+    {
       "name": "Griffin Sears",
       "company": "FalconX",
       "title": "Head of Derivatives",
@@ -6100,7 +6137,7 @@
       ]
     },
     {
-      "name": "Lucas  Bruder",
+      "name": "Lucas Bruder",
       "company": "Jito Labs",
       "title": "Co-Founder & CEO",
       "session_count": 1,
@@ -6201,6 +6238,21 @@
           "date": "2026-05-07",
           "start_iso": "2026-05-07T13:20:00-04:00",
           "venue_slug": "convergence-stage"
+        }
+      ]
+    },
+    {
+      "name": "Markus Veith",
+      "company": "Grant Thornton",
+      "title": "Partner",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F13211E9BECA42AE260263DE4AB8DB",
+          "title": "Grant Thornton Advisors Spotlight Session: How regulatory developments impact institutional integration of stablecoins into payments and finance infrastructure.",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T10:00:00-04:00",
+          "venue_slug": "spotlight-stage"
         }
       ]
     },
@@ -6415,21 +6467,6 @@
       ]
     },
     {
-      "name": "Michael  Shaulov",
-      "company": "Fireblocks",
-      "title": "CEO & Co-Founder",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F1174850A6BA7098D30263DE4AB8DB",
-          "title": "Stablecoins Go Global: Payments, Regulation, & the Fight for Fiat Rails",
-          "date": "2026-05-06",
-          "start_iso": "2026-05-06T10:45:00-04:00",
-          "venue_slug": "convergence-stage"
-        }
-      ]
-    },
-    {
       "name": "Michael Anderson",
       "company": "Canary Labs",
       "title": "",
@@ -6516,6 +6553,21 @@
           "date": "2026-05-05",
           "start_iso": "2026-05-05T16:10:00-04:00",
           "venue_slug": "mainstage"
+        }
+      ]
+    },
+    {
+      "name": "Michael Shaulov",
+      "company": "Fireblocks",
+      "title": "CEO & Co-Founder",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F1174850A6BA7098D30263DE4AB8DB",
+          "title": "Stablecoins Go Global: Payments, Regulation, & the Fight for Fiat Rails",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T10:45:00-04:00",
+          "venue_slug": "convergence-stage"
         }
       ]
     },
@@ -7075,6 +7127,21 @@
       ]
     },
     {
+      "name": "Peter Smith",
+      "company": "Blockchain.com",
+      "title": "Co-Founder/CEO",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F13211E9BECA42AE260263DE4AB8DB",
+          "title": "Grant Thornton Advisors Spotlight Session: How regulatory developments impact institutional integration of stablecoins into payments and finance infrastructure.",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T10:00:00-04:00",
+          "venue_slug": "spotlight-stage"
+        }
+      ]
+    },
+    {
       "name": "Porter Stowell",
       "company": "W3.io",
       "title": "CEO",
@@ -7225,7 +7292,7 @@
       ]
     },
     {
-      "name": "Richard  Harrison",
+      "name": "Richard Harrison",
       "company": "MoonPay",
       "title": "VP, Banking and Payment Partnerships",
       "session_count": 1,
@@ -7896,6 +7963,21 @@
           "date": "2026-05-07",
           "start_iso": "2026-05-07T16:30:00-04:00",
           "venue_slug": "frontier-stage"
+        }
+      ]
+    },
+    {
+      "name": "Todd Stevens",
+      "company": "Figure",
+      "title": "Chief Capital Officer",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F13211E9BECA42AE260263DE4AB8DB",
+          "title": "Grant Thornton Advisors Spotlight Session: How regulatory developments impact institutional integration of stablecoins into payments and finance infrastructure.",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T10:00:00-04:00",
+          "venue_slug": "spotlight-stage"
         }
       ]
     },

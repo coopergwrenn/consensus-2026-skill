@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-03T00:01:29.110Z",
+    "baked_at": "2026-05-03T04:11:54.249Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -327,7 +327,7 @@
       ],
       "speakers": [
         {
-          "name": "Lucas  Bruder",
+          "name": "Lucas Bruder",
           "company": "Jito Labs",
           "title": "Co-Founder & CEO",
           "role": "Speaker"
@@ -1784,7 +1784,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Ryan  Rugg",
+          "name": "Ryan Rugg",
           "company": "Citi",
           "title": "Head of Digital Assets, Treasury and Trade Solutions",
           "role": "Speaker"
@@ -1930,7 +1930,7 @@
       "tags": [],
       "speakers": [
         {
-          "name": "Anthony  Pompliano",
+          "name": "Anthony Pompliano",
           "company": "ProCap Financial",
           "title": "Chairman & CEO",
           "role": "Speaker"
@@ -2000,7 +2000,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Ian  De Bode",
+          "name": "Ian De Bode",
           "company": "Ondo",
           "title": "President",
           "role": "Speaker"
@@ -2445,7 +2445,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Dave  LaValle",
+          "name": "Dave LaValle",
           "company": "CoinDesk Indices & Data",
           "title": "President",
           "role": "Moderator"
@@ -2744,7 +2744,7 @@
       ],
       "speakers": [
         {
-          "name": "Anthony  Pompliano",
+          "name": "Anthony Pompliano",
           "company": "ProCap Financial",
           "title": "Chairman & CEO",
           "role": "Speaker"
@@ -2830,7 +2830,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Dave  LaValle",
+          "name": "Dave LaValle",
           "company": "CoinDesk Indices & Data",
           "title": "President",
           "role": "Moderator"
@@ -3477,7 +3477,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Ryan  Rugg",
+          "name": "Ryan Rugg",
           "company": "Citi",
           "title": "Head of Digital Assets, Treasury and Trade Solutions",
           "role": "Speaker"
@@ -3882,7 +3882,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Dave  LaValle",
+          "name": "Dave LaValle",
           "company": "CoinDesk Indices & Data",
           "title": "President",
           "role": "Moderator"
@@ -3982,7 +3982,7 @@
           "role": "Moderator (Sponsor)"
         },
         {
-          "name": "Ryan  Rugg",
+          "name": "Ryan Rugg",
           "company": "Citi",
           "title": "Head of Digital Assets, Treasury and Trade Solutions",
           "role": "Speaker"
@@ -4713,10 +4713,35 @@
       "venue_color": "#b5e61d",
       "tracks": [],
       "tags": [],
-      "speakers": [],
+      "speakers": [
+        {
+          "name": "Markus Veith",
+          "company": "Grant Thornton",
+          "title": "Partner",
+          "role": "Speaker"
+        },
+        {
+          "name": "Peter Smith",
+          "company": "Blockchain.com",
+          "title": "Co-Founder/CEO",
+          "role": "Speaker"
+        },
+        {
+          "name": "Gregory Johnson",
+          "company": "Rubicon Crypto",
+          "title": "CEO",
+          "role": "Speaker"
+        },
+        {
+          "name": "Todd Stevens",
+          "company": "Figure",
+          "title": "Chief Capital Officer",
+          "role": "Speaker"
+        }
+      ],
       "url": "/agenda/event/-grant-tornton-advisors-spotlight-session-182",
       "active": true,
-      "mdate": "2026-04-30T16:07:16-04:00"
+      "mdate": "2026-05-02T20:30:48-04:00"
     },
     {
       "id": "11F1426E10000549AE260263DE4AB8DB",
@@ -5163,7 +5188,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Michael  Shaulov",
+          "name": "Michael Shaulov",
           "company": "Fireblocks",
           "title": "CEO & Co-Founder",
           "role": "Speaker"
@@ -5883,7 +5908,7 @@
       "tags": [],
       "speakers": [
         {
-          "name": "Ian  De Bode",
+          "name": "Ian De Bode",
           "company": "Ondo",
           "title": "President",
           "role": "Speaker"
@@ -6961,7 +6986,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Dave  LaValle",
+          "name": "Dave LaValle",
           "company": "CoinDesk Indices & Data",
           "title": "President",
           "role": "Moderator"
@@ -7470,10 +7495,17 @@
       "venue_color": "#b5e61d",
       "tracks": [],
       "tags": [],
-      "speakers": [],
+      "speakers": [
+        {
+          "name": "Milton \"Todd\" Ault III",
+          "company": "Ault Capital Group - Ault Blockchain",
+          "title": "Founder",
+          "role": "Speaker"
+        }
+      ],
       "url": "/agenda/event/-ault-blockchain-spotlight-session-188",
       "active": true,
-      "mdate": "2026-04-30T16:07:40-04:00"
+      "mdate": "2026-05-02T20:27:26-04:00"
     },
     {
       "id": "11F12859F15665D198D30263DE4AB8DB",
@@ -7956,7 +7988,7 @@
       ],
       "speakers": [
         {
-          "name": "Grant  Cardone",
+          "name": "Grant Cardone",
           "company": "Grant Cardone Enterprises",
           "title": "Founder & CEO",
           "role": "Speaker"
@@ -8378,7 +8410,7 @@
       "tags": [],
       "speakers": [
         {
-          "name": "Grant  Cardone",
+          "name": "Grant Cardone",
           "company": "Grant Cardone Enterprises",
           "title": "Founder & CEO",
           "role": "Speaker"
@@ -8858,7 +8890,7 @@
       ],
       "speakers": [
         {
-          "name": "Anna  Kazlauskas",
+          "name": "Anna Kazlauskas",
           "company": "Open Data Labs (creator of Vana)",
           "title": "Co-Founder and CEO",
           "role": "Speaker"
@@ -9425,10 +9457,17 @@
         "DeFi & Trading"
       ],
       "tags": [],
-      "speakers": [],
+      "speakers": [
+        {
+          "name": "Milton \"Todd\" Ault III",
+          "company": "Ault Capital Group - Ault Blockchain",
+          "title": "Founder",
+          "role": "Speaker"
+        }
+      ],
       "url": "/agenda/event/-ault-defi-trading-track-session-189",
       "active": true,
-      "mdate": "2026-05-01T06:36:23-04:00"
+      "mdate": "2026-05-02T20:28:11-04:00"
     },
     {
       "id": "11F13E47D229B6F8AE260263DE4AB8DB",
@@ -9591,7 +9630,7 @@
       ],
       "speakers": [
         {
-          "name": "Richard  Harrison",
+          "name": "Richard Harrison",
           "company": "MoonPay",
           "title": "VP, Banking and Payment Partnerships",
           "role": "Speaker"
@@ -9792,7 +9831,7 @@
       ],
       "speakers": [
         {
-          "name": "Ben  Fielding",
+          "name": "Ben Fielding",
           "company": "Gensyn",
           "title": "CEO and Co Founder",
           "role": "Speaker"

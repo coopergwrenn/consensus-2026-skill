@@ -1,11 +1,11 @@
 {
   "meta": {
-    "baked_at": "2026-05-03T00:01:27.388Z",
+    "baked_at": "2026-05-03T04:11:51.942Z",
     "schema_version": 1,
     "source_url": "https://docs.google.com/spreadsheets/d/1xWmIHyEyOmPHfkYuZkucPRlLGWbb9CF6Oqvfl8FUV6k/gviz/tq?tqx=out:json&sheet=Consensus%20Miami%202026",
     "source_label": "plan.wtf — Consensus Miami 2026 (Google Sheets gviz)",
-    "record_count": 219,
-    "notes": "225 raw rows from gviz, 6 filtered (header/ad/out-of-window/unnamed), 219 retained."
+    "record_count": 228,
+    "notes": "234 raw rows from gviz, 6 filtered (header/ad/out-of-window/unnamed), 228 retained."
   },
   "records": [
     {
@@ -842,6 +842,31 @@
       "source": "planwtf"
     },
     {
+      "id": "a2706d7ebd684081",
+      "date": "2026-05-04",
+      "day_of_week": "Mon",
+      "start_time": "17:30",
+      "end_time": "20:30",
+      "start_iso": "2026-05-04T17:30:00-04:00",
+      "end_iso": "2026-05-04T20:30:00-04:00",
+      "organizer": "Bojana I",
+      "name": "Lucid Drakes - Miami Sunset Table",
+      "address": null,
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Party",
+        "Networking",
+        "VCs/Angels",
+        "SOL"
+      ],
+      "link": "https://luma.com/sdp0hhjx",
+      "has_food": true,
+      "has_bar": true,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
       "id": "7e5e6e87d9b5058d",
       "date": "2026-05-04",
       "day_of_week": "Mon",
@@ -1506,6 +1531,30 @@
       "source": "planwtf"
     },
     {
+      "id": "9ef837d6c3e08a01",
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_time": "09:00",
+      "end_time": "11:30",
+      "start_iso": "2026-05-05T09:00:00-04:00",
+      "end_iso": "2026-05-05T11:30:00-04:00",
+      "organizer": "Dustin Kamali",
+      "name": "Meow Breakfast Bash: Miami",
+      "address": "1 Hotel South Beach, 2341 Collins Ave, Miami Beach, FL 33139, USA",
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Brunch",
+        "Networking",
+        "VCs/Angels"
+      ],
+      "link": "https://luma.com/szl0pg26",
+      "has_food": true,
+      "has_bar": false,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
       "id": "c4b60147962bda0d",
       "date": "2026-05-05",
       "day_of_week": "Tue",
@@ -1831,6 +1880,31 @@
       "link": "https://luma.com/POCinMiami",
       "has_food": false,
       "has_bar": false,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
+      "id": "5ea9d5d3b177bfa1",
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_time": "16:30",
+      "end_time": "19:00",
+      "start_iso": "2026-05-05T16:30:00-04:00",
+      "end_iso": "2026-05-05T19:00:00-04:00",
+      "organizer": "Cupojoseph",
+      "name": "Crypto Congress - Miami 2026",
+      "address": null,
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Party",
+        "Networking",
+        "VCs/Angels",
+        "DeFi"
+      ],
+      "link": "https://luma.com/h1beojq3",
+      "has_food": false,
+      "has_bar": true,
       "note": null,
       "source": "planwtf"
     },
@@ -3403,6 +3477,32 @@
       "source": "planwtf"
     },
     {
+      "id": "57c1bd214971e4a9",
+      "date": "2026-05-06",
+      "day_of_week": "Wed",
+      "start_time": "11:00",
+      "end_time": "14:00",
+      "start_iso": "2026-05-06T11:00:00-04:00",
+      "end_iso": "2026-05-06T14:00:00-04:00",
+      "organizer": "Kraken",
+      "name": "Finance Onchain Brunch with Payward Services, Kraken & xStocks @ Consensus Miami",
+      "address": "The Grove Miami Beach, 2201 Collins Ave, Miami Beach, FL 33139, USA",
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Brunch",
+        "Networking",
+        "VCs/Angels",
+        "DeFi",
+        "ETH"
+      ],
+      "link": "https://luma.com/pwsbrunch",
+      "has_food": true,
+      "has_bar": true,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
       "id": "62072bf8feed0227",
       "date": "2026-05-06",
       "day_of_week": "Wed",
@@ -4084,6 +4184,32 @@
       "source": "planwtf"
     },
     {
+      "id": "b5947925c0134b07",
+      "date": "2026-05-06",
+      "day_of_week": "Wed",
+      "start_time": "18:00",
+      "end_time": "20:30",
+      "start_iso": "2026-05-06T18:00:00-04:00",
+      "end_iso": "2026-05-06T20:30:00-04:00",
+      "organizer": "Abhay Singh",
+      "name": "AI Agents x Perps: Private Alpha Room (Miami)",
+      "address": null,
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Panel/Talk",
+        "Networking",
+        "Devs/Builders",
+        "AI",
+        "DeFi"
+      ],
+      "link": "https://luma.com/kdxh0yfj",
+      "has_food": true,
+      "has_bar": true,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
       "id": "12c5bdd2551c4b6c",
       "date": "2026-05-06",
       "day_of_week": "Wed",
@@ -4129,6 +4255,32 @@
       "link": "https://luma.com/depin-miami",
       "has_food": false,
       "has_bar": true,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
+      "id": "d1768b450bbf4585",
+      "date": "2026-05-06",
+      "day_of_week": "Wed",
+      "start_time": "18:00",
+      "end_time": "21:00",
+      "start_iso": "2026-05-06T18:00:00-04:00",
+      "end_iso": "2026-05-06T21:00:00-04:00",
+      "organizer": "Dustin Kamali",
+      "name": "Exclusive Founder's Dinner",
+      "address": null,
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Dinner",
+        "Networking",
+        "Devs/Builders",
+        "DeFi",
+        "SOL"
+      ],
+      "link": "https://luma.com/1nwyl784",
+      "has_food": true,
+      "has_bar": false,
       "note": null,
       "source": "planwtf"
     },
@@ -4515,6 +4667,32 @@
       "source": "planwtf"
     },
     {
+      "id": "501f4cd2bff1841f",
+      "date": "2026-05-06",
+      "day_of_week": "Wed",
+      "start_time": "19:00",
+      "end_time": "22:00",
+      "start_iso": "2026-05-06T19:00:00-04:00",
+      "end_iso": "2026-05-06T22:00:00-04:00",
+      "organizer": "Isaac Warburton",
+      "name": "Private Investor Dinner",
+      "address": "Soho Beach House, 4385 Collins Ave, Miami Beach, FL 33140, USA",
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Dinner",
+        "Networking",
+        "VCs/Angels",
+        "DeFi",
+        "DAOs"
+      ],
+      "link": "https://luma.com/logos-miami-dinner",
+      "has_food": true,
+      "has_bar": false,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
       "id": "2ad7cba0e5735ae0",
       "date": "2026-05-06",
       "day_of_week": "Wed",
@@ -4615,6 +4793,32 @@
         "NFTs"
       ],
       "link": "https://luma.com/hj6odrmb",
+      "has_food": true,
+      "has_bar": false,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
+      "id": "7ab6e3567ab5553d",
+      "date": "2026-05-06",
+      "day_of_week": "Wed",
+      "start_time": "19:30",
+      "end_time": "21:30",
+      "start_iso": "2026-05-06T19:30:00-04:00",
+      "end_iso": "2026-05-06T21:30:00-04:00",
+      "organizer": "Tom Cares",
+      "name": "The Deep Tech & Sovereign Infra Salon (Consensus Off-Grid)",
+      "address": null,
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Dinner",
+        "Networking",
+        "VCs/Angels",
+        "AI",
+        "DeFi"
+      ],
+      "link": "https://luma.com/3m9h82an",
       "has_food": true,
       "has_bar": false,
       "note": null,
@@ -5028,6 +5232,31 @@
       "link": "https://luma.com/w1nkdm1w",
       "has_food": false,
       "has_bar": false,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
+      "id": "7aa8528ae0187520",
+      "date": "2026-05-07",
+      "day_of_week": "Thu",
+      "start_time": "12:00",
+      "end_time": "17:00",
+      "start_iso": "2026-05-07T12:00:00-04:00",
+      "end_iso": "2026-05-07T17:00:00-04:00",
+      "organizer": "Kristina",
+      "name": "Obsidian Dock Yacht Lunch And Cocktails",
+      "address": null,
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Party",
+        "Networking",
+        "VCs/Angels",
+        "DeFi"
+      ],
+      "link": "https://luma.com/kevhphqr",
+      "has_food": false,
+      "has_bar": true,
       "note": null,
       "source": "planwtf"
     },
