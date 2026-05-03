@@ -1,11 +1,11 @@
 {
   "meta": {
-    "baked_at": "2026-05-03T16:01:23.194Z",
+    "baked_at": "2026-05-03T17:08:34.409Z",
     "schema_version": 1,
     "source_url": "https://docs.google.com/spreadsheets/d/1xWmIHyEyOmPHfkYuZkucPRlLGWbb9CF6Oqvfl8FUV6k/gviz/tq?tqx=out:json&sheet=Consensus%20Miami%202026",
     "source_label": "plan.wtf — Consensus Miami 2026 (Google Sheets gviz)",
-    "record_count": 228,
-    "notes": "234 raw rows from gviz, 6 filtered (header/ad/out-of-window/unnamed), 228 retained."
+    "record_count": 229,
+    "notes": "235 raw rows from gviz, 6 filtered (header/ad/out-of-window/unnamed), 229 retained."
   },
   "records": [
     {
@@ -3366,6 +3366,29 @@
       ],
       "link": "https://luma.com/InnovateMiami2026",
       "has_food": true,
+      "has_bar": false,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
+      "id": "93d6d4d3cab942d9",
+      "date": "2026-05-06",
+      "day_of_week": "Wed",
+      "start_time": "10:00",
+      "end_time": "13:00",
+      "start_iso": "2026-05-06T10:00:00-04:00",
+      "end_iso": "2026-05-06T13:00:00-04:00",
+      "organizer": "Team1",
+      "name": "Consensus Pickleball Social 🌴🏓",
+      "address": "Miami, FL",
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Wellness",
+        "DeFi"
+      ],
+      "link": "https://luma.com/lli4lox4?tk=tD2qKB",
+      "has_food": false,
       "has_bar": false,
       "note": null,
       "source": "planwtf"
