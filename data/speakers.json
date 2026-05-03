@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-03T18:04:07.526Z",
+    "baked_at": "2026-05-03T19:19:04.178Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
@@ -6167,6 +6167,21 @@
       ]
     },
     {
+      "name": "Luigi D'Onorio DeMeo",
+      "company": "Aave Labs",
+      "title": "Chief Strategy & Business Officer",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F135182C3ED7DCAE260263DE4AB8DB",
+          "title": "Fireside Aave Labs",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T15:00:00-04:00",
+          "venue_slug": "mainstage"
+        }
+      ]
+    },
+    {
       "name": "Luis Rincon",
       "company": "Messari",
       "title": "VP, Research Operations",
@@ -7682,21 +7697,6 @@
       ]
     },
     {
-      "name": "Stani Kulechov",
-      "company": "Aave Labs",
-      "title": "Founder & CEO",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F135182C3ED7DCAE260263DE4AB8DB",
-          "title": "Fireside with Stani Kulechov, Aave Labs",
-          "date": "2026-05-07",
-          "start_iso": "2026-05-07T15:00:00-04:00",
-          "venue_slug": "mainstage"
-        }
-      ]
-    },
-    {
       "name": "Stephanie Chan",
       "company": "Wyoming Stable Token Commission",
       "title": "Senior Business Project Management Analyst",
@@ -7854,7 +7854,7 @@
       "sessions": [
         {
           "id": "11F135182C3ED7DCAE260263DE4AB8DB",
-          "title": "Fireside with Stani Kulechov, Aave Labs",
+          "title": "Fireside Aave Labs",
           "date": "2026-05-07",
           "start_iso": "2026-05-07T15:00:00-04:00",
           "venue_slug": "mainstage"
