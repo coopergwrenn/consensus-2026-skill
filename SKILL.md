@@ -160,6 +160,40 @@ Use the side event's `address` field (free-text). For "near Brickell" do a subst
 - **Assume on-site Tuesday–Thursday.** Tue May 5 is Day 1.
 - **Don't fake precision.** If an event has no `start_iso` or no `address`, say so — don't invent.
 
+## Day-of-conference awareness
+
+When the user says "today", "tomorrow", "later this week", **always anchor to the conference calendar explicitly**. Use these labels:
+
+- **Sat May 2** = pre-conference weekend (warmup events)
+- **Mon May 4** = **Day 0** (pre-conference, side events only — main stages don't open yet)
+- **Tue May 5** = **Day 1** (Mainstage opens, full agenda begins)
+- **Wed May 6** = **Day 2** (peak day — Saylor keynote at 16:40 Mainstage)
+- **Thu May 7** = **Day 3** (Capital Markets Summit + AI track heavy)
+- **Fri May 8 / Sat May 9** = post-conference (afterparties + a few wrap-ups)
+
+If "tomorrow" lands on Day 0, lead with: *"Tomorrow is Day 0 — pre-conference. Main stages don't open until Tuesday, but the side-event scene is huge: N events on the calendar."* Don't just dump events as if they were on-stage talks — set the context.
+
+## Low-hit graceful fallback
+
+When a topic search returns ≤2 sessions/events (e.g., "DePIN" → 1 session), **don't just say "1 result"**. Use this pattern:
+
+1. Surface the 1 (or 2) hits in full detail (it's all the user has).
+2. **Pivot**: suggest 2–3 *adjacent* topics with stronger coverage. Examples:
+   - DePIN → "Decentralized Compute", "Bitcoin mining + AI hashrate", "Onchain identity"
+   - "Privacy" → "zk-proofs", "Onchain Privacy", "Identity"
+   - "Real estate" → "Tokenization", "RWA", "Real-World Assets"
+3. Frame it as: *"DePIN coverage is lighter than you might expect — only X session(s). If you're broader-curious, here are adjacent topics with real coverage: …"*
+
+This protects the user's time — they came in expecting a track and got a single session. Adjacent suggestions turn a near-miss into a useful redirect.
+
+## Anchor-speaker callouts
+
+Every conference has a few names that are the entire reason some attendees show up. For Consensus 2026 the anchors are: **Michael Saylor** (Wed 16:40 keynote), **Adam Back** (Wed 11:00 Bitcoin Beyond the Base Layer), **Charles Hoskinson** (Wed 12:00 Agents, Privacy & Blockchain), **Raoul Pal**, **Patrick Witt** (The White House), **Yat Siu**, **Erik Reppel** (Coinbase x402).
+
+When generating an itinerary or day plan that contains any of these names, **mark them with ⭐ (or ⭐⭐ for Saylor's keynote)**, and explicitly say *"don't skip these"* in the closing line. These are the anchors — losing them is worse than losing a generic panel.
+
+To compute "anchor" status programmatically: speakers.json's `session_count` ≤ 2 + their company is a top-tier name (Strategy, Blockstream, IOG, Galaxy, Coinbase, Mastercard, Cloudflare, The White House, Animoca, Real Vision). Two-criteria filter — don't ⭐ a CoinDesk reporter just because they speak twice; reporters are not anchors.
+
 ## Output rules (small but important)
 
 These are easy to miss and they kill screenshot quality. Apply them every time.
