@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-03T10:16:38.843Z",
+    "baked_at": "2026-05-03T11:09:46.459Z",
     "schema_version": 1,
     "source_url": "https://docs.google.com/spreadsheets/d/1xWmIHyEyOmPHfkYuZkucPRlLGWbb9CF6Oqvfl8FUV6k/gviz/tq?tqx=out:json&sheet=Consensus%20Miami%202026",
     "source_label": "plan.wtf — Consensus Miami 2026 (Google Sheets gviz)",
@@ -449,6 +449,34 @@
       "source": "planwtf"
     },
     {
+      "id": "5e6a5b8a8a3a3063",
+      "date": "2026-05-04",
+      "day_of_week": "Mon",
+      "start_time": "12:00",
+      "end_time": "19:30",
+      "start_iso": "2026-05-04T12:00:00-04:00",
+      "end_iso": "2026-05-04T19:30:00-04:00",
+      "organizer": "Lalla",
+      "name": "Agentic Day Miami: The AI Infrastructure Economy",
+      "address": "Tesla Miami Design District, 4039 NE 1st Ave, Miami, FL 33137, USA",
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Conference",
+        "Panel/Talk",
+        "Brunch",
+        "Networking",
+        "Devs/Builders",
+        "VCs/Angels",
+        "AI"
+      ],
+      "link": "https://luma.com/21ejzr4u",
+      "has_food": true,
+      "has_bar": true,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
       "id": "e81d06189bd568ff",
       "date": "2026-05-04",
       "day_of_week": "Mon",
@@ -528,34 +556,6 @@
       "source": "planwtf"
     },
     {
-      "id": "0dd6d1214ba82aeb",
-      "date": "2026-05-04",
-      "day_of_week": "Mon",
-      "start_time": "13:00",
-      "end_time": "19:30",
-      "start_iso": "2026-05-04T13:00:00-04:00",
-      "end_iso": "2026-05-04T19:30:00-04:00",
-      "organizer": "Lalla",
-      "name": "Agentic Day Miami: The AI Infrastructure Economy",
-      "address": "Tesla Miami Design District, 4039 NE 1st Ave, Miami, FL 33137, USA",
-      "cost": "Free",
-      "is_free": true,
-      "tags": [
-        "Conference",
-        "Panel/Talk",
-        "Brunch",
-        "Networking",
-        "Devs/Builders",
-        "VCs/Angels",
-        "AI"
-      ],
-      "link": "https://luma.com/21ejzr4u",
-      "has_food": true,
-      "has_bar": true,
-      "note": null,
-      "source": "planwtf"
-    },
-    {
       "id": "d25715c61829fd76",
       "date": "2026-05-04",
       "day_of_week": "Mon",
@@ -565,7 +565,7 @@
       "end_iso": "2026-05-04T18:00:00-04:00",
       "organizer": "MonkeDAO Global",
       "name": "MonkeFoundry x Solana Demo Day",
-      "address": "The LAB Miami 2750 NW 3rd Ave #24, Miami, FL 33127, USA",
+      "address": "The LAB Miami, 2750 NW 3rd Ave #24, Miami, FL 33127, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -582,7 +582,7 @@
       "source": "planwtf"
     },
     {
-      "id": "5aacc9f3f2afc731",
+      "id": "38213377fad3258a",
       "date": "2026-05-04",
       "day_of_week": "Mon",
       "start_time": "14:00",
@@ -590,7 +590,7 @@
       "start_iso": "2026-05-04T14:00:00-04:00",
       "end_iso": "2026-05-04T20:30:00-04:00",
       "organizer": "CryptoMondays Fort Lauderdale",
-      "name": "May the 4th Be With You: Official Consensus Opening Event",
+      "name": "“May the 4th Be With You\" An Official Consensus Opening Event",
       "address": null,
       "cost": "Free",
       "is_free": true,
@@ -619,7 +619,7 @@
       "end_iso": "2026-05-04T19:30:00-04:00",
       "organizer": "Lagrange Events",
       "name": "House of AI (by Lagrange & 0G) | Consensus Miami",
-      "address": "Marriott Miami Biscayne Bay 1633 N Bayshore Dr, Miami, FL 33132, USA",
+      "address": "Marriott Miami Biscayne Bay, 1633 N Bayshore Dr, Miami, FL 33132, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -714,7 +714,7 @@
       "source": "planwtf"
     },
     {
-      "id": "0105e0a64474b3db",
+      "id": "f8a73ef6df3d7829",
       "date": "2026-05-04",
       "day_of_week": "Mon",
       "start_time": "16:00",
@@ -722,7 +722,7 @@
       "start_iso": "2026-05-04T16:00:00-04:00",
       "end_iso": "2026-05-04T18:00:00-04:00",
       "organizer": "Miden Events",
-      "name": "The Privacy Salon — Consensus Miami",
+      "name": "The Privacy Salon | Consensus Miami (Invite Only)",
       "address": null,
       "cost": "Free",
       "is_free": true,
@@ -740,7 +740,7 @@
       "source": "planwtf"
     },
     {
-      "id": "358e6772d1cee6d4",
+      "id": "70153525c868f60b",
       "date": "2026-05-04",
       "day_of_week": "Mon",
       "start_time": "17:00",
@@ -748,7 +748,7 @@
       "start_iso": "2026-05-04T17:00:00-04:00",
       "end_iso": "2026-05-04T23:00:00-04:00",
       "organizer": "Eric Spivak",
-      "name": "🌴🍹☀️🌊  New Friendship Tech x Blockster Media Mixer",
+      "name": "New Friendship Tech Miami",
       "address": null,
       "cost": "Free",
       "is_free": true,
