@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-03T11:09:46.459Z",
+    "baked_at": "2026-05-03T11:58:07.209Z",
     "schema_version": 1,
     "source_url": "https://docs.google.com/spreadsheets/d/1xWmIHyEyOmPHfkYuZkucPRlLGWbb9CF6Oqvfl8FUV6k/gviz/tq?tqx=out:json&sheet=Consensus%20Miami%202026",
     "source_label": "plan.wtf — Consensus Miami 2026 (Google Sheets gviz)",
@@ -968,7 +968,7 @@
       "source": "planwtf"
     },
     {
-      "id": "dbba8747dc631800",
+      "id": "132eff7bf4f2a9fe",
       "date": "2026-05-04",
       "day_of_week": "Mon",
       "start_time": "18:00",
@@ -976,7 +976,7 @@
       "start_iso": "2026-05-04T18:00:00-04:00",
       "end_iso": "2026-05-04T21:00:00-04:00",
       "organizer": "Plume Network",
-      "name": "Plume Institutional Dinner | Consensus Miami",
+      "name": "Plume & WisdomTree Institutional Dinner | Consensus Miami",
       "address": null,
       "cost": "Free",
       "is_free": true,
@@ -1003,7 +1003,7 @@
       "end_iso": "2026-05-04T22:00:00-04:00",
       "organizer": "Thibaut Gravelle-Vivien",
       "name": "The Legal & Compliance Cocktail Club - Consensus Miami - Hosted by Duane Morris and Merkle Science",
-      "address": "Cactus Club Cafe 201 S Biscayne Blvd, Miami, FL 33131, USA",
+      "address": "Cactus Club Cafe, 201 S Biscayne Blvd, Miami, FL 33131, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -1029,7 +1029,7 @@
       "end_iso": "2026-05-04T21:30:00-04:00",
       "organizer": "Kraken Events",
       "name": "Founders Night @ Mila Lounge",
-      "address": "MILA 1636 Meridian Ave Rooftop, Miami Beach, FL 33139, USA",
+      "address": "MILA, 1636 Meridian Ave Rooftop, Miami Beach, FL 33139, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -1044,7 +1044,7 @@
       "source": "planwtf"
     },
     {
-      "id": "f9d774425b251b80",
+      "id": "8d4fcd753edcd33b",
       "date": "2026-05-04",
       "day_of_week": "Mon",
       "start_time": "19:00",
@@ -1052,8 +1052,8 @@
       "start_iso": "2026-05-04T19:00:00-04:00",
       "end_iso": "2026-05-04T22:00:00-04:00",
       "organizer": "Blockchain.com",
-      "name": "Blockchain: Sunshine Autos",
-      "address": "Dante's HiFi 519 NW 26th St, Miami, FL 33127, USA",
+      "name": "Blockchain.com: Sunshine Autos",
+      "address": "Dante's HiFi, 519 NW 26th St, Miami, FL 33127, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -1096,6 +1096,32 @@
       "source": "planwtf"
     },
     {
+      "id": "a7116b6cede4fde7",
+      "date": "2026-05-04",
+      "day_of_week": "Mon",
+      "start_time": "19:00",
+      "end_time": "23:00",
+      "start_iso": "2026-05-04T19:00:00-04:00",
+      "end_iso": "2026-05-04T23:00:00-04:00",
+      "organizer": "The Best Event",
+      "name": "Exclusive TBV Deal Room & Demo Day (feat. Hashlock)",
+      "address": null,
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Panel/Talk",
+        "Networking",
+        "Devs/Builders",
+        "VCs/Angels",
+        "SOL"
+      ],
+      "link": "https://luma.com/TBVDEALROOM-MIAMI",
+      "has_food": false,
+      "has_bar": true,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
       "id": "ce124612fa41bcf5",
       "date": "2026-05-04",
       "day_of_week": "Mon",
@@ -1105,7 +1131,7 @@
       "end_iso": "2026-05-04T22:00:00-04:00",
       "organizer": "ABFinance Events",
       "name": "From Exchange to the Future of Finance — A Private Fireside with Helen Liu",
-      "address": "120 NW 25th St suite 302 Miami, FL 33127, USA",
+      "address": "120 NW 25th St suite 302, Miami, FL 33127, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -1207,7 +1233,7 @@
       "end_iso": "2026-05-04T22:00:00-04:00",
       "organizer": "Iris M",
       "name": "Noah x Sumsub: The New Standard in Networking",
-      "address": "Hotel Greystone 1920 Collins Ave, Miami Beach, FL 33139, USA",
+      "address": "Hotel Greystone, 1920 Collins Ave, Miami Beach, FL 33139, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -1218,32 +1244,6 @@
         "VCs/Angels"
       ],
       "link": "https://luma.com/hzshogc7",
-      "has_food": false,
-      "has_bar": true,
-      "note": null,
-      "source": "planwtf"
-    },
-    {
-      "id": "2bad5c302c8f2f0f",
-      "date": "2026-05-04",
-      "day_of_week": "Mon",
-      "start_time": "19:00",
-      "end_time": "23:00",
-      "start_iso": "2026-05-04T19:00:00-04:00",
-      "end_iso": "2026-05-04T23:00:00-04:00",
-      "organizer": "The Best Event",
-      "name": "TBV Deal Room & Demo Day (feat. Hashlock)",
-      "address": null,
-      "cost": "Free",
-      "is_free": true,
-      "tags": [
-        "Panel/Talk",
-        "Networking",
-        "Devs/Builders",
-        "VCs/Angels",
-        "SOL"
-      ],
-      "link": "https://luma.com/TBVDEALROOM-MIAMI",
       "has_food": false,
       "has_bar": true,
       "note": null,
@@ -1283,7 +1283,7 @@
       "end_iso": "2026-05-04T23:00:00-04:00",
       "organizer": "ChainUp Events",
       "name": "Crypto Ignite: Miami After Dark",
-      "address": "Moxy Miami South Beach 915 Washington Ave, Miami Beach, FL 33139, USA",
+      "address": "Moxy Miami South Beach, 915 Washington Ave, Miami Beach, FL 33139, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -1410,7 +1410,7 @@
       "end_iso": "2026-05-05T09:00:00-04:00",
       "organizer": "Vinh Tran",
       "name": "WisdomTree Runs",
-      "address": "Miami beach itinerario 2001 Collins Avenue 0232341530001, Miami Beach, FL 33139, USA",
+      "address": "Miami beach itinerario, 2001 Collins Avenue 0232341530001, Miami Beach, FL 33139, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -1488,7 +1488,7 @@
       "end_iso": "2026-05-05T18:00:00-04:00",
       "organizer": "Consensus Miami 2026",
       "name": "Consensus 2026 - Registration Open",
-      "address": "Miami Beach Convention Center 1901 Convention Ctr Dr, Miami Beach, FL 33139, USA",
+      "address": "Miami Beach Convention Center, 1901 Convention Ctr Dr, Miami Beach, FL 33139, USA",
       "cost": "$999-9,000",
       "is_free": false,
       "tags": [
@@ -1506,7 +1506,7 @@
       "source": "planwtf"
     },
     {
-      "id": "c19af3ab174c9100",
+      "id": "cbbae79f2af3df45",
       "date": "2026-05-05",
       "day_of_week": "Tue",
       "start_time": "09:00",
@@ -1514,7 +1514,7 @@
       "start_iso": "2026-05-05T09:00:00-04:00",
       "end_iso": "2026-05-05T19:00:00-04:00",
       "organizer": "Jared Chin | Mantle",
-      "name": "Mantle x Solana Accelerate - Visit Us in Miami",
+      "name": "Mantle x Solana Accelerate Miami - Visit Us at Our Booth!",
       "address": "Miami Beach Convention Center, 1901 Convention Ctr Dr, Miami Beach, FL 33139, USA",
       "cost": "Free",
       "is_free": true,
@@ -1631,7 +1631,7 @@
       "source": "planwtf"
     },
     {
-      "id": "3199129cb15e68bb",
+      "id": "b2b2752ffe45c85b",
       "date": "2026-05-05",
       "day_of_week": "Tue",
       "start_time": "11:00",
@@ -1639,7 +1639,7 @@
       "start_iso": "2026-05-05T11:00:00-04:00",
       "end_iso": "2026-05-05T14:00:00-04:00",
       "organizer": "Rime Salmi",
-      "name": "Consensus Miami Founders & Investors Brunch ✨ (invite only)",
+      "name": "Founders & Investors Brunch ✨ (invite only)",
       "address": null,
       "cost": "Free",
       "is_free": true,
@@ -1690,7 +1690,7 @@
       "end_iso": "2026-05-05T13:00:00-04:00",
       "organizer": "Chance",
       "name": "Prediction Markets Meetup: The Forecast Economy | hosted by Chance",
-      "address": "Miami Beach Convention Center 1901 Convention Ctr Dr, Miami Beach, FL 33139, USA",
+      "address": "Miami Beach Convention Center, 1901 Convention Ctr Dr, Miami Beach, FL 33139, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -1837,7 +1837,7 @@
       "source": "planwtf"
     },
     {
-      "id": "c2d57374afc2aa9d",
+      "id": "6de30de57b72f1d0",
       "date": "2026-05-05",
       "day_of_week": "Tue",
       "start_time": "15:00",
@@ -1845,7 +1845,7 @@
       "start_iso": "2026-05-05T15:00:00-04:00",
       "end_iso": "2026-05-05T17:00:00-04:00",
       "organizer": "Rime Salmi",
-      "name": "Consensus Miami VCs & LPs Cocktail Hour ✨ (invite only)",
+      "name": "VCs & LPs Cocktail Hour ✨ (invite only)",
       "address": null,
       "cost": "Free",
       "is_free": true,
@@ -1880,31 +1880,6 @@
       "link": "https://luma.com/POCinMiami",
       "has_food": false,
       "has_bar": false,
-      "note": null,
-      "source": "planwtf"
-    },
-    {
-      "id": "5ea9d5d3b177bfa1",
-      "date": "2026-05-05",
-      "day_of_week": "Tue",
-      "start_time": "16:30",
-      "end_time": "19:00",
-      "start_iso": "2026-05-05T16:30:00-04:00",
-      "end_iso": "2026-05-05T19:00:00-04:00",
-      "organizer": "Cupojoseph",
-      "name": "Crypto Congress - Miami 2026",
-      "address": null,
-      "cost": "Free",
-      "is_free": true,
-      "tags": [
-        "Party",
-        "Networking",
-        "VCs/Angels",
-        "DeFi"
-      ],
-      "link": "https://luma.com/h1beojq3",
-      "has_food": false,
-      "has_bar": true,
       "note": null,
       "source": "planwtf"
     },
@@ -1944,7 +1919,7 @@
       "end_iso": "2026-05-05T21:00:00-04:00",
       "organizer": "Taco Tech Tuesday Series",
       "name": "🌮Taco Tech Tuesday: Cinco de Mayo Consensus Miami 🏝️",
-      "address": "Crysp Studio 1657 N Miami Ave, Miami, FL 33136, USA",
+      "address": "Crysp Studio, 1657 N Miami Ave, Miami, FL 33136, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -2046,7 +2021,7 @@
       "end_iso": "2026-05-05T20:00:00-04:00",
       "organizer": "Cayman Finance",
       "name": "Cayman at Consensus 2026",
-      "address": "Kimpton Surfcomber Hotel 1717 Collins Ave, Miami Beach, FL 33139, USA",
+      "address": "Kimpton Surfcomber Hotel, 1717 Collins Ave, Miami Beach, FL 33139, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -2061,7 +2036,7 @@
       "source": "planwtf"
     },
     {
-      "id": "5f94fd9662ff5c64",
+      "id": "4f2d364c577292ca",
       "date": "2026-05-05",
       "day_of_week": "Tue",
       "start_time": "17:00",
@@ -2069,7 +2044,7 @@
       "start_iso": "2026-05-05T17:00:00-04:00",
       "end_iso": "2026-05-05T20:00:00-04:00",
       "organizer": "Margarita | CertiK",
-      "name": "Consensus Miami: Rare Cuts & Cocktails with CertiK and Immunefi",
+      "name": "Consensus Miami: Rare Cuts & Cocktails with CertiK, Immunefi, Crystal Intelligence, BeInCrypto, and Pharos",
       "address": null,
       "cost": "Free",
       "is_free": true,
@@ -2173,7 +2148,7 @@
       "end_iso": "2026-05-05T00:00:00-04:00",
       "organizer": "Shanice Best / Expos3d Media",
       "name": "Mainnet: After dark",
-      "address": "Collectors Club 2812 NW 2nd Ave, Miami, FL 33127, USA",
+      "address": "Collectors Club, 2812 NW 2nd Ave, Miami, FL 33127, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -2301,7 +2276,7 @@
       "end_iso": "2026-05-05T19:30:00-04:00",
       "organizer": "Sasha Pilch",
       "name": "Greenberg Traurig, Ripio, Turnkey & Fintech Women @ MILA",
-      "address": "MILA 1636 Meridian Ave Rooftop, Miami Beach, FL 33139, USA",
+      "address": "MILA, 1636 Meridian Ave Rooftop, Miami Beach, FL 33139, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -2353,7 +2328,7 @@
       "end_iso": "2026-05-05T20:30:00-04:00",
       "organizer": "Multicoin Capital",
       "name": "Paella Party with Multicoin Capital",
-      "address": "Backyard Miami 1741 Collins Ave, Miami Beach, FL 33139, USA",
+      "address": "Backyard Miami, 1741 Collins Ave, Miami Beach, FL 33139, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -2501,7 +2476,7 @@
       "end_iso": "2026-05-05T21:00:00-04:00",
       "organizer": "The Source Groups",
       "name": "Crypto, Culture, & Capital",
-      "address": "The Gates Hotel South Beach 2360 Collins Ave, Miami Beach, FL 33139, USA",
+      "address": "The Gates Hotel South Beach, 2360 Collins Ave, Miami Beach, FL 33139, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -2527,7 +2502,7 @@
       "end_iso": "2026-05-05T21:00:00-04:00",
       "organizer": "Injective Foundation",
       "name": "Injective Lounge",
-      "address": "Hotel Greystone 1920 Collins Ave, Miami Beach, FL 33139, USA",
+      "address": "Hotel Greystone, 1920 Collins Ave, Miami Beach, FL 33139, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -2554,7 +2529,7 @@
       "end_iso": "2026-05-05T21:00:00-04:00",
       "organizer": "Olivia Curry",
       "name": "Ramp x Litquidity Padel Club Round 4",
-      "address": "Reserve Padel Miami Seaplane Base, 1000 MacArthur Cswy, Miami, FL 33132, USA",
+      "address": "Reserve Padel, Miami Seaplane Base, 1000 MacArthur Cswy, Miami, FL 33132, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -2753,7 +2728,7 @@
       "source": "planwtf"
     },
     {
-      "id": "5f40b3eeecf801c5",
+      "id": "162102e61c8d7bc7",
       "date": "2026-05-05",
       "day_of_week": "Tue",
       "start_time": "19:00",
@@ -2761,8 +2736,8 @@
       "start_iso": "2026-05-05T19:00:00-04:00",
       "end_iso": "2026-05-05T02:00:00-04:00",
       "organizer": "PAI Palooza Presents - Build with AI Native Studio - 2026",
-      "name": "AINative: Proof of Fiesta",
-      "address": "The Clevelander Bar 1020 Ocean Dr #1, Miami Beach, FL 33139, USA",
+      "name": "AINative x Fondo: Proof of Fiesta",
+      "address": "The Clevelander Bar, 1020 Ocean Dr #1, Miami Beach, FL 33139, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -2860,6 +2835,32 @@
       "source": "planwtf"
     },
     {
+      "id": "4c966f785672bfec",
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_time": "19:00",
+      "end_time": "22:00",
+      "start_iso": "2026-05-05T19:00:00-04:00",
+      "end_iso": "2026-05-05T22:00:00-04:00",
+      "organizer": "The Best Event",
+      "name": "Exclusive Sundown Soiree - Aptos x Tria x Pantera",
+      "address": null,
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Party",
+        "Networking",
+        "Devs/Builders",
+        "VCs/Angels",
+        "SOL"
+      ],
+      "link": "https://luma.com/aptos-tria-sundown",
+      "has_food": false,
+      "has_bar": true,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
       "id": "2ea437e552757774",
       "date": "2026-05-05",
       "day_of_week": "Tue",
@@ -2895,7 +2896,7 @@
       "end_iso": "2026-05-05T22:00:00-04:00",
       "organizer": "Jupiter",
       "name": "Jupiter X FalconX: VIP Dinner (Invite Only)",
-      "address": "Klaw Miami 1737 N Bayshore Dr, Miami, FL 33132, USA",
+      "address": "Klaw Miami, 1737 N Bayshore Dr, Miami, FL 33132, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -2908,32 +2909,6 @@
       "link": "https://luma.com/JupiterXFalconX",
       "has_food": true,
       "has_bar": false,
-      "note": null,
-      "source": "planwtf"
-    },
-    {
-      "id": "c50861f7ed449972",
-      "date": "2026-05-05",
-      "day_of_week": "Tue",
-      "start_time": "19:00",
-      "end_time": "22:00",
-      "start_iso": "2026-05-05T19:00:00-04:00",
-      "end_iso": "2026-05-05T22:00:00-04:00",
-      "organizer": "The Best Event",
-      "name": "Sundown Soiree - Aptos x Tria",
-      "address": null,
-      "cost": "Free",
-      "is_free": true,
-      "tags": [
-        "Party",
-        "Networking",
-        "Devs/Builders",
-        "VCs/Angels",
-        "SOL"
-      ],
-      "link": "https://luma.com/aptos-tria-sundown",
-      "has_food": false,
-      "has_bar": true,
       "note": null,
       "source": "planwtf"
     },
@@ -2960,6 +2935,31 @@
       "link": "https://luma.com/p1yre5te",
       "has_food": true,
       "has_bar": false,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
+      "id": "2cc8d41989db5b48",
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_time": "19:30",
+      "end_time": "22:30",
+      "start_iso": "2026-05-05T19:30:00-04:00",
+      "end_iso": "2026-05-05T22:30:00-04:00",
+      "organizer": "Cupojoseph",
+      "name": "Crypto Congress: Dems Bar Crawl Consensus 2026",
+      "address": null,
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Party",
+        "Networking",
+        "VCs/Angels",
+        "DeFi"
+      ],
+      "link": "https://luma.com/h1beojq3",
+      "has_food": false,
+      "has_bar": true,
       "note": null,
       "source": "planwtf"
     },
@@ -3042,7 +3042,7 @@
       "source": "planwtf"
     },
     {
-      "id": "c6dcaaba87f31245",
+      "id": "253efcd29ed601f2",
       "date": "2026-05-05",
       "day_of_week": "Tue",
       "start_time": "20:00",
@@ -3050,7 +3050,7 @@
       "start_iso": "2026-05-05T20:00:00-04:00",
       "end_iso": "2026-05-05T23:00:00-04:00",
       "organizer": "Pudgy Penguins",
-      "name": "Deep Dive",
+      "name": "Deep Dive with OpenSea and Pudgy Penguins",
       "address": null,
       "cost": "Free",
       "is_free": true,
@@ -3101,7 +3101,7 @@
       "end_iso": "2026-05-05T22:30:00-04:00",
       "organizer": "HN",
       "name": "Cinco de Mayo Cocktails & Bites by Hypernative",
-      "address": "Casa Matilda - Restaurant & Lounge 411 Washington Ave, Miami Beach, FL 33139, USA",
+      "address": "Casa Matilda - Restaurant & Lounge, 411 Washington Ave, Miami Beach, FL 33139, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -3127,7 +3127,7 @@
       "end_iso": "2026-05-05T00:00:00-04:00",
       "organizer": "Jito",
       "name": "Liquidity After Dark - Miami",
-      "address": "MILA 1636 Meridian Ave Rooftop, Miami Beach, FL 33139, USA",
+      "address": "MILA, 1636 Meridian Ave Rooftop, Miami Beach, FL 33139, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -3194,7 +3194,7 @@
       "source": "planwtf"
     },
     {
-      "id": "a33c63019b582db7",
+      "id": "be861e1d99a2d58c",
       "date": "2026-05-06",
       "day_of_week": "Wed",
       "start_time": "07:00",
@@ -3202,7 +3202,7 @@
       "start_iso": "2026-05-06T07:00:00-04:00",
       "end_iso": "2026-05-06T07:45:00-04:00",
       "organizer": "TRM Labs",
-      "name": "TRM Run Club & Post-Run Coffee with The Digital Chamber at Consensus Miami 2026",
+      "name": "TRM Run Club followed by Post-run Coffee with The Digital Chamber at Consensus Miami 2026",
       "address": null,
       "cost": "Free",
       "is_free": true,
@@ -3242,7 +3242,7 @@
       "source": "planwtf"
     },
     {
-      "id": "e5df6e38d1cbc443",
+      "id": "38966ce8e84bb78e",
       "date": "2026-05-06",
       "day_of_week": "Wed",
       "start_time": "08:00",
@@ -3250,7 +3250,7 @@
       "start_iso": "2026-05-06T08:00:00-04:00",
       "end_iso": "2026-05-06T09:30:00-04:00",
       "organizer": "XDC Network",
-      "name": "Opening Bell: Institutional Breakfast: Consensus Miami 2026",
+      "name": "Opening Bell: Institutional Breakfast at Consensus Miami 2026",
       "address": null,
       "cost": "Free",
       "is_free": true,
@@ -3328,7 +3328,7 @@
       "end_iso": "2026-05-06T18:00:00-04:00",
       "organizer": "Consensus Miami 2026",
       "name": "Consensus 2026 - Registration Open",
-      "address": "Miami Beach Convention Center 1901 Convention Ctr Dr, Miami Beach, FL 33139, USA",
+      "address": "Miami Beach Convention Center, 1901 Convention Ctr Dr, Miami Beach, FL 33139, USA",
       "cost": "$999-9,000",
       "is_free": false,
       "tags": [
@@ -3708,7 +3708,7 @@
       "source": "planwtf"
     },
     {
-      "id": "d05e4d2ba19bf1c9",
+      "id": "051e2cf1de591230",
       "date": "2026-05-06",
       "day_of_week": "Wed",
       "start_time": "15:00",
@@ -3716,7 +3716,7 @@
       "start_iso": "2026-05-06T15:00:00-04:00",
       "end_iso": "2026-05-06T17:00:00-04:00",
       "organizer": "Gensyn Events",
-      "name": "Exclusive Delphi Cocktails | Hosted by Gensyn",
+      "name": "Exclusive Delphi Cocktails | Hosted by Gensyn & CoinFund",
       "address": null,
       "cost": "Free",
       "is_free": true,
@@ -3758,7 +3758,7 @@
       "source": "planwtf"
     },
     {
-      "id": "78778d492fa08864",
+      "id": "0e2ebfb3160e28bc",
       "date": "2026-05-06",
       "day_of_week": "Wed",
       "start_time": "15:00",
@@ -3766,7 +3766,7 @@
       "start_iso": "2026-05-06T15:00:00-04:00",
       "end_iso": "2026-05-06T19:00:00-04:00",
       "organizer": "Pharos Network",
-      "name": "Pharos RealFi Mixer @ Consensus Miami",
+      "name": "Pharos RealFi Poolside Mixer @ Consensus Miami",
       "address": "Blue Ribbon Sushi Bar & Grill - Pool Deck",
       "cost": "Free",
       "is_free": true,
@@ -3793,7 +3793,7 @@
       "end_iso": "2026-05-06T21:00:00-04:00",
       "organizer": "Maxence",
       "name": "ORAK MIAMI - Private Institutional Summit",
-      "address": "Mindspace Wynwood 2916 N Miami Ave 6th floor, Miami, FL 33127, USA",
+      "address": "Mindspace Wynwood, 2916 N Miami Ave 6th floor, Miami, FL 33127, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -3859,7 +3859,7 @@
       "source": "planwtf"
     },
     {
-      "id": "c875ad047fbfb7f5",
+      "id": "44fb6978c5d3b6d7",
       "date": "2026-05-06",
       "day_of_week": "Wed",
       "start_time": "16:00",
@@ -3867,7 +3867,7 @@
       "start_iso": "2026-05-06T16:00:00-04:00",
       "end_iso": "2026-05-06T18:00:00-04:00",
       "organizer": "Uphold",
-      "name": "Topper + Trezor | Consensus Happy Hour",
+      "name": "Topper + Trezor | Consensus Happy Hour 🍸",
       "address": "Rum Room Restaurant & Venu 2100 Washington Ave, Miami Beach, FL 33139, USA",
       "cost": "Free",
       "is_free": true,
@@ -3883,33 +3883,7 @@
       "source": "planwtf"
     },
     {
-      "id": "dd9485cbe8b7e56f",
-      "date": "2026-05-06",
-      "day_of_week": "Wed",
-      "start_time": "17:00",
-      "end_time": "20:30",
-      "start_iso": "2026-05-06T17:00:00-04:00",
-      "end_iso": "2026-05-06T20:30:00-04:00",
-      "organizer": "Node Proptech Events",
-      "name": "$300 Trillion, Still Offline-Bringing Real Estate Capital Markets On-Chain.",
-      "address": null,
-      "cost": "Free",
-      "is_free": true,
-      "tags": [
-        "Panel/Talk",
-        "Networking",
-        "Devs/Builders",
-        "VCs/Angels",
-        "RWA"
-      ],
-      "link": "https://luma.com/dqelabh6",
-      "has_food": false,
-      "has_bar": false,
-      "note": null,
-      "source": "planwtf"
-    },
-    {
-      "id": "d7476d269b89a295",
+      "id": "f3cf8fdd09ab74a2",
       "date": "2026-05-06",
       "day_of_week": "Wed",
       "start_time": "17:00",
@@ -3917,7 +3891,7 @@
       "start_iso": "2026-05-06T17:00:00-04:00",
       "end_iso": "2026-05-06T22:00:00-04:00",
       "organizer": "Francesco Andreoli 🦊",
-      "name": "Builder Nights Miami Multichain Fest | Hosted by MetaMask",
+      "name": "Builder Nights Multichain Fest | MetaMask 🦊️️️️️️ Solana Tron Pudgy Stellar Transak ChangeNOW Pagga Fhenix Mantle Mercuryo 0G TheMiracle",
       "address": null,
       "cost": "Free",
       "is_free": true,
@@ -3935,6 +3909,32 @@
       "source": "planwtf"
     },
     {
+      "id": "1a3ea807085b4682",
+      "date": "2026-05-06",
+      "day_of_week": "Wed",
+      "start_time": "17:00",
+      "end_time": "20:30",
+      "start_iso": "2026-05-06T17:00:00-04:00",
+      "end_iso": "2026-05-06T20:30:00-04:00",
+      "organizer": "Node Proptech Events",
+      "name": "Builders in Tokenization - Rooftop Happy Hour Hosted by Node PropTech and S&K",
+      "address": null,
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Panel/Talk",
+        "Networking",
+        "Devs/Builders",
+        "VCs/Angels",
+        "RWA"
+      ],
+      "link": "https://luma.com/dqelabh6",
+      "has_food": false,
+      "has_bar": false,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
       "id": "d0ab239371f3f164",
       "date": "2026-05-06",
       "day_of_week": "Wed",
@@ -3944,7 +3944,7 @@
       "end_iso": "2026-05-06T19:00:00-04:00",
       "organizer": "Celo Core Co.",
       "name": "CELObrate Miami: Celo at Consensus",
-      "address": "Soho Beach House 4385 Collins Ave, Miami Beach, FL 33140, USA",
+      "address": "Soho Beach House, 4385 Collins Ave, Miami Beach, FL 33140, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -4294,7 +4294,7 @@
       "end_iso": "2026-05-06T23:00:00-04:00",
       "organizer": "GoMining Company",
       "name": "GoMining Club | Miami Event",
-      "address": "The Standard Spa, Miami Beach 40 Island Ave, Miami Beach, FL 33139, USA",
+      "address": "The Standard Spa, Miami Beach, 40 Island Ave, Miami Beach, FL 33139, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -4312,7 +4312,7 @@
       "source": "planwtf"
     },
     {
-      "id": "c5a0b8ba88b077e3",
+      "id": "6ebb2d927caaad4c",
       "date": "2026-05-06",
       "day_of_week": "Wed",
       "start_time": "18:00",
@@ -4320,7 +4320,7 @@
       "start_iso": "2026-05-06T18:00:00-04:00",
       "end_iso": "2026-05-06T21:00:00-04:00",
       "organizer": "Introduction.com",
-      "name": "Institutions & Introductions in Miami",
+      "name": "Institutions & Introductions with Pi & XDC in Miami",
       "address": null,
       "cost": "Free",
       "is_free": true,
@@ -4392,7 +4392,7 @@
       "end_iso": "2026-05-06T21:00:00-04:00",
       "organizer": "Worldpay",
       "name": "Money in Motion Lounge: Cocktails with Worldpay & Velocity | Consensus Miami 2026",
-      "address": "MILA 1636 Meridian Ave Rooftop, Miami Beach, FL 33139, USA",
+      "address": "MILA, 1636 Meridian Ave Rooftop, Miami Beach, FL 33139, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -4468,7 +4468,7 @@
       "end_iso": "2026-05-06T22:00:00-04:00",
       "organizer": "ScalingX",
       "name": "Builders After Hours: Consensus Miami",
-      "address": "Elevar Wynwood 3400 Biscayne Blvd, Miami, FL 33137, USA",
+      "address": "Elevar Wynwood, 3400 Biscayne Blvd, Miami, FL 33137, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -4485,7 +4485,7 @@
       "source": "planwtf"
     },
     {
-      "id": "9368021d1224a62e",
+      "id": "524dec1341fb46de",
       "date": "2026-05-06",
       "day_of_week": "Wed",
       "start_time": "18:30",
@@ -4493,8 +4493,8 @@
       "start_iso": "2026-05-06T18:30:00-04:00",
       "end_iso": "2026-05-06T21:30:00-04:00",
       "organizer": "Latitude.sh <>",
-      "name": "Consensus Miami <> LSH",
-      "address": "The Catalina Hotel & Beach Club 1732 Collins Ave, Miami Beach, FL 33139, USA",
+      "name": "LSH Mixer @ Consensus Miami",
+      "address": "The Catalina Hotel & Beach Club, 1732 Collins Ave, Miami Beach, FL 33139, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -5040,7 +5040,7 @@
       "end_iso": "2026-05-07T18:00:00-04:00",
       "organizer": "Consensus Miami 2026",
       "name": "Consensus 2026 - Registration Open",
-      "address": "Miami Beach Convention Center 1901 Convention Ctr Dr, Miami Beach, FL 33139, USA",
+      "address": "Miami Beach Convention Center, 1901 Convention Ctr Dr, Miami Beach, FL 33139, USA",
       "cost": "$999-9,000",
       "is_free": false,
       "tags": [
@@ -5192,7 +5192,7 @@
       "end_iso": "2026-05-07T13:00:00-04:00",
       "organizer": "Dion Guillaume",
       "name": "Quantum Qafe Coffee Meetup @ Consensus Miami",
-      "address": "Miami Beach Convention Center 1901 Convention Ctr Dr, Miami Beach, FL 33139, USA",
+      "address": "Backyard Miami Beach, 1741 Collins Ave, Miami Beach, FL 33139, USA",
       "cost": "Free",
       "is_free": true,
       "tags": [
@@ -5210,7 +5210,7 @@
       "source": "planwtf"
     },
     {
-      "id": "3238e60602d63c90",
+      "id": "e3b0fe3803912d4f",
       "date": "2026-05-07",
       "day_of_week": "Thu",
       "start_time": "12:00",
@@ -5218,7 +5218,7 @@
       "start_iso": "2026-05-07T12:00:00-04:00",
       "end_iso": "2026-05-07T18:00:00-04:00",
       "organizer": "NEAR Foundation",
-      "name": "NEAR: Sovereignty in the Agentic Economy — A Working Forum",
+      "name": "NEAR: Engineering Sovereignty in the Age of Agents",
       "address": null,
       "cost": "Free",
       "is_free": true,

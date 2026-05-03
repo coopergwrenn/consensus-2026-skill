@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-03T11:09:50.233Z",
+    "baked_at": "2026-05-03T11:58:10.869Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -201,7 +201,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Jay  Yarow",
+          "name": "Jay Yarow",
           "company": "CoinDesk",
           "title": "President",
           "role": "Speaker"
@@ -282,7 +282,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Rohin  Lohe",
+          "name": "Rohin Lohe",
           "company": "Cloudflare",
           "title": "Senior Product Manager",
           "role": "Speaker"
@@ -902,7 +902,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Serafin  Lion Engel",
+          "name": "Serafin Lion Engel",
           "company": "Yield.xyz",
           "title": "Founder & CEO",
           "role": "Speaker"
@@ -1366,7 +1366,7 @@
       "tags": [],
       "speakers": [
         {
-          "name": "Adam  Back",
+          "name": "Adam Back",
           "company": "Blockstream",
           "title": "Co-Founder & CEO",
           "role": "Speaker"
@@ -1731,7 +1731,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Jay  Yarow",
+          "name": "Jay Yarow",
           "company": "CoinDesk",
           "title": "President",
           "role": "Moderator"
@@ -1895,7 +1895,7 @@
       ],
       "speakers": [
         {
-          "name": "Clarisse  Hagège",
+          "name": "Clarisse Hagège",
           "company": "Dfns",
           "title": "CEO & Founder",
           "role": "Speaker"
@@ -3047,7 +3047,7 @@
       "tags": [],
       "speakers": [
         {
-          "name": "Maximillian \"M\"  Schwartz",
+          "name": "Maximillian \"M\" Schwartz",
           "company": "Anvil Research Labs",
           "title": "CEO",
           "role": "Speaker"
@@ -3471,7 +3471,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Alex  Lang",
+          "name": "Alex Lang",
           "company": "Early Warning (Zelle)",
           "title": "Vice President, Digital Assets Partnerships & Strategy",
           "role": "Speaker"
@@ -3976,7 +3976,7 @@
       "tags": [],
       "speakers": [
         {
-          "name": "Jack  Pouderoyen",
+          "name": "Jack Pouderoyen",
           "company": "Swift",
           "title": "Head of Digital Assets Strategy",
           "role": "Moderator (Sponsor)"
@@ -4872,7 +4872,7 @@
       "tags": [],
       "speakers": [
         {
-          "name": "Clarisse  Hagège",
+          "name": "Clarisse Hagège",
           "company": "Dfns",
           "title": "CEO & Founder",
           "role": "Speaker"
@@ -5274,7 +5274,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Rebecca  Rettig",
+          "name": "Rebecca Rettig",
           "company": "Jito Labs",
           "title": "COO / CLO",
           "role": "Speaker"
@@ -5362,7 +5362,7 @@
       ],
       "speakers": [
         {
-          "name": "Adam  Back",
+          "name": "Adam Back",
           "company": "Blockstream",
           "title": "Co-Founder & CEO",
           "role": "Speaker"
@@ -5534,7 +5534,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Kwasi  Kwarteng",
+          "name": "Kwasi Kwarteng",
           "company": "",
           "title": "",
           "role": "Speaker"
@@ -6547,7 +6547,7 @@
       ],
       "speakers": [
         {
-          "name": "Aaron  Dimitri",
+          "name": "Aaron Dimitri",
           "company": "Flow Traders",
           "title": "General Counsel – Digital Assets",
           "role": "Speaker"
@@ -6947,7 +6947,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Stephen  Palley",
+          "name": "Stephen Palley",
           "company": "Brown Rudnick LLP",
           "title": "Partner",
           "role": "Speaker"
@@ -7424,7 +7424,7 @@
       ],
       "speakers": [
         {
-          "name": "Thomas  Perfumo",
+          "name": "Thomas Perfumo",
           "company": "Kraken",
           "title": "Chief Economist",
           "role": "Speaker"
@@ -7764,7 +7764,7 @@
       ],
       "speakers": [
         {
-          "name": "Kash  Razzaghi",
+          "name": "Kash Razzaghi",
           "company": "Circle",
           "title": "Chief Commercial Officer",
           "role": "Speaker"
@@ -7855,7 +7855,7 @@
       ],
       "speakers": [
         {
-          "name": "Ramon “REO”  Owen",
+          "name": "Ramon “REO” Owen",
           "company": "matte projects",
           "title": "Senior AI Designer",
           "role": "Speaker"
@@ -8847,7 +8847,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Bill  Papp",
+          "name": "Bill Papp",
           "company": "NVNM Chain",
           "title": "CEO",
           "role": "Speaker"
@@ -8859,7 +8859,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Davies  Beller",
+          "name": "Davies Beller",
           "company": "TD Securities",
           "title": "Managing Director - Investment Banking",
           "role": "Speaker"
@@ -8923,7 +8923,7 @@
       ],
       "speakers": [
         {
-          "name": "Rodrigo  Coelho",
+          "name": "Rodrigo Coelho",
           "company": "Edge & Node",
           "title": "CEO",
           "role": "Speaker"
@@ -10260,7 +10260,7 @@
       ],
       "speakers": [
         {
-          "name": "Kevin  Arifin",
+          "name": "Kevin Arifin",
           "company": "MoonPay",
           "title": "Product Lead",
           "role": "Speaker"
@@ -10345,7 +10345,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Jennifer  Sanasie",
+          "name": "Jennifer Sanasie",
           "company": "CoinDesk",
           "title": "Executive Producer, Senior Anchor",
           "role": "Speaker"
@@ -10943,7 +10943,7 @@
           "role": "Speaker"
         },
         {
-          "name": "Caroline D.  Pham",
+          "name": "Caroline D. Pham",
           "company": "MoonPay",
           "title": "Head of MoonPay Institutional | CLO and CAO",
           "role": "Speaker"
@@ -11792,7 +11792,7 @@
       "tags": [],
       "speakers": [
         {
-          "name": "Caroline D.  Pham",
+          "name": "Caroline D. Pham",
           "company": "MoonPay",
           "title": "Head of MoonPay Institutional | CLO and CAO",
           "role": "Speaker"
@@ -11978,13 +11978,13 @@
           "role": "Speaker"
         },
         {
-          "name": "Gregory  Lisa",
+          "name": "Gregory Lisa",
           "company": "Hogan Lovells",
           "title": "Senior Counsel",
           "role": "Speaker"
         },
         {
-          "name": "Todd  Phillips",
+          "name": "Todd Phillips",
           "company": "Georgia State University",
           "title": "Assistant Professor",
           "role": "Speaker"

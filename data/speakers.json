@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-03T11:09:50.233Z",
+    "baked_at": "2026-05-03T11:58:10.869Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
@@ -913,7 +913,7 @@
       ]
     },
     {
-      "name": "Adam  Back",
+      "name": "Adam Back",
       "company": "Blockstream",
       "title": "Co-Founder & CEO",
       "session_count": 2,
@@ -1485,7 +1485,7 @@
       ]
     },
     {
-      "name": "Caroline D.  Pham",
+      "name": "Caroline D. Pham",
       "company": "MoonPay",
       "title": "Head of MoonPay Institutional | CLO and CAO",
       "session_count": 2,
@@ -1551,7 +1551,7 @@
       ]
     },
     {
-      "name": "Clarisse  Hagège",
+      "name": "Clarisse Hagège",
       "company": "Dfns",
       "title": "CEO & Founder",
       "session_count": 2,
@@ -2079,7 +2079,7 @@
       ]
     },
     {
-      "name": "Jay  Yarow",
+      "name": "Jay Yarow",
       "company": "CoinDesk",
       "title": "President",
       "session_count": 2,
@@ -3377,7 +3377,7 @@
       ]
     },
     {
-      "name": "Aaron  Dimitri",
+      "name": "Aaron Dimitri",
       "company": "Flow Traders",
       "title": "General Counsel – Digital Assets",
       "session_count": 1,
@@ -3437,7 +3437,7 @@
       ]
     },
     {
-      "name": "Alex  Lang",
+      "name": "Alex Lang",
       "company": "Early Warning (Zelle)",
       "title": "Vice President, Digital Assets Partnerships & Strategy",
       "session_count": 1,
@@ -3947,21 +3947,6 @@
       ]
     },
     {
-      "name": "Bill  Papp",
-      "company": "NVNM Chain",
-      "title": "CEO",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F138DE8E631008AE260263DE4AB8DB",
-          "title": "When AI agents fail, who is accountable?",
-          "date": "2026-05-07",
-          "start_iso": "2026-05-07T10:00:00-04:00",
-          "venue_slug": "spotlight-stage"
-        }
-      ]
-    },
-    {
       "name": "Bill Barhydt",
       "company": "Abra",
       "title": "CEO",
@@ -3973,6 +3958,21 @@
           "date": "2026-05-05",
           "start_iso": "2026-05-05T16:30:00-04:00",
           "venue_slug": "frontier-stage"
+        }
+      ]
+    },
+    {
+      "name": "Bill Papp",
+      "company": "NVNM Chain",
+      "title": "CEO",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F138DE8E631008AE260263DE4AB8DB",
+          "title": "When AI agents fail, who is accountable?",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T10:00:00-04:00",
+          "venue_slug": "spotlight-stage"
         }
       ]
     },
@@ -4637,7 +4637,7 @@
       ]
     },
     {
-      "name": "Davies  Beller",
+      "name": "Davies Beller",
       "company": "TD Securities",
       "title": "Managing Director - Investment Banking",
       "session_count": 1,
@@ -4997,21 +4997,6 @@
       ]
     },
     {
-      "name": "Gregory  Lisa",
-      "company": "Hogan Lovells",
-      "title": "Senior Counsel",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F11BBD67E7DDF098D30263DE4AB8DB",
-          "title": "Are Prediction Markets Gambling or Not?",
-          "date": "2026-05-07",
-          "start_iso": "2026-05-07T16:30:00-04:00",
-          "venue_slug": "frontier-stage"
-        }
-      ]
-    },
-    {
       "name": "Gregory Johnson",
       "company": "Rubicon Crypto",
       "title": "CEO",
@@ -5023,6 +5008,21 @@
           "date": "2026-05-06",
           "start_iso": "2026-05-06T10:00:00-04:00",
           "venue_slug": "spotlight-stage"
+        }
+      ]
+    },
+    {
+      "name": "Gregory Lisa",
+      "company": "Hogan Lovells",
+      "title": "Senior Counsel",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F11BBD67E7DDF098D30263DE4AB8DB",
+          "title": "Are Prediction Markets Gambling or Not?",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T16:30:00-04:00",
+          "venue_slug": "frontier-stage"
         }
       ]
     },
@@ -5192,7 +5192,7 @@
       ]
     },
     {
-      "name": "Jack  Pouderoyen",
+      "name": "Jack Pouderoyen",
       "company": "Swift",
       "title": "Head of Digital Assets Strategy",
       "session_count": 1,
@@ -5402,21 +5402,6 @@
       ]
     },
     {
-      "name": "Jennifer  Sanasie",
-      "company": "CoinDesk",
-      "title": "Executive Producer, Senior Anchor",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F118CCA532CFB498D30263DE4AB8DB",
-          "title": "Scaling Agentic Commerce through Crypto-Rails and Open Protocols",
-          "date": "2026-05-07",
-          "start_iso": "2026-05-07T13:15:00-04:00",
-          "venue_slug": "mainstage"
-        }
-      ]
-    },
-    {
       "name": "Jennifer Rosenthal",
       "company": "DeFi Education Fund",
       "title": "Chief Communications Officer",
@@ -5428,6 +5413,21 @@
           "date": "2026-05-07",
           "start_iso": "2026-05-07T11:40:00-04:00",
           "venue_slug": "frontier-stage"
+        }
+      ]
+    },
+    {
+      "name": "Jennifer Sanasie",
+      "company": "CoinDesk",
+      "title": "Executive Producer, Senior Anchor",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F118CCA532CFB498D30263DE4AB8DB",
+          "title": "Scaling Agentic Commerce through Crypto-Rails and Open Protocols",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T13:15:00-04:00",
+          "venue_slug": "mainstage"
         }
       ]
     },
@@ -5747,7 +5747,7 @@
       ]
     },
     {
-      "name": "Kash  Razzaghi",
+      "name": "Kash Razzaghi",
       "company": "Circle",
       "title": "Chief Commercial Officer",
       "session_count": 1,
@@ -5777,7 +5777,7 @@
       ]
     },
     {
-      "name": "Kevin  Arifin",
+      "name": "Kevin Arifin",
       "company": "MoonPay",
       "title": "Product Lead",
       "session_count": 1,
@@ -5867,7 +5867,7 @@
       ]
     },
     {
-      "name": "Kwasi  Kwarteng",
+      "name": "Kwasi Kwarteng",
       "company": "",
       "title": "",
       "session_count": 1,
@@ -6377,7 +6377,7 @@
       ]
     },
     {
-      "name": "Maximillian \"M\"  Schwartz",
+      "name": "Maximillian \"M\" Schwartz",
       "company": "Anvil Research Labs",
       "title": "CEO",
       "session_count": 1,
@@ -7202,7 +7202,7 @@
       ]
     },
     {
-      "name": "Ramon “REO”  Owen",
+      "name": "Ramon “REO” Owen",
       "company": "matte projects",
       "title": "Senior AI Designer",
       "session_count": 1,
@@ -7262,7 +7262,7 @@
       ]
     },
     {
-      "name": "Rebecca  Rettig",
+      "name": "Rebecca Rettig",
       "company": "Jito Labs",
       "title": "COO / CLO",
       "session_count": 1,
@@ -7352,7 +7352,7 @@
       ]
     },
     {
-      "name": "Rodrigo  Coelho",
+      "name": "Rodrigo Coelho",
       "company": "Edge & Node",
       "title": "CEO",
       "session_count": 1,
@@ -7367,7 +7367,7 @@
       ]
     },
     {
-      "name": "Rohin  Lohe",
+      "name": "Rohin Lohe",
       "company": "Cloudflare",
       "title": "Senior Product Manager",
       "session_count": 1,
@@ -7517,7 +7517,7 @@
       ]
     },
     {
-      "name": "Serafin  Lion Engel",
+      "name": "Serafin Lion Engel",
       "company": "Yield.xyz",
       "title": "Founder & CEO",
       "session_count": 1,
@@ -7712,21 +7712,6 @@
       ]
     },
     {
-      "name": "Stephen  Palley",
-      "company": "Brown Rudnick LLP",
-      "title": "Partner",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F13BFE98A8ED04AE260263DE4AB8DB",
-          "title": "Can Your Agent Get Sued? Legal Risks for Agents and Their Developers",
-          "date": "2026-05-06",
-          "start_iso": "2026-05-06T14:00:00-04:00",
-          "venue_slug": "workshop-stage"
-        }
-      ]
-    },
-    {
       "name": "Stephen Mackintosh",
       "company": "Sui Group Holdings",
       "title": "Chief Investment Officer",
@@ -7738,6 +7723,21 @@
           "date": "2026-05-05",
           "start_iso": "2026-05-05T13:45:00-04:00",
           "venue_slug": "frontier-stage"
+        }
+      ]
+    },
+    {
+      "name": "Stephen Palley",
+      "company": "Brown Rudnick LLP",
+      "title": "Partner",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F13BFE98A8ED04AE260263DE4AB8DB",
+          "title": "Can Your Agent Get Sued? Legal Risks for Agents and Their Developers",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T14:00:00-04:00",
+          "venue_slug": "workshop-stage"
         }
       ]
     },
@@ -7907,7 +7907,7 @@
       ]
     },
     {
-      "name": "Thomas  Perfumo",
+      "name": "Thomas Perfumo",
       "company": "Kraken",
       "title": "Chief Economist",
       "session_count": 1,
@@ -7952,7 +7952,7 @@
       ]
     },
     {
-      "name": "Todd  Phillips",
+      "name": "Todd Phillips",
       "company": "Georgia State University",
       "title": "Assistant Professor",
       "session_count": 1,
