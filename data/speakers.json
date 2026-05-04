@@ -1,10 +1,10 @@
 {
   "meta": {
-    "baked_at": "2026-05-04T10:25:42.856Z",
+    "baked_at": "2026-05-04T12:56:32.663Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
-    "record_count": 464
+    "record_count": 463
   },
   "records": [
     {
@@ -1764,6 +1764,28 @@
           "date": "2026-05-06",
           "start_iso": "2026-05-06T16:30:00-04:00",
           "venue_slug": "coindesk-live-studio"
+        }
+      ]
+    },
+    {
+      "name": "David Cunningham",
+      "company": "Consensys",
+      "title": "Global Head of Institutional Business",
+      "session_count": 2,
+      "sessions": [
+        {
+          "id": "11F1337BFCED8088AE260263DE4AB8DB",
+          "title": "Capital Markets Reimagined",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T10:15:00-04:00",
+          "venue_slug": "frontier-stage"
+        },
+        {
+          "id": "11F12F894417E286AE260263DE4AB8DB",
+          "title": "To Build or Not to Build: The Infrastructure Inflection Point",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T16:00:00-04:00",
+          "venue_slug": "spotlight-stage"
         }
       ]
     },
@@ -4736,21 +4758,6 @@
       ]
     },
     {
-      "name": "David  Cunningham",
-      "company": "Consensys",
-      "title": "",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F12F894417E286AE260263DE4AB8DB",
-          "title": "To Build or Not to Build: The Infrastructure Inflection Point",
-          "date": "2026-05-05",
-          "start_iso": "2026-05-05T16:00:00-04:00",
-          "venue_slug": "spotlight-stage"
-        }
-      ]
-    },
-    {
       "name": "David Chachanko",
       "company": "Persona",
       "title": "Product Architect",
@@ -4762,21 +4769,6 @@
           "date": "2026-05-05",
           "start_iso": "2026-05-05T11:00:00-04:00",
           "venue_slug": "spotlight-stage"
-        }
-      ]
-    },
-    {
-      "name": "David Cunningham",
-      "company": "Consensys",
-      "title": "Global Head of Institutional Business",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F1337BFCED8088AE260263DE4AB8DB",
-          "title": "Capital Markets Reimagined",
-          "date": "2026-05-05",
-          "start_iso": "2026-05-05T10:15:00-04:00",
-          "venue_slug": "frontier-stage"
         }
       ]
     },

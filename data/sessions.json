@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-04T10:25:42.856Z",
+    "baked_at": "2026-05-04T12:56:32.663Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -4010,6 +4010,12 @@
           "role": "Moderator (Sponsor)"
         },
         {
+          "name": "David Cunningham",
+          "company": "Consensys",
+          "title": "Global Head of Institutional Business",
+          "role": "Speaker"
+        },
+        {
           "name": "Robert Bench",
           "company": "Radius Tech",
           "title": "",
@@ -4020,17 +4026,11 @@
           "company": "Stripe",
           "title": "",
           "role": "Speaker"
-        },
-        {
-          "name": "David  Cunningham",
-          "company": "Consensys",
-          "title": "",
-          "role": "Speaker"
         }
       ],
       "url": "/agenda/event/-pwc-sponsored-session-179",
       "active": true,
-      "mdate": "2026-05-03T23:40:18-04:00"
+      "mdate": "2026-05-04T08:48:52-04:00"
     },
     {
       "id": "11F13BFD55E406CBAE260263DE4AB8DB",
@@ -9745,7 +9745,7 @@
       ],
       "url": "/agenda/event/-ault-defi-trading-track-session-189",
       "active": true,
-      "mdate": "2026-05-02T20:28:11-04:00"
+      "mdate": "2026-05-04T08:10:48-04:00"
     },
     {
       "id": "11F13E47D229B6F8AE260263DE4AB8DB",
