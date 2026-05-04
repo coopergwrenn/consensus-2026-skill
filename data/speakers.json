@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-04T12:56:32.663Z",
+    "baked_at": "2026-05-04T15:21:42.027Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
@@ -6140,7 +6140,7 @@
     {
       "name": "Lia Müller Peña",
       "company": "ArthaX",
-      "title": "Founding Partner",
+      "title": "Managing Partner",
       "session_count": 1,
       "sessions": [
         {

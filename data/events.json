@@ -1,11 +1,11 @@
 {
   "meta": {
-    "baked_at": "2026-05-04T12:56:30.409Z",
+    "baked_at": "2026-05-04T15:21:39.918Z",
     "schema_version": 1,
     "source_url": "https://docs.google.com/spreadsheets/d/1xWmIHyEyOmPHfkYuZkucPRlLGWbb9CF6Oqvfl8FUV6k/gviz/tq?tqx=out:json&sheet=Consensus%20Miami%202026",
     "source_label": "plan.wtf — Consensus Miami 2026 (Google Sheets gviz)",
-    "record_count": 229,
-    "notes": "235 raw rows from gviz, 6 filtered (header/ad/out-of-window/unnamed), 229 retained."
+    "record_count": 228,
+    "notes": "234 raw rows from gviz, 6 filtered (header/ad/out-of-window/unnamed), 228 retained."
   },
   "records": [
     {
@@ -473,32 +473,6 @@
       "link": "https://luma.com/21ejzr4u",
       "has_food": true,
       "has_bar": true,
-      "note": null,
-      "source": "planwtf"
-    },
-    {
-      "id": "e81d06189bd568ff",
-      "date": "2026-05-04",
-      "day_of_week": "Mon",
-      "start_time": "12:00",
-      "end_time": "16:00",
-      "start_iso": "2026-05-04T12:00:00-04:00",
-      "end_iso": "2026-05-04T16:00:00-04:00",
-      "organizer": "Corinna Reibchen",
-      "name": "Live Crypto Trading Workshop – Miami",
-      "address": null,
-      "cost": "Free",
-      "is_free": true,
-      "tags": [
-        "Panel/Talk",
-        "Networking",
-        "VCs/Angels",
-        "AI",
-        "DeFi"
-      ],
-      "link": "https://luma.com/8tsv4igl",
-      "has_food": false,
-      "has_bar": false,
       "note": null,
       "source": "planwtf"
     },

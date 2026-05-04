@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-04T12:56:32.663Z",
+    "baked_at": "2026-05-04T15:21:42.027Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -3395,7 +3395,7 @@
     {
       "id": "11F11BDDA4F10FF598D30263DE4AB8DB",
       "title": "Your Agent's First Wallet: An Intro to x402 With Coinbase",
-      "description_html": null,
+      "description_html": "What does it mean for an AI agent to have a wallet? In this session, Coinbase breaks down x402 and how it enables agents to send payments over the internet. Join us as we walk through the basics of agent wallets and show how to get your first agent transacting.",
       "date": "2026-05-05",
       "day_of_week": "Tue",
       "start_iso": "2026-05-05T15:00:00-04:00",
@@ -3423,7 +3423,7 @@
       ],
       "url": "/agenda/event/-your-agents-first-wallet-an-intro-to-x402-with-coinbase-111",
       "active": true,
-      "mdate": "2026-04-30T15:56:47-04:00"
+      "mdate": "2026-05-04T10:12:38-04:00"
     },
     {
       "id": "11F123A6E6DBBF0498D30263DE4AB8DB",
@@ -4035,7 +4035,7 @@
     {
       "id": "11F13BFD55E406CBAE260263DE4AB8DB",
       "title": "The Old Rails Suck: Where Your Business Should Use Stablecoins",
-      "description_html": null,
+      "description_html": "Everyone is telling you stablecoins can reinvent your business, and you need to adopt them now before you get left behind. But you've still got questions and need a more thorough walkthrough of the use cases where stables shine. In this workshop, digital asset infrastructure provider Fireblocks explains how the corporate business model is being reshaped with programmable money that provides real-time settlement, automated treasury, and smart contract-enabled supply chains. And they'll dive into how AI agents are emerging as autonomous treasury operators managing liquidity, FX, and payments.",
       "date": "2026-05-05",
       "day_of_week": "Tue",
       "start_iso": "2026-05-05T16:00:00-04:00",
@@ -4062,7 +4062,7 @@
       ],
       "url": "/agenda/event/-the-old-rails-suck-where-your-business-should-use-stablecoins-221",
       "active": true,
-      "mdate": "2026-04-30T15:59:11-04:00"
+      "mdate": "2026-05-04T10:13:19-04:00"
     },
     {
       "id": "11F129E9EF8419B798D30263DE4AB8DB",
@@ -11351,7 +11351,7 @@
         {
           "name": "Lia Müller Peña",
           "company": "ArthaX",
-          "title": "Founding Partner",
+          "title": "Managing Partner",
           "role": "Moderator"
         }
       ],
