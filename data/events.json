@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-04T00:03:41.387Z",
+    "baked_at": "2026-05-04T04:09:40.186Z",
     "schema_version": 1,
     "source_url": "https://docs.google.com/spreadsheets/d/1xWmIHyEyOmPHfkYuZkucPRlLGWbb9CF6Oqvfl8FUV6k/gviz/tq?tqx=out:json&sheet=Consensus%20Miami%202026",
     "source_label": "plan.wtf — Consensus Miami 2026 (Google Sheets gviz)",
@@ -274,7 +274,7 @@
       "end_iso": "2026-05-04T18:30:00-04:00",
       "organizer": "Rayls .",
       "name": "Rayls ClubHaus · Consensus Miami",
-      "address": "Register to see location",
+      "address": null,
       "cost": "Free",
       "is_free": true,
       "tags": [

@@ -1,10 +1,10 @@
 {
   "meta": {
-    "baked_at": "2026-05-04T00:03:43.071Z",
+    "baked_at": "2026-05-04T04:09:42.418Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
-    "record_count": 326,
+    "record_count": 338,
     "notes": "All venues fetched cleanly."
   },
   "records": [
@@ -1067,6 +1067,41 @@
       "mdate": "2026-04-19T12:01:34-04:00"
     },
     {
+      "id": "11F14756AF62C670AE260263DE4AB8DB",
+      "title": "EasyA Consensus Hackathon Opening Ceremony",
+      "description_html": null,
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_iso": "2026-05-05T11:00:00-04:00",
+      "end_iso": "2026-05-05T11:30:00-04:00",
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "duration_minutes": 30,
+      "venue_slug": "hackathon",
+      "venue_name": "Hackathon",
+      "venue_full_name": "MBCC: Hackathon",
+      "venue_color": "#ffaec9",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Dom Kwok",
+          "company": "EasyA",
+          "title": "Co-Founder",
+          "role": "Speaker"
+        },
+        {
+          "name": "Phil Kwok",
+          "company": "EasyA",
+          "title": "Co-Founder",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-easya-consensus-hackathon-opening-ceremony-390",
+      "active": true,
+      "mdate": "2026-05-03T21:15:41-04:00"
+    },
+    {
       "id": "11F11738BD98A40B98D30263DE4AB8DB",
       "title": "Unlocking Institutional Capital by Building Blockchain’s Compliance Layer",
       "description_html": "Major financial institutions like BlackRock, Fidelity, and UBS want access to onchain financial markets, but onchain compliance remains a significant barrier. Protocols today lack native identity, sanctions screening, and jurisdictional controls, keeping trillions in institutional liquidity sidelined and creating friction for both institutions and end users. In this fireside chat, Persona and Chainlink will explore how onchain attestations and identity infrastructure unlock compliant institutional participation in onchain financial markets. The conversation will cover how programmable, reusable identity works in practice, how it reduces fragmentation across platforms, and how it shifts compliance from siloed processes into a shared, verifiable standard. The discussion will also examine real-world adoption: who benefits first, what the most immediate use cases look like, and how the onchain financial system is set to evolve over the next few years. Attendees will gain a clearer understanding of how identity standards, onchain attestations, and oracle infrastructure work together to balance transparency, privacy, and security, enabling the next wave of institutional adoption.",
@@ -2023,6 +2058,28 @@
       "mdate": "2026-05-01T06:43:38-04:00"
     },
     {
+      "id": "11F14756E4D952C9AE260263DE4AB8DB",
+      "title": "AWS Hackathon Workshop",
+      "description_html": "<p>Speakers: </p><p>Nile Natsheh, Global Web3 GTM at AWS<br />Jordan Davis, AWS Startups<br /><br /></p>",
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_iso": "2026-05-05T13:00:00-04:00",
+      "end_iso": "2026-05-05T13:45:00-04:00",
+      "start_time": "13:00",
+      "end_time": "13:45",
+      "duration_minutes": 45,
+      "venue_slug": "hackathon",
+      "venue_name": "Hackathon",
+      "venue_full_name": "MBCC: Hackathon",
+      "venue_color": "#ffaec9",
+      "tracks": [],
+      "tags": [],
+      "speakers": [],
+      "url": "/agenda/event/-aws-hackathon-workshop-391",
+      "active": true,
+      "mdate": "2026-05-03T21:18:44-04:00"
+    },
+    {
       "id": "11F13DA482A66FD6AE260263DE4AB8DB",
       "title": "Guided Connections",
       "description_html": "A fast-paced, structured networking session designed to spark meaningful connections in just 30 minutes. Participants move through a guided sequence of introductions from pairs to small groups and culminating in a dynamic group exchange. By the end, each attendee will have met seven new people through a seamless, high-value experience.",
@@ -2629,6 +2686,28 @@
       "url": "/agenda/event/-coindesk-live-ari-redbord-347",
       "active": true,
       "mdate": "2026-04-28T21:26:11-04:00"
+    },
+    {
+      "id": "11F14756FBAB2623AE260263DE4AB8DB",
+      "title": "Introducing x402: A New Standard for Internet-Native Payments. Presented by Coinbase and AWS Startups.",
+      "description_html": "<p>Speakers: </p><p>Nile Natsheh, Global Web3 GTM at AWS&nbsp;<br />Jordan Davis, AWS Startups<br />Kevin Leffew, GTM Lead, Coinbase Developer Platform<br /><br /></p>",
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_iso": "2026-05-05T14:00:00-04:00",
+      "end_iso": "2026-05-05T14:45:00-04:00",
+      "start_time": "14:00",
+      "end_time": "14:45",
+      "duration_minutes": 45,
+      "venue_slug": "hackathon",
+      "venue_name": "Hackathon",
+      "venue_full_name": "MBCC: Hackathon",
+      "venue_color": "#ffaec9",
+      "tracks": [],
+      "tags": [],
+      "speakers": [],
+      "url": "/agenda/event/-introducing-x402-a-new-standard-for-internet-native-payments-presented-by-coinbase-and-aws-startups-392",
+      "active": true,
+      "mdate": "2026-05-03T21:19:03-04:00"
     },
     {
       "id": "11F128600ECA3D9998D30263DE4AB8DB",
@@ -3928,12 +4007,30 @@
           "name": "Matt Blumenfeld",
           "company": "PwC",
           "title": "Partner",
+          "role": "Moderator (Sponsor)"
+        },
+        {
+          "name": "Robert Bench",
+          "company": "Radius Tech",
+          "title": "",
+          "role": "Speaker"
+        },
+        {
+          "name": "Antonio  Talledo",
+          "company": "Stripe",
+          "title": "",
+          "role": "Speaker"
+        },
+        {
+          "name": "David  Cunningham",
+          "company": "Consensys",
+          "title": "",
           "role": "Speaker"
         }
       ],
       "url": "/agenda/event/-pwc-sponsored-session-179",
       "active": true,
-      "mdate": "2026-05-03T11:24:30-04:00"
+      "mdate": "2026-05-03T23:40:18-04:00"
     },
     {
       "id": "11F13BFD55E406CBAE260263DE4AB8DB",
@@ -4678,6 +4775,28 @@
       "mdate": "2026-05-01T06:39:23-04:00"
     },
     {
+      "id": "11F147572281AF01AE260263DE4AB8DB",
+      "title": "Axal. From EasyA to a16z. The Journey Bringing Yield to the World.",
+      "description_html": "Speaker: Ash Ahmad, Co-founder of Axal&nbsp;",
+      "date": "2026-05-06",
+      "day_of_week": "Wed",
+      "start_iso": "2026-05-06T10:00:00-04:00",
+      "end_iso": "2026-05-06T10:45:00-04:00",
+      "start_time": "10:00",
+      "end_time": "10:45",
+      "duration_minutes": 45,
+      "venue_slug": "hackathon",
+      "venue_name": "Hackathon",
+      "venue_full_name": "MBCC: Hackathon",
+      "venue_color": "#ffaec9",
+      "tracks": [],
+      "tags": [],
+      "speakers": [],
+      "url": "/agenda/event/-axal-from-easya-to-a16z-the-journey-bringing-yield-to-the-world-393",
+      "active": true,
+      "mdate": "2026-05-03T21:18:19-04:00"
+    },
+    {
       "id": "11F13DA4CAFB7EC7AE260263DE4AB8DB",
       "title": "Guided Connections",
       "description_html": "A fast-paced, structured networking session designed to spark meaningful connections in just 30 minutes. Participants move through a guided sequence of introductions from pairs to small groups and culminating in a dynamic group exchange. By the end, each attendee will have met seven new people through a seamless, high-value experience.",
@@ -4792,11 +4911,17 @@
           "company": "ACTAI Ventures",
           "title": "Co-Founder and Managing Partner",
           "role": "Speaker"
+        },
+        {
+          "name": "Jennifer Styles",
+          "company": "Symphony",
+          "title": "Chief Operating Officer",
+          "role": "Speaker"
         }
       ],
       "url": "/agenda/event/-pitchfest-semi-finals-311",
       "active": true,
-      "mdate": "2026-04-30T16:02:21-04:00"
+      "mdate": "2026-05-03T21:30:58-04:00"
     },
     {
       "id": "11F123A62AF852FE98D30263DE4AB8DB",
@@ -4918,15 +5043,21 @@
       ],
       "speakers": [
         {
+          "name": "Bobby Bishop",
+          "company": "Duke Law School",
+          "title": "Associate Professor",
+          "role": "Speaker"
+        },
+        {
           "name": "Austin Campbell",
           "company": "Zero Knowledge Group",
           "title": "Founder & Managing Partner",
           "role": "Speaker"
         },
         {
-          "name": "David Dewhurst",
-          "company": "DARPA",
-          "title": "Program Manager",
+          "name": "Jason Reding Quiñones",
+          "company": "U. S. Department of Justice",
+          "title": "United States Attorney",
           "role": "Speaker"
         },
         {
@@ -4944,7 +5075,7 @@
       ],
       "url": "/agenda/event/-treasuries-on-chain-threats-off-grid-rethinking-economic-defense-for-the-crypto-age-28",
       "active": true,
-      "mdate": "2026-05-01T06:31:06-04:00"
+      "mdate": "2026-05-03T21:06:19-04:00"
     },
     {
       "id": "11F145840280E9E1AE260263DE4AB8DB",
@@ -5345,11 +5476,17 @@
           "company": "Borderless",
           "title": "Partner, Head of Research",
           "role": "Speaker"
+        },
+        {
+          "name": "Jennifer Styles",
+          "company": "Symphony",
+          "title": "Chief Operating Officer",
+          "role": "Speaker"
         }
       ],
       "url": "/agenda/event/-pitchfest-semi-finals-312",
       "active": true,
-      "mdate": "2026-04-30T16:02:32-04:00"
+      "mdate": "2026-05-03T21:31:10-04:00"
     },
     {
       "id": "11F128785AD4294A98D30263DE4AB8DB",
@@ -5389,6 +5526,28 @@
       "url": "/agenda/event/-bitcoin-then-now-and-later-reflecting-on-bitcoins-future-17-years-on-163",
       "active": true,
       "mdate": "2026-05-01T06:45:48-04:00"
+    },
+    {
+      "id": "11F147575744B572AE260263DE4AB8DB",
+      "title": "Building Awesome dApps on Solana Mobile",
+      "description_html": "Speaker: Mike Sausalito, Developer Relations at Solana Mobile",
+      "date": "2026-05-06",
+      "day_of_week": "Wed",
+      "start_iso": "2026-05-06T11:00:00-04:00",
+      "end_iso": "2026-05-06T11:45:00-04:00",
+      "start_time": "11:00",
+      "end_time": "11:45",
+      "duration_minutes": 45,
+      "venue_slug": "hackathon",
+      "venue_name": "Hackathon",
+      "venue_full_name": "MBCC: Hackathon",
+      "venue_color": "#ffaec9",
+      "tracks": [],
+      "tags": [],
+      "speakers": [],
+      "url": "/agenda/event/-building-awesome-dapps-on-solana-mobile-394",
+      "active": true,
+      "mdate": "2026-05-03T21:19:47-04:00"
     },
     {
       "id": "11F117E7E82451BC98D30263DE4AB8DB",
@@ -5751,11 +5910,17 @@
           "company": "Neoclassical Capital",
           "title": "Managing Partner & Co-Founder",
           "role": "Speaker"
+        },
+        {
+          "name": "Jennifer Styles",
+          "company": "Symphony",
+          "title": "Chief Operating Officer",
+          "role": "Speaker"
         }
       ],
       "url": "/agenda/event/-pitchfest-semi-finals-313",
       "active": true,
-      "mdate": "2026-05-02T10:04:39-04:00"
+      "mdate": "2026-05-03T21:31:19-04:00"
     },
     {
       "id": "11F13C0A4BC221DDAE260263DE4AB8DB",
@@ -5929,6 +6094,28 @@
       "url": "/agenda/event/-coindesk-live-ian-de-bode-227",
       "active": true,
       "mdate": "2026-04-19T11:40:31-04:00"
+    },
+    {
+      "id": "11F147576A6114DCAE260263DE4AB8DB",
+      "title": "How ChainLens is Building the future of AI Agents",
+      "description_html": "Speaker: Hojae Lee, Co-founder of ChainLens",
+      "date": "2026-05-06",
+      "day_of_week": "Wed",
+      "start_iso": "2026-05-06T12:00:00-04:00",
+      "end_iso": "2026-05-06T12:30:00-04:00",
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "duration_minutes": 30,
+      "venue_slug": "hackathon",
+      "venue_name": "Hackathon",
+      "venue_full_name": "MBCC: Hackathon",
+      "venue_color": "#ffaec9",
+      "tracks": [],
+      "tags": [],
+      "speakers": [],
+      "url": "/agenda/event/-how-chainlens-is-building-the-future-of-ai-agents-395",
+      "active": true,
+      "mdate": "2026-05-03T21:20:19-04:00"
     },
     {
       "id": "11F11F10B42756CC98D30263DE4AB8DB",
@@ -6484,6 +6671,28 @@
       "mdate": "2026-04-30T15:00:18-04:00"
     },
     {
+      "id": "11F147577F0B7BF7AE260263DE4AB8DB",
+      "title": "CoinDesk Data Workshop",
+      "description_html": "Speaker: Romain DeBorne, Data Scientist at CoinDesk",
+      "date": "2026-05-06",
+      "day_of_week": "Wed",
+      "start_iso": "2026-05-06T13:15:00-04:00",
+      "end_iso": "2026-05-06T14:00:00-04:00",
+      "start_time": "13:15",
+      "end_time": "14:00",
+      "duration_minutes": 45,
+      "venue_slug": "hackathon",
+      "venue_name": "Hackathon",
+      "venue_full_name": "MBCC: Hackathon",
+      "venue_color": "#ffaec9",
+      "tracks": [],
+      "tags": [],
+      "speakers": [],
+      "url": "/agenda/event/-coindesk-data-workshop-396",
+      "active": true,
+      "mdate": "2026-05-03T21:20:54-04:00"
+    },
+    {
       "id": "11F1174874BB1A5E98D30263DE4AB8DB",
       "title": "Institutional DeFi Surge: Infra Powering Wall Street Adoption",
       "description_html": null,
@@ -7036,6 +7245,28 @@
       "url": "/agenda/event/-coindesk-live-alex-rodriguez-238",
       "active": true,
       "mdate": "2026-04-19T11:47:30-04:00"
+    },
+    {
+      "id": "11F14757B6DA8E82AE260263DE4AB8DB",
+      "title": "Praxis: How We're Building The Next Palantir",
+      "description_html": "Speaker: Aabis, Evan and Louis, Co-founders of Praxis",
+      "date": "2026-05-06",
+      "day_of_week": "Wed",
+      "start_iso": "2026-05-06T14:15:00-04:00",
+      "end_iso": "2026-05-06T15:00:00-04:00",
+      "start_time": "14:15",
+      "end_time": "15:00",
+      "duration_minutes": 45,
+      "venue_slug": "hackathon",
+      "venue_name": "Hackathon",
+      "venue_full_name": "MBCC: Hackathon",
+      "venue_color": "#ffaec9",
+      "tracks": [],
+      "tags": [],
+      "speakers": [],
+      "url": "/agenda/event/-praxis-how-were-building-the-next-palantir-397",
+      "active": true,
+      "mdate": "2026-05-03T21:24:47-04:00"
     },
     {
       "id": "11F118CF1A9B1BA798D30263DE4AB8DB",
@@ -8039,6 +8270,41 @@
       "mdate": "2026-04-28T21:17:55-04:00"
     },
     {
+      "id": "11F14757C6685F71AE260263DE4AB8DB",
+      "title": "CoinDesk PitchFest Agentic Side Quest",
+      "description_html": null,
+      "date": "2026-05-06",
+      "day_of_week": "Wed",
+      "start_iso": "2026-05-06T16:00:00-04:00",
+      "end_iso": "2026-05-06T17:00:00-04:00",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "duration_minutes": 60,
+      "venue_slug": "hackathon",
+      "venue_name": "Hackathon",
+      "venue_full_name": "MBCC: Hackathon",
+      "venue_color": "#ffaec9",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Dom Kwok",
+          "company": "EasyA",
+          "title": "Co-Founder",
+          "role": "Speaker"
+        },
+        {
+          "name": "Phil Kwok",
+          "company": "EasyA",
+          "title": "Co-Founder",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-coindesk-pitchfest-agentic-side-quest-398",
+      "active": true,
+      "mdate": "2026-05-03T21:23:08-04:00"
+    },
+    {
       "id": "11F14268B608CA9EAE260263DE4AB8DB",
       "title": "PitchFest Side Quest: Agentic Commerce Finals",
       "description_html": null,
@@ -8093,8 +8359,8 @@
       "speakers": [
         {
           "name": "Gem Ozan",
-          "company": "Midnight.City",
-          "title": "Chief Architect",
+          "company": "NexiFuse Health",
+          "title": "Founder",
           "role": "Speaker"
         },
         {
@@ -10249,6 +10515,41 @@
       "mdate": "2026-05-01T06:46:00-04:00"
     },
     {
+      "id": "11F147563AA73405AE260263DE4AB8DB",
+      "title": "How We're Accelerating the Internet of Value",
+      "description_html": "Phil and Dom, founders of&nbsp;EasyA [easya.io], the&nbsp;Web3 engine powering the world&rsquo;s leading blockchains talk about their mission to accelerate the internet of value. Blockchain has the potential to disrupt the entire multi-trillion dollar financial industry. But how will this happen and what will it take? In this talk, Phil and Dom share their thoughts on what's in store for the future of the internet and what it means for the lives of billions around the world.<br /><br />",
+      "date": "2026-05-07",
+      "day_of_week": "Thu",
+      "start_iso": "2026-05-07T13:00:00-04:00",
+      "end_iso": "2026-05-07T13:15:00-04:00",
+      "start_time": "13:00",
+      "end_time": "13:15",
+      "duration_minutes": 15,
+      "venue_slug": "spotlight-stage",
+      "venue_name": "Spotlight Stage",
+      "venue_full_name": "MBCC: Spotlight Stage",
+      "venue_color": "#b5e61d",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Dom Kwok",
+          "company": "EasyA",
+          "title": "Co-Founder",
+          "role": "Speaker"
+        },
+        {
+          "name": "Phil Kwok",
+          "company": "EasyA",
+          "title": "Co-Founder",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-how-were-accelerating-the-internet-of-value-389",
+      "active": true,
+      "mdate": "2026-05-03T22:08:01-04:00"
+    },
+    {
       "id": "11F11BE2A9C0310E98D30263DE4AB8DB",
       "title": "Degen Agents: Trading on Stock and Prediction Markets With MoonPay",
       "description_html": "Everyone is talking about prediction markets. Everyone is watching the stock markets. <br /><br />Join MoonPay for a hands-on demonstration on how to use AI agents &mdash;building on top of OpenClaw and x402 &mdash;&nbsp;to trade like a proper degen. You'll leave this session with real knowledge about how to orchestrate your agents for financial workflows across either market.",
@@ -10576,6 +10877,41 @@
       "url": "/agenda/event/-the-2026-election-stakes-what-2027-will-bring-172",
       "active": true,
       "mdate": "2026-05-02T13:29:50-04:00"
+    },
+    {
+      "id": "11F14757F398C650AE260263DE4AB8DB",
+      "title": "EasyA Consensus Hackathon Demos and Pitch Competition",
+      "description_html": null,
+      "date": "2026-05-07",
+      "day_of_week": "Thu",
+      "start_iso": "2026-05-07T13:30:00-04:00",
+      "end_iso": "2026-05-07T15:00:00-04:00",
+      "start_time": "13:30",
+      "end_time": "15:00",
+      "duration_minutes": 90,
+      "venue_slug": "hackathon",
+      "venue_name": "Hackathon",
+      "venue_full_name": "MBCC: Hackathon",
+      "venue_color": "#ffaec9",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Dom Kwok",
+          "company": "EasyA",
+          "title": "Co-Founder",
+          "role": "Speaker"
+        },
+        {
+          "name": "Phil Kwok",
+          "company": "EasyA",
+          "title": "Co-Founder",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-easya-consensus-hackathon-demos-and-pitch-competition-399",
+      "active": true,
+      "mdate": "2026-05-03T21:25:11-04:00"
     },
     {
       "id": "11F118D08DB491F598D30263DE4AB8DB",
@@ -11954,6 +12290,41 @@
       "mdate": "2026-04-28T21:33:40-04:00"
     },
     {
+      "id": "11F147582A1A0AD4AE260263DE4AB8DB",
+      "title": "Hackathon Awards Ceremony presented by Solana, Coinbase and AWS",
+      "description_html": null,
+      "date": "2026-05-07",
+      "day_of_week": "Thu",
+      "start_iso": "2026-05-07T16:15:00-04:00",
+      "end_iso": "2026-05-07T17:00:00-04:00",
+      "start_time": "16:15",
+      "end_time": "17:00",
+      "duration_minutes": 45,
+      "venue_slug": "hackathon",
+      "venue_name": "Hackathon",
+      "venue_full_name": "MBCC: Hackathon",
+      "venue_color": "#ffaec9",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Dom Kwok",
+          "company": "EasyA",
+          "title": "Co-Founder",
+          "role": "Speaker"
+        },
+        {
+          "name": "Phil Kwok",
+          "company": "EasyA",
+          "title": "Co-Founder",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-hackathon-awards-ceremony-presented-by-solana-coinbase-and-aws-400",
+      "active": true,
+      "mdate": "2026-05-03T21:25:59-04:00"
+    },
+    {
       "id": "11F11BBD67E7DDF098D30263DE4AB8DB",
       "title": "Are Prediction Markets Gambling or Not?",
       "description_html": "Prediction markets have taken the country by storm &mdash; and everyone is paying attention. But are they gambling or are they another form of derivatives? In other words, should states be able to regulate them or is this a strictly federal issue? Legal experts debate these positions in a preview of the eventual Supreme Court case.&nbsp;",
@@ -12043,11 +12414,17 @@
           "company": "Draper University",
           "title": "VP of Venture Ecosystem",
           "role": "Speaker"
+        },
+        {
+          "name": "Jennifer Styles",
+          "company": "Symphony",
+          "title": "Chief Operating Officer",
+          "role": "Speaker"
         }
       ],
       "url": "/agenda/event/-pitchfest-finals-39",
       "active": true,
-      "mdate": "2026-04-30T14:52:21-04:00"
+      "mdate": "2026-05-03T21:30:38-04:00"
     },
     {
       "id": "11F12860C57D74D398D30263DE4AB8DB",

@@ -1,10 +1,10 @@
 {
   "meta": {
-    "baked_at": "2026-05-04T00:03:43.071Z",
+    "baked_at": "2026-05-04T04:09:42.418Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
-    "record_count": 458
+    "record_count": 464
   },
   "records": [
     {
@@ -335,6 +335,92 @@
       ]
     },
     {
+      "name": "Dom Kwok",
+      "company": "EasyA",
+      "title": "Co-Founder",
+      "session_count": 5,
+      "sessions": [
+        {
+          "id": "11F14756AF62C670AE260263DE4AB8DB",
+          "title": "EasyA Consensus Hackathon Opening Ceremony",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T11:00:00-04:00",
+          "venue_slug": "hackathon"
+        },
+        {
+          "id": "11F14757C6685F71AE260263DE4AB8DB",
+          "title": "CoinDesk PitchFest Agentic Side Quest",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T16:00:00-04:00",
+          "venue_slug": "hackathon"
+        },
+        {
+          "id": "11F147563AA73405AE260263DE4AB8DB",
+          "title": "How We're Accelerating the Internet of Value",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T13:00:00-04:00",
+          "venue_slug": "spotlight-stage"
+        },
+        {
+          "id": "11F14757F398C650AE260263DE4AB8DB",
+          "title": "EasyA Consensus Hackathon Demos and Pitch Competition",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T13:30:00-04:00",
+          "venue_slug": "hackathon"
+        },
+        {
+          "id": "11F147582A1A0AD4AE260263DE4AB8DB",
+          "title": "Hackathon Awards Ceremony presented by Solana, Coinbase and AWS",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T16:15:00-04:00",
+          "venue_slug": "hackathon"
+        }
+      ]
+    },
+    {
+      "name": "Jennifer Styles",
+      "company": "Symphony",
+      "title": "Chief Operating Officer",
+      "session_count": 5,
+      "sessions": [
+        {
+          "id": "11F13CDE8B447502AE260263DE4AB8DB",
+          "title": "Human Intelligence: Leadership in the Age of Digital Identity and Acceleration",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T14:50:00-04:00",
+          "venue_slug": "convergence-stage"
+        },
+        {
+          "id": "11F1426E10000549AE260263DE4AB8DB",
+          "title": "PitchFest Semi-Finals",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T10:00:00-04:00",
+          "venue_slug": "workshop-stage"
+        },
+        {
+          "id": "11F1426E6E6220C2AE260263DE4AB8DB",
+          "title": "PitchFest Semi-Finals",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T10:50:00-04:00",
+          "venue_slug": "workshop-stage"
+        },
+        {
+          "id": "11F1426F9FC6D0FCAE260263DE4AB8DB",
+          "title": "PitchFest Semi-Finals",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T11:40:00-04:00",
+          "venue_slug": "workshop-stage"
+        },
+        {
+          "id": "11F117D722CDED6898D30263DE4AB8DB",
+          "title": "PitchFest Finals",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T16:30:00-04:00",
+          "venue_slug": "mainstage"
+        }
+      ]
+    },
+    {
       "name": "Jesse Hamilton",
       "company": "CoinDesk",
       "title": "Deputy Managing Editor, Global Policy & Regulation",
@@ -374,6 +460,49 @@
           "date": "2026-05-07",
           "start_iso": "2026-05-07T14:55:00-04:00",
           "venue_slug": "frontier-stage"
+        }
+      ]
+    },
+    {
+      "name": "Phil Kwok",
+      "company": "EasyA",
+      "title": "Co-Founder",
+      "session_count": 5,
+      "sessions": [
+        {
+          "id": "11F14756AF62C670AE260263DE4AB8DB",
+          "title": "EasyA Consensus Hackathon Opening Ceremony",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T11:00:00-04:00",
+          "venue_slug": "hackathon"
+        },
+        {
+          "id": "11F14757C6685F71AE260263DE4AB8DB",
+          "title": "CoinDesk PitchFest Agentic Side Quest",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T16:00:00-04:00",
+          "venue_slug": "hackathon"
+        },
+        {
+          "id": "11F147563AA73405AE260263DE4AB8DB",
+          "title": "How We're Accelerating the Internet of Value",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T13:00:00-04:00",
+          "venue_slug": "spotlight-stage"
+        },
+        {
+          "id": "11F14757F398C650AE260263DE4AB8DB",
+          "title": "EasyA Consensus Hackathon Demos and Pitch Competition",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T13:30:00-04:00",
+          "venue_slug": "hackathon"
+        },
+        {
+          "id": "11F147582A1A0AD4AE260263DE4AB8DB",
+          "title": "Hackathon Awards Ceremony presented by Solana, Coinbase and AWS",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T16:15:00-04:00",
+          "venue_slug": "hackathon"
         }
       ]
     },
@@ -3782,6 +3911,21 @@
       ]
     },
     {
+      "name": "Antonio  Talledo",
+      "company": "Stripe",
+      "title": "",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F12F894417E286AE260263DE4AB8DB",
+          "title": "To Build or Not to Build: The Infrastructure Inflection Point",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T16:00:00-04:00",
+          "venue_slug": "spotlight-stage"
+        }
+      ]
+    },
+    {
       "name": "Arik Galansky",
       "company": "Zama",
       "title": "CPO",
@@ -4033,6 +4177,21 @@
           "date": "2026-05-07",
           "start_iso": "2026-05-07T14:00:00-04:00",
           "venue_slug": "mainstage"
+        }
+      ]
+    },
+    {
+      "name": "Bobby Bishop",
+      "company": "Duke Law School",
+      "title": "Associate Professor",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F117481C78EC4F98D30263DE4AB8DB",
+          "title": "Treasuries on-Chain, Threats Off-Grid: Rethinking Economic Defense for the Crypto Age",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T10:15:00-04:00",
+          "venue_slug": "convergence-stage"
         }
       ]
     },
@@ -4577,6 +4736,21 @@
       ]
     },
     {
+      "name": "David  Cunningham",
+      "company": "Consensys",
+      "title": "",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F12F894417E286AE260263DE4AB8DB",
+          "title": "To Build or Not to Build: The Infrastructure Inflection Point",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T16:00:00-04:00",
+          "venue_slug": "spotlight-stage"
+        }
+      ]
+    },
+    {
       "name": "David Chachanko",
       "company": "Persona",
       "title": "Product Architect",
@@ -4603,21 +4777,6 @@
           "date": "2026-05-05",
           "start_iso": "2026-05-05T10:15:00-04:00",
           "venue_slug": "frontier-stage"
-        }
-      ]
-    },
-    {
-      "name": "David Dewhurst",
-      "company": "DARPA",
-      "title": "Program Manager",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F117481C78EC4F98D30263DE4AB8DB",
-          "title": "Treasuries on-Chain, Threats Off-Grid: Rethinking Economic Defense for the Crypto Age",
-          "date": "2026-05-06",
-          "start_iso": "2026-05-06T10:15:00-04:00",
-          "venue_slug": "convergence-stage"
         }
       ]
     },
@@ -4923,8 +5082,8 @@
     },
     {
       "name": "Gem Ozan",
-      "company": "Midnight.City",
-      "title": "Chief Architect",
+      "company": "NexiFuse Health",
+      "title": "Founder",
       "session_count": 1,
       "sessions": [
         {
@@ -5357,6 +5516,21 @@
       ]
     },
     {
+      "name": "Jason Reding Quiñones",
+      "company": "U. S. Department of Justice",
+      "title": "United States Attorney",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F117481C78EC4F98D30263DE4AB8DB",
+          "title": "Treasuries on-Chain, Threats Off-Grid: Rethinking Economic Defense for the Crypto Age",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T10:15:00-04:00",
+          "venue_slug": "convergence-stage"
+        }
+      ]
+    },
+    {
       "name": "Jay Patel",
       "company": "Lygos Finance",
       "title": "Co-Founder & CEO",
@@ -5428,21 +5602,6 @@
           "date": "2026-05-07",
           "start_iso": "2026-05-07T13:15:00-04:00",
           "venue_slug": "mainstage"
-        }
-      ]
-    },
-    {
-      "name": "Jennifer Styles",
-      "company": "Symphony",
-      "title": "Chief Operating Officer",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F13CDE8B447502AE260263DE4AB8DB",
-          "title": "Human Intelligence: Leadership in the Age of Digital Identity and Acceleration",
-          "date": "2026-05-05",
-          "start_iso": "2026-05-05T14:50:00-04:00",
-          "venue_slug": "convergence-stage"
         }
       ]
     },
@@ -7348,6 +7507,21 @@
           "date": "2026-05-05",
           "start_iso": "2026-05-05T10:50:00-04:00",
           "venue_slug": "mainstage"
+        }
+      ]
+    },
+    {
+      "name": "Robert Bench",
+      "company": "Radius Tech",
+      "title": "",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F12F894417E286AE260263DE4AB8DB",
+          "title": "To Build or Not to Build: The Infrastructure Inflection Point",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T16:00:00-04:00",
+          "venue_slug": "spotlight-stage"
         }
       ]
     },
