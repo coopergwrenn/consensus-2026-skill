@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-04T15:21:42.027Z",
+    "baked_at": "2026-05-04T17:51:26.988Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
@@ -1013,6 +1013,35 @@
       ]
     },
     {
+      "name": "Richard Widmann",
+      "company": "Google Cloud",
+      "title": "Global Head of Web3 Strategy",
+      "session_count": 3,
+      "sessions": [
+        {
+          "id": "11F1247368BAF12898D30263DE4AB8DB",
+          "title": "Fireside chat: Anchorage Digital and Google Cloud",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T12:20:00-04:00",
+          "venue_slug": "mainstage"
+        },
+        {
+          "id": "11F1436BB5364E9EAE260263DE4AB8DB",
+          "title": "CoinDesk Live: Richard Widmann",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T14:30:00-04:00",
+          "venue_slug": "coindesk-live-studio"
+        },
+        {
+          "id": "11F118CCA532CFB498D30263DE4AB8DB",
+          "title": "Scaling Agentic Commerce through Crypto-Rails and Open Protocols",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T13:15:00-04:00",
+          "venue_slug": "mainstage"
+        }
+      ]
+    },
+    {
       "name": "Ryan Rugg",
       "company": "Citi",
       "title": "Head of Digital Assets, Treasury and Trade Solutions",
@@ -1236,6 +1265,28 @@
           "date": "2026-05-07",
           "start_iso": "2026-05-07T13:00:00-04:00",
           "venue_slug": "frontier-stage"
+        }
+      ]
+    },
+    {
+      "name": "Amanda Terry",
+      "company": "ACTAI Ventures",
+      "title": "Co-Founder and Managing Partner",
+      "session_count": 2,
+      "sessions": [
+        {
+          "id": "11F1426E10000549AE260263DE4AB8DB",
+          "title": "PitchFest Semi-Finals",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T10:00:00-04:00",
+          "venue_slug": "workshop-stage"
+        },
+        {
+          "id": "11F117D722CDED6898D30263DE4AB8DB",
+          "title": "PitchFest Finals",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T16:30:00-04:00",
+          "venue_slug": "mainstage"
         }
       ]
     },
@@ -3022,28 +3073,6 @@
       ]
     },
     {
-      "name": "Richard Widmann",
-      "company": "Google Cloud",
-      "title": "Global Head of Web3 Strategy",
-      "session_count": 2,
-      "sessions": [
-        {
-          "id": "11F1436BB5364E9EAE260263DE4AB8DB",
-          "title": "CoinDesk Live: Richard Widmann",
-          "date": "2026-05-05",
-          "start_iso": "2026-05-05T14:30:00-04:00",
-          "venue_slug": "coindesk-live-studio"
-        },
-        {
-          "id": "11F118CCA532CFB498D30263DE4AB8DB",
-          "title": "Scaling Agentic Commerce through Crypto-Rails and Open Protocols",
-          "date": "2026-05-07",
-          "start_iso": "2026-05-07T13:15:00-04:00",
-          "venue_slug": "mainstage"
-        }
-      ]
-    },
-    {
       "name": "Ron Hammond",
       "company": "Wintermute",
       "title": "Head of Policy and Advocacy",
@@ -3809,21 +3838,6 @@
           "date": "2026-05-07",
           "start_iso": "2026-05-07T16:10:00-04:00",
           "venue_slug": "convergence-stage"
-        }
-      ]
-    },
-    {
-      "name": "Amanda Terry",
-      "company": "ACTAI Ventures",
-      "title": "Co-Founder and Managing Partner",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F1426E10000549AE260263DE4AB8DB",
-          "title": "PitchFest Semi-Finals",
-          "date": "2026-05-06",
-          "start_iso": "2026-05-06T10:00:00-04:00",
-          "venue_slug": "workshop-stage"
         }
       ]
     },

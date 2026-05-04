@@ -1,11 +1,11 @@
 {
   "meta": {
-    "baked_at": "2026-05-04T15:21:39.918Z",
+    "baked_at": "2026-05-04T17:51:25.111Z",
     "schema_version": 1,
     "source_url": "https://docs.google.com/spreadsheets/d/1xWmIHyEyOmPHfkYuZkucPRlLGWbb9CF6Oqvfl8FUV6k/gviz/tq?tqx=out:json&sheet=Consensus%20Miami%202026",
     "source_label": "plan.wtf — Consensus Miami 2026 (Google Sheets gviz)",
-    "record_count": 228,
-    "notes": "234 raw rows from gviz, 6 filtered (header/ad/out-of-window/unnamed), 228 retained."
+    "record_count": 230,
+    "notes": "241 raw rows from gviz, 11 filtered (header/ad/out-of-window/unnamed), 230 retained."
   },
   "records": [
     {
@@ -5106,6 +5106,29 @@
       "source": "planwtf"
     },
     {
+      "id": "60239ac09eda06f0",
+      "date": "2026-05-07",
+      "day_of_week": "Thu",
+      "start_time": "09:30",
+      "end_time": "11:30",
+      "start_iso": "2026-05-07T09:30:00-04:00",
+      "end_iso": "2026-05-07T11:30:00-04:00",
+      "organizer": "IgorFS",
+      "name": "Prediction Nerds Meetup",
+      "address": "Miami Beach, FL, USA",
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Networking",
+        "Devs/Builders"
+      ],
+      "link": "https://luma.com/8orkra6x",
+      "has_food": true,
+      "has_bar": false,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
       "id": "cf5560d672078cb9",
       "date": "2026-05-07",
       "day_of_week": "Thu",
@@ -5280,6 +5303,39 @@
       "link": "https://luma.com/FoundationFi",
       "has_food": true,
       "has_bar": false,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
+      "id": "abe312ba939bcf62",
+      "date": "2026-05-07",
+      "day_of_week": "Thu",
+      "start_time": "15:00",
+      "end_time": "19:00",
+      "start_iso": "2026-05-07T15:00:00-04:00",
+      "end_iso": "2026-05-07T19:00:00-04:00",
+      "organizer": "Logan Wilkes",
+      "name": "Aura Farming X Envy Models",
+      "address": "South Beach, Miami Beach, FL",
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Networking",
+        "Party",
+        "Dinner",
+        "Art",
+        "Devs/Builders",
+        "VCs/Angels",
+        "AI",
+        "DeFi",
+        "Memecoins",
+        "SOL",
+        "BTC",
+        "DAOs"
+      ],
+      "link": "https://partiful.com/e/XBEmvVWnbfMth0jmcBCm?c=bdNm6W-t",
+      "has_food": true,
+      "has_bar": true,
       "note": null,
       "source": "planwtf"
     },

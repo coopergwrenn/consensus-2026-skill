@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-04T15:21:42.027Z",
+    "baked_at": "2026-05-04T17:51:26.988Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -1864,11 +1864,17 @@
           "company": "CoinDesk",
           "title": "Editor",
           "role": "Moderator"
+        },
+        {
+          "name": "Richard Widmann",
+          "company": "Google Cloud",
+          "title": "Global Head of Web3 Strategy",
+          "role": "Speaker"
         }
       ],
       "url": "/agenda/event/-anchorage-sponsored-session-147",
       "active": true,
-      "mdate": "2026-04-30T18:44:34-04:00"
+      "mdate": "2026-05-04T13:48:22-04:00"
     },
     {
       "id": "11F1172A6C20A23098D30263DE4AB8DB",
@@ -5218,8 +5224,8 @@
     },
     {
       "id": "11F12E9C3B8C2544AE260263DE4AB8DB",
-      "title": "Tokenization Meetup",
-      "description_html": "How to Ensure Data Consistency and Resilience Under Peak Loads.",
+      "title": "Tokenization Meetup: How to Ensure Data Consistency and Resilience Under Peak Loads.",
+      "description_html": "Join us for an exclusive deep dive into the infrastructure and economic models powering the next wave of Web3. From technical resilience to the massive potential of Real-World Assets (RWAs), we’re bringing together the industry’s most influential voices for two back-to-back panels.\r\nPanel 1 | Trust Under Pressure: Can Tokenized Systems Stay Consistent at Scale?\r\nModerator: Pauline Shangett (NOWNodes) \r\nThe Panelists are: Kwon Park (Crypto.com), Abi Dharshan (Zerion), Vidor Gencel (Solflare Wallet), and Phillip Z. (LI.FI).\r\nThe Discussion: As tokenization goes mainstream, consistency is no longer just a technical metric, it is a matter of user trust and financial risk. This session brings together experts from top exchanges, wallets, and cross-chain protocols to discuss:\r\nHow to manage system consistency when pushed to the limit.\r\nThe trade-offs between internal infra development and third-party providers.\r\nMaintaining reliability in a fragmented, multi-chain ecosystem.\r\nPanel 2 | Selling Trust: Can RWA Deliver on the Promise of Mass Adoption?\r\nModerator: Samuel Hood Burke (CCN) \r\nThe Panelists are: Elias Enriquez (Houdini Swap), Martin Masser (TON Foundation), Gary Chan (Paxos), and Ryan Haczynski (GlobalStake).\r\nThe Discussion: RWAs are the bridge between traditional finance and Web3, but the path to mass adoption remains complex. This panel features leaders from regulated finance and high-growth ecosystems to evaluate:\r\nWhat is truly driving RWA adoption today versus industry narrative.\r\nNavigating liquidity constraints and the evolving regulatory landscape.",
       "date": "2026-05-06",
       "day_of_week": "Wed",
       "start_iso": "2026-05-06T10:30:00-04:00",
@@ -5238,7 +5244,7 @@
       "speakers": [],
       "url": "/agenda/event/-tokenization-how-to-ensure-data-consistency-and-resilience-under-peak-loads-meetup-169",
       "active": true,
-      "mdate": "2026-04-23T14:42:43-04:00"
+      "mdate": "2026-05-04T13:40:15-04:00"
     },
     {
       "id": "11F14368F1F643A2AE260263DE4AB8DB",
@@ -12416,6 +12422,12 @@
           "role": "Speaker"
         },
         {
+          "name": "Amanda Terry",
+          "company": "ACTAI Ventures",
+          "title": "Co-Founder and Managing Partner",
+          "role": "Speaker"
+        },
+        {
           "name": "Jennifer Styles",
           "company": "Symphony",
           "title": "Chief Operating Officer",
@@ -12424,7 +12436,7 @@
       ],
       "url": "/agenda/event/-pitchfest-finals-39",
       "active": true,
-      "mdate": "2026-05-03T21:30:38-04:00"
+      "mdate": "2026-05-04T12:14:31-04:00"
     },
     {
       "id": "11F12860C57D74D398D30263DE4AB8DB",
