@@ -7,3 +7,5 @@ bun.lockb
 package-lock.json
 yarn.lock
 .snapshot/
+LAUNCH_POST.md
+MOCK_LAUNCH_RESPONSES.md
