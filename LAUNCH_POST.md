@@ -1,137 +1,127 @@
-# Consensus 2026 Launch — post copy + thread
+# Consensus 2026 Launch — final post copy
 
-Posted from Cooper's @ on X. Mirror to Farcaster + Telegram founder DMs at the same time.
+**Final pairing chosen 2026-05-04:** brand post from @InstaClaw + personal QT from @cooper.
 
-**Recommended timing (per PRD):** Mon 2026-05-04 at 7:00 AM ET (peak crypto-Twitter activity, gives 24h surface area before Day 1).
-
----
-
-## Option A — single-tweet (post this as the hero)
-
-> your personal AI agent for consensus 2026.
->
-> knows all 326 sessions across 9 stages.
-> knows all 219 side events.
-> asks what you care about. tells you where to be.
->
-> free for the first 100 attendees → instaclaw.io/consensus
-
-*(214 chars — fits one tweet with ~60 chars to spare for a short URL preview.)*
+The brand account establishes the product with confident product voice + 4 screenshots.
+The personal QT humanizes it with builder voice and creates a DM funnel for feedback.
 
 ---
 
-## Option B — thread (post this if you want surface area; 6 tweets)
+## 1. BRAND POST — @InstaClaw account
 
-**T1** *(same as Option A — anchors the thread, the rest are screenshot proof):*
+Posts first. Attach 4 screenshots as a 2×2 grid.
 
-> your personal AI agent for consensus 2026.
+> your AI agent for consensus 2026.
 >
-> knows all 326 sessions across 9 stages.
-> knows all 219 side events.
-> asks what you care about. tells you where to be.
+> 326 sessions. 219 side events. 451 speakers. every free dinner. every afterparty.
 >
-> free for the first 100 attendees → instaclaw.io/consensus
-
-**T2** — *attach screenshot of "what's happening at consensus tomorrow?" response*
-
-> ask: "what's happening at consensus tomorrow?"
+> ask in plain english. answers in seconds. lives in telegram.
 >
-> ↓ knows monday is day 0. surfaces 46 side events instead of pretending the main agenda is open. flags the free-with-food ones first.
+> first 100 attendees free → instaclaw.io/consensus
 
-**T3** — *attach screenshot of "find me AI events on tuesday" response*
+**Screenshots to attach (in this order):**
 
-> ask: "find me AI events on tuesday."
+1. *"where can i find free food tonight?"* — universal hook, the most shareable image
+2. *"build me a 3-day itinerary focused on AI and crypto infrastructure"* — depth-of-capability proof
+3. *"who's speaking about DePIN?"* — speaker filter / network alpha
+4. *"what's at 9am tomorrow on mainstage?"* — daily-utility framing
+
+**Pinned self-reply on the brand post** (post immediately after, then pin):
+
+> coindesk's app gives you the agenda.
 >
-> ↓ stitches main agenda + side events. cloudflare's stephanie cohen, coinbase's erik reppel, mastercard's raja rajamannar, animoca's yat siu, kraken's mayur gupta, all on tuesday.
-
-**T4** — *attach screenshot of "who's speaking about DePIN?" response*
-
-> ask: "who's speaking about DePIN?"
+> ours gives you the agenda + 219 side events + an agent that learns what you care about, remembers you across sessions, and lives in telegram.
 >
-> ↓ honest. one dedicated session (geodnet + iotex + doublezero, wed 13:50 convergence). doesn't pad. redirects you to adjacent tracks with real coverage instead.
-
-**T5** — *attach screenshot of 3-day itinerary response*
-
-> ask: "build me a 3-day itinerary focused on AI and crypto infrastructure."
->
-> ↓ 41 sessions, non-overlapping across 3 days. anchors marked: saylor keynote wed 16:40 ⭐⭐, adam back wed 11:00 ⭐, charles hoskinson wed 12:00 ⭐. don't skip those.
-
-**T6** — *the close*
-
-> data refreshes hourly through the conference week.
-> runs as your private agent on its own VM, not a chatbot in someone else's app.
-> remembers what you care about across sessions.
->
-> free for the first 100 attendees: instaclaw.io/consensus
-
-**T7 (optional, credit/attribution)**
-
-> built on the public corpus — agenda data from @CoinDesk's official agenda pages, side events from @sheeetsxyz / plan.wtf. the agent itself is what we ship.
+> 30 seconds to claim, free for first 100:
+> instaclaw.io/consensus
 
 ---
 
-## Mirror posts (Farcaster + Telegram)
+## 2. PERSONAL QT — Cooper's account
 
-**Farcaster (post 6 hours after the X thread, with the same screenshots):**
+Posts 5–10 minutes after the brand post. Quote-tweets the brand post above.
 
-> your personal AI agent for consensus 2026 — 326 sessions, 219 side events, 451 speakers indexed.
+> shipped this over the weekend. wanted to find the free dinner without reading 219 event listings, so i built an agent that does it.
 >
-> ask in plain english. it knows the answer.
+> turns out it's good at the rest of the conference too.
 >
-> free for the first 100 attendees → instaclaw.io/consensus
-
-**Telegram founder DMs (5–10 friends attending Consensus, hand-sent):**
-
-> hey [name], shipping a consensus agent this week — knows the full 326-session agenda + 219 side events, you can ask "where's the free dinner near brickell tuesday" or "build me a 3-day AI itinerary" and it just does it. claim it free at instaclaw.io/consensus, takes 30 seconds. pls hit me with feedback if you try it.
+> first 100 attendees free. dm me if you try it.
 
 ---
 
-## Reply guy mode (Mon 7 AM ET → Tue all day)
+## Posting sequence
 
-For every "going to consensus?" / "anyone going to consensus?" tweet on Sunday/Monday, drop this one-liner:
-
-> shipped an agent that knows all 326 sessions + 219 side events. free for the first 100 attendees. instaclaw.io/consensus
-
-For "what should I do at consensus?" / "first time at consensus, what do I do?":
-
-> ask my agent. it will literally tell you. instaclaw.io/consensus
+1. **T+0:00** — @InstaClaw posts brand post + 4 screenshots
+2. **T+0:01** — @InstaClaw posts the pinned reply, then pins it
+3. **T+0:08** — Cooper QTs from personal account
+4. **T+0:30** — Cooper starts reply-guy mode on "going to consensus?" tweets
+5. **T+4:00** — Mirror to Farcaster (cast the brand post copy + lead screenshot)
+6. **T+5:00** — Hand-send the Telegram founder DM to 5–10 friends attending
 
 ---
 
-## Day-of follow-ups (Tue–Thu, 8 AM ET each)
+## Mirror posts
+
+**Farcaster (post 4–6h after the X thread, with the same lead screenshot):**
+
+> consensus week starts tomorrow.
+>
+> i scraped the full agenda this weekend — 326 sessions, 219 side events, 451 speakers — and built an agent on top of it. lives in telegram, knows where the free dinner is.
+>
+> first 100 free → instaclaw.io/consensus
+
+**Telegram founder DMs (5–10 hand-sent to friends attending):**
+
+> hey [name] — built a consensus agent this weekend. knows all 326 sessions + 219 side events, finds free food, builds itineraries from prompts. lives in telegram. claim takes 30s, free for first 100: instaclaw.io/consensus
+>
+> if you're going, would love your feedback — i'm shipping changes live through wed.
+
+---
+
+## Reply-guy mode (Mon 7am → Tue all day)
+
+**For "going to consensus?" / "anyone going to consensus?":**
+
+> just shipped an agent that knows all 326 sessions + 219 side events. finds free food. free for first 100 attendees → instaclaw.io/consensus
+
+**For "first time at consensus, what do i do?":**
+
+> ask my agent. it'll literally tell you. instaclaw.io/consensus
+
+**For "best parties at consensus?":**
+
+> that's the only thing my agent is good at → instaclaw.io/consensus
+
+**For "what's worth seeing at consensus?":**
+
+> built an agent that picks the talks for you based on what you care about. free for first 100 → instaclaw.io/consensus
+
+---
+
+## Day-of follow-ups (Tue–Thu, 8am ET each)
 
 Use the agent's own output. Cooper sends a fresh prompt each morning, screenshots the response, posts it.
 
-**Tue 8 AM ET:**
-> day 1 of consensus. asked the agent what's worth showing up for at 9:30:
+**Tue 8am ET:**
+> day 1 of consensus. asked my agent what's worth showing up for at 9:30:
 >
 > ↓ [screenshot]
 >
-> the agent that goes to consensus with you: instaclaw.io/consensus
+> the agent that goes to consensus with you → instaclaw.io/consensus
 
-**Wed 8 AM ET:**
-> day 2 of consensus. asked: "what's happening at 16:40 mainstage?"
+**Wed 8am ET:**
+> day 2. asked: "what's happening at 16:40 mainstage?"
 >
-> ↓ [screenshot — Saylor keynote panel]
+> ↓ [Saylor keynote panel screenshot]
 >
 > instaclaw.io/consensus
 
-**Thu 8 AM ET:**
+**Thu 8am ET:**
 > day 3. asked: "what's the best free dinner tonight?"
 >
 > ↓ [screenshot]
 >
 > instaclaw.io/consensus
-
----
-
-## Pinned reply on the hero tweet
-
-For people who land on the post and want to know what makes this different from the CoinDesk app:
-
-> the coindesk app gives you the agenda. this agent does the work you actually need done — picks talks for you, finds the free dinner, flags the conflicts, remembers you across sessions.
->
-> 30s to claim, free for the first 100 attendees: instaclaw.io/consensus
 
 ---
 
@@ -149,13 +139,13 @@ For people who land on the post and want to know what makes this different from 
 
 ## What Cooper still needs to capture (screenshots)
 
-Cooper sends each of the 4 prompts to **@edgecitybot** (his vm-780, which has the consensus-2026 skill installed + bootstrapMaxChars=35000 + periodic-summary cron firing). Screenshots of each Telegram exchange go into T2–T5 of the thread.
+Cooper sends each of the 4 prompts to **@edgecitybot** (his vm-780, which has the consensus-2026 skill installed + bootstrapMaxChars=35000 + periodic-summary cron firing). Screenshots of each Telegram exchange go into the brand post as a 2×2 grid.
 
 The four prompts, verbatim:
 
-1. *"what's happening at consensus tomorrow?"*
-2. *"find me AI-focused events on tuesday"*
+1. *"where can i find free food tonight?"*
+2. *"build me a 3-day itinerary focused on AI and crypto infrastructure"*
 3. *"who's speaking about DePIN?"*
-4. *"build me a 3-day itinerary focused on AI and crypto infrastructure"*
+4. *"what's at 9am tomorrow on mainstage?"*
 
 For the agent's expected response shape on each, see `MOCK_LAUNCH_RESPONSES.md` (same directory). Treat those as the "what good looks like" target — if a real Telegram response is materially weaker, ping me and we iterate on SKILL.md before posting.
