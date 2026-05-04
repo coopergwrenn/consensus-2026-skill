@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-04T19:55:50.474Z",
+    "baked_at": "2026-05-04T21:20:12.512Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -4023,14 +4023,14 @@
         },
         {
           "name": "Robert Bench",
-          "company": "Radius Tech",
-          "title": "",
+          "company": "Radius",
+          "title": "Co-Founder & CEO",
           "role": "Speaker"
         },
         {
           "name": "Antonio  Talledo",
-          "company": "Stripe",
-          "title": "",
+          "company": "Bridge",
+          "title": "Crypto Go-To-Market",
           "role": "Speaker"
         }
       ],

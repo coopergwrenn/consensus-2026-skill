@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-04T19:55:50.474Z",
+    "baked_at": "2026-05-04T21:20:12.512Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
@@ -3948,8 +3948,8 @@
     },
     {
       "name": "Antonio  Talledo",
-      "company": "Stripe",
-      "title": "",
+      "company": "Bridge",
+      "title": "Crypto Go-To-Market",
       "session_count": 1,
       "sessions": [
         {
@@ -7518,8 +7518,8 @@
     },
     {
       "name": "Robert Bench",
-      "company": "Radius Tech",
-      "title": "",
+      "company": "Radius",
+      "title": "Co-Founder & CEO",
       "session_count": 1,
       "sessions": [
         {
