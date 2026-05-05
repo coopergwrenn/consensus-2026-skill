@@ -1,13 +1,42 @@
 {
   "meta": {
-    "baked_at": "2026-05-05T00:08:35.794Z",
+    "baked_at": "2026-05-05T03:51:01.262Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
-    "record_count": 338,
+    "record_count": 339,
     "notes": "All venues fetched cleanly."
   },
   "records": [
+    {
+      "id": "11F13C0BA372129AAE260263DE4AB8DB",
+      "title": "CoinDesk Live: Tushar Jain",
+      "description_html": null,
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_iso": "2026-05-05T00:00:00-04:00",
+      "end_iso": "2026-05-05T12:45:00-04:00",
+      "start_time": "00:00",
+      "end_time": "12:45",
+      "duration_minutes": 765,
+      "venue_slug": "coindesk-live-studio",
+      "venue_name": "CoinDesk Live Studio",
+      "venue_full_name": "MBCC: CoinDesk Live Studio",
+      "venue_color": "#ffc90e",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Tushar Jain",
+          "company": "Multicoin Capital",
+          "title": "Managing Partner",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-coindesk-live-tushar-jain-265",
+      "active": true,
+      "mdate": "2026-05-04T23:23:03-04:00"
+    },
     {
       "id": "11F1172F741C253998D30263DE4AB8DB",
       "title": "CoinDesk Live",
@@ -60,35 +89,6 @@
       "mdate": "2026-04-28T21:13:02-04:00"
     },
     {
-      "id": "11F13C0A29A64291AE260263DE4AB8DB",
-      "title": "CoinDesk Live: Tom Farley",
-      "description_html": null,
-      "date": "2026-05-05",
-      "day_of_week": "Tue",
-      "start_iso": "2026-05-05T09:00:00-04:00",
-      "end_iso": "2026-05-05T10:00:00-04:00",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "duration_minutes": 60,
-      "venue_slug": "coindesk-live-studio",
-      "venue_name": "CoinDesk Live Studio",
-      "venue_full_name": "MBCC: CoinDesk Live Studio",
-      "venue_color": "#ffc90e",
-      "tracks": [],
-      "tags": [],
-      "speakers": [
-        {
-          "name": "Tom Farley",
-          "company": "Bullish",
-          "title": "CEO",
-          "role": "Speaker"
-        }
-      ],
-      "url": "/agenda/event/-coindesk-live-tom-farley-257",
-      "active": true,
-      "mdate": "2026-04-19T12:09:44-04:00"
-    },
-    {
       "id": "11F11B0895C361D798D30263DE4AB8DB",
       "title": "Start Up / Investor Meetup: Fire & Fuel",
       "description_html": "Ignite the deals that will define the next cycle. For Venture capitalists, angel investors, and founders scaling the next generation of digital finance. Dive deep into capital formation, tokenomics, go-to-market strategies, exit liquidity, and the rise of institutional-grade infrastructure. Whether you&rsquo;re deploying capital or raising it, this is where the industry&rsquo;s builders and backers come together to shape the future of value.<br /><br />",
@@ -115,35 +115,6 @@
       "url": "/agenda/event/-start-up-investor-meetup-fire-fuel-77",
       "active": true,
       "mdate": "2026-04-28T13:43:32-04:00"
-    },
-    {
-      "id": "11F13C099C316625AE260263DE4AB8DB",
-      "title": "CoinDesk Live: Steven Meiner",
-      "description_html": null,
-      "date": "2026-05-05",
-      "day_of_week": "Tue",
-      "start_iso": "2026-05-05T09:30:00-04:00",
-      "end_iso": "2026-05-05T10:30:00-04:00",
-      "start_time": "09:30",
-      "end_time": "10:30",
-      "duration_minutes": 60,
-      "venue_slug": "coindesk-live-studio",
-      "venue_name": "CoinDesk Live Studio",
-      "venue_full_name": "MBCC: CoinDesk Live Studio",
-      "venue_color": "#ffc90e",
-      "tracks": [],
-      "tags": [],
-      "speakers": [
-        {
-          "name": "Steven Meiner",
-          "company": "City of Miami Beach",
-          "title": "Mayor",
-          "role": "Speaker"
-        }
-      ],
-      "url": "/agenda/event/-coindesk-live-steven-meiner-253",
-      "active": true,
-      "mdate": "2026-04-19T12:05:48-04:00"
     },
     {
       "id": "11F11C0DA9A5C39598D30263DE4AB8DB",
@@ -245,6 +216,64 @@
       "url": "/agenda/event/-opening-remarks-148",
       "active": true,
       "mdate": "2026-04-30T14:57:50-04:00"
+    },
+    {
+      "id": "11F13C0A29A64291AE260263DE4AB8DB",
+      "title": "CoinDesk Live: Tom Farley",
+      "description_html": null,
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_iso": "2026-05-05T09:45:00-04:00",
+      "end_iso": "2026-05-05T10:15:00-04:00",
+      "start_time": "09:45",
+      "end_time": "10:15",
+      "duration_minutes": 30,
+      "venue_slug": "coindesk-live-studio",
+      "venue_name": "CoinDesk Live Studio",
+      "venue_full_name": "MBCC: CoinDesk Live Studio",
+      "venue_color": "#ffc90e",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Tom Farley",
+          "company": "Bullish",
+          "title": "CEO",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-coindesk-live-tom-farley-257",
+      "active": true,
+      "mdate": "2026-05-04T23:21:33-04:00"
+    },
+    {
+      "id": "11F13C0532BCA0C7AE260263DE4AB8DB",
+      "title": "CoinDesk Live: Yoshi Yokokawa",
+      "description_html": null,
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_iso": "2026-05-05T09:45:00-04:00",
+      "end_iso": "2026-05-05T10:45:00-04:00",
+      "start_time": "09:45",
+      "end_time": "10:45",
+      "duration_minutes": 60,
+      "venue_slug": "coindesk-live-studio",
+      "venue_name": "CoinDesk Live Studio",
+      "venue_full_name": "MBCC: CoinDesk Live Studio",
+      "venue_color": "#ffc90e",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Yoshi Yokokawa",
+          "company": "Alpaca",
+          "title": "Co-Founder & CEO",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-coindesk-live-yoshi-yokokawa-225",
+      "active": true,
+      "mdate": "2026-05-04T23:25:58-04:00"
     },
     {
       "id": "11F118CEB4E12AB398D30263DE4AB8DB",
@@ -409,8 +438,8 @@
       "mdate": "2026-04-28T21:10:57-04:00"
     },
     {
-      "id": "11F14367773C2D88AE260263DE4AB8DB",
-      "title": "CoinDesk Live: Wizard of SoHo",
+      "id": "11F13C099C316625AE260263DE4AB8DB",
+      "title": "CoinDesk Live: Steven Meiner",
       "description_html": null,
       "date": "2026-05-05",
       "day_of_week": "Tue",
@@ -427,44 +456,15 @@
       "tags": [],
       "speakers": [
         {
-          "name": "Wizard of SoHo",
-          "company": "",
-          "title": "",
+          "name": "Steven Meiner",
+          "company": "City of Miami Beach",
+          "title": "Mayor",
           "role": "Speaker"
         }
       ],
-      "url": "/agenda/event/-coindesk-live-wizard-of-soho-328",
+      "url": "/agenda/event/-coindesk-live-steven-meiner-253",
       "active": true,
-      "mdate": "2026-04-28T21:05:15-04:00"
-    },
-    {
-      "id": "11F13C0532BCA0C7AE260263DE4AB8DB",
-      "title": "CoinDesk Live: Yoshi Yokokawa",
-      "description_html": null,
-      "date": "2026-05-05",
-      "day_of_week": "Tue",
-      "start_iso": "2026-05-05T10:00:00-04:00",
-      "end_iso": "2026-05-05T11:00:00-04:00",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "duration_minutes": 60,
-      "venue_slug": "coindesk-live-studio",
-      "venue_name": "CoinDesk Live Studio",
-      "venue_full_name": "MBCC: CoinDesk Live Studio",
-      "venue_color": "#ffc90e",
-      "tracks": [],
-      "tags": [],
-      "speakers": [
-        {
-          "name": "Yoshi Yokokawa",
-          "company": "Alpaca",
-          "title": "Co-Founder & CEO",
-          "role": "Speaker"
-        }
-      ],
-      "url": "/agenda/event/-coindesk-live-yoshi-yokokawa-225",
-      "active": true,
-      "mdate": "2026-04-19T11:34:17-04:00"
+      "mdate": "2026-05-04T23:20:10-04:00"
     },
     {
       "id": "11F13744DCF5AE74AE260263DE4AB8DB",
@@ -735,6 +735,35 @@
       "url": "/agenda/event/-coindesk-live-jesse-pollak-343",
       "active": true,
       "mdate": "2026-04-28T21:22:05-04:00"
+    },
+    {
+      "id": "11F14367773C2D88AE260263DE4AB8DB",
+      "title": "CoinDesk Live: Wizard of SoHo",
+      "description_html": null,
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_iso": "2026-05-05T10:30:00-04:00",
+      "end_iso": "2026-05-05T11:30:00-04:00",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "duration_minutes": 60,
+      "venue_slug": "coindesk-live-studio",
+      "venue_name": "CoinDesk Live Studio",
+      "venue_full_name": "MBCC: CoinDesk Live Studio",
+      "venue_color": "#ffc90e",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Wizard of SoHo",
+          "company": "",
+          "title": "",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-coindesk-live-wizard-of-soho-328",
+      "active": true,
+      "mdate": "2026-05-04T23:16:08-04:00"
     },
     {
       "id": "11F12E9AA2132969AE260263DE4AB8DB",
@@ -1038,35 +1067,6 @@
       "mdate": "2026-04-30T14:54:36-04:00"
     },
     {
-      "id": "11F13C09048FA12EAE260263DE4AB8DB",
-      "title": "CoinDesk Live: Joseph Lubin",
-      "description_html": null,
-      "date": "2026-05-05",
-      "day_of_week": "Tue",
-      "start_iso": "2026-05-05T11:00:00-04:00",
-      "end_iso": "2026-05-05T12:00:00-04:00",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "duration_minutes": 60,
-      "venue_slug": "coindesk-live-studio",
-      "venue_name": "CoinDesk Live Studio",
-      "venue_full_name": "MBCC: CoinDesk Live Studio",
-      "venue_color": "#ffc90e",
-      "tracks": [],
-      "tags": [],
-      "speakers": [
-        {
-          "name": "Joseph Lubin",
-          "company": "Consensys",
-          "title": "Founder & CEO",
-          "role": "Speaker"
-        }
-      ],
-      "url": "/agenda/event/-coindesk-live-joseph-lubin-250",
-      "active": true,
-      "mdate": "2026-04-19T12:01:34-04:00"
-    },
-    {
       "id": "11F14756AF62C670AE260263DE4AB8DB",
       "title": "EasyA Consensus Hackathon Opening Ceremony",
       "description_html": null,
@@ -1211,6 +1211,35 @@
       "mdate": "2026-04-30T14:27:25-04:00"
     },
     {
+      "id": "11F13C09048FA12EAE260263DE4AB8DB",
+      "title": "CoinDesk Live: Joseph Lubin",
+      "description_html": null,
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_iso": "2026-05-05T11:15:00-04:00",
+      "end_iso": "2026-05-05T12:15:00-04:00",
+      "start_time": "11:15",
+      "end_time": "12:15",
+      "duration_minutes": 60,
+      "venue_slug": "coindesk-live-studio",
+      "venue_name": "CoinDesk Live Studio",
+      "venue_full_name": "MBCC: CoinDesk Live Studio",
+      "venue_color": "#ffc90e",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Joseph Lubin",
+          "company": "Consensys",
+          "title": "Founder & CEO",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-coindesk-live-joseph-lubin-250",
+      "active": true,
+      "mdate": "2026-05-04T23:19:46-04:00"
+    },
+    {
       "id": "11F12A2ADD462B7E98D30263DE4AB8DB",
       "title": "The $60 Trillion Opportunity Nobody's Banking",
       "description_html": "$60 trillion in B2B payments crosses borders every year on infrastructure from 1973. The protocols matured. The rails are live. But nobody built what actually matters: the mutli-currency bank account a business in S&atilde;o Paulo, Lagos, or Singapore can open, spend from with a corporate Visa card, and settle instantly across 140+ countries. Prior, Hussein scaled Oxygen banking to 1M+ accounts and then burned the playbook to create LIMITED. This session breaks down the trillion-dollar gap sitting between banks and blockchains, why it's still wide open, and what it takes to close it.",
@@ -1287,12 +1316,6 @@
           "role": "Speaker"
         },
         {
-          "name": "Bill Rockwood",
-          "company": "United States Senate United States Senate",
-          "title": "General Counsel, The Office of Senator Kirsten E. Gillibrand",
-          "role": "Speaker"
-        },
-        {
           "name": "Nikhilesh De",
           "company": "CoinDesk",
           "title": "Editor",
@@ -1301,7 +1324,7 @@
       ],
       "url": "/agenda/event/-meet-the-staffers-what-you-need-to-know-before-the-midterms-18",
       "active": true,
-      "mdate": "2026-04-30T15:55:52-04:00"
+      "mdate": "2026-05-04T22:32:18-04:00"
     },
     {
       "id": "11F11EE9EF98727498D30263DE4AB8DB",
@@ -1711,35 +1734,6 @@
       "mdate": "2026-04-19T11:48:16-04:00"
     },
     {
-      "id": "11F13C0B821A4DEAAE260263DE4AB8DB",
-      "title": "CoinDesk Live: Mert Mumtaz",
-      "description_html": null,
-      "date": "2026-05-05",
-      "day_of_week": "Tue",
-      "start_iso": "2026-05-05T12:00:00-04:00",
-      "end_iso": "2026-05-05T13:00:00-04:00",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "duration_minutes": 60,
-      "venue_slug": "coindesk-live-studio",
-      "venue_name": "CoinDesk Live Studio",
-      "venue_full_name": "MBCC: CoinDesk Live Studio",
-      "venue_color": "#ffc90e",
-      "tracks": [],
-      "tags": [],
-      "speakers": [
-        {
-          "name": "Mert Mumtaz",
-          "company": "Helius",
-          "title": "CEO",
-          "role": "Speaker"
-        }
-      ],
-      "url": "/agenda/event/-coindesk-live-mert-mumtaz-264",
-      "active": true,
-      "mdate": "2026-04-19T12:19:23-04:00"
-    },
-    {
       "id": "11F1172A374F14D198D30263DE4AB8DB",
       "title": "Fireside: Cloudflare",
       "description_html": null,
@@ -1836,8 +1830,37 @@
       "mdate": "2026-05-02T13:26:32-04:00"
     },
     {
+      "id": "11F1483208A699FEAE260263DE4AB8DB",
+      "title": "CoinDesk Live: Brian Klein",
+      "description_html": null,
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_iso": "2026-05-05T12:15:00-04:00",
+      "end_iso": "2026-05-05T13:15:00-04:00",
+      "start_time": "12:15",
+      "end_time": "13:15",
+      "duration_minutes": 60,
+      "venue_slug": "coindesk-live-studio",
+      "venue_name": "CoinDesk Live Studio",
+      "venue_full_name": "MBCC: CoinDesk Live Studio",
+      "venue_color": "#ffc90e",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Brian Klein",
+          "company": "Cooley LLP",
+          "title": "Partner",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-coindesk-live-brian-klein-401",
+      "active": true,
+      "mdate": "2026-05-04T23:25:23-04:00"
+    },
+    {
       "id": "11F1247368BAF12898D30263DE4AB8DB",
-      "title": "Fireside chat: Anchorage Digital and Google Cloud",
+      "title": "Fireside Chat: Anchorage Digital and Google Cloud",
       "description_html": null,
       "date": "2026-05-05",
       "day_of_week": "Tue",
@@ -1860,21 +1883,21 @@
           "role": "Speaker"
         },
         {
-          "name": "Nikhilesh De",
-          "company": "CoinDesk",
-          "title": "Editor",
-          "role": "Moderator"
-        },
-        {
           "name": "Richard Widmann",
           "company": "Google Cloud",
           "title": "Global Head of Web3 Strategy",
           "role": "Speaker"
+        },
+        {
+          "name": "Nikhilesh De",
+          "company": "CoinDesk",
+          "title": "Editor",
+          "role": "Moderator"
         }
       ],
       "url": "/agenda/event/-anchorage-sponsored-session-147",
       "active": true,
-      "mdate": "2026-05-04T13:48:22-04:00"
+      "mdate": "2026-05-04T20:41:29-04:00"
     },
     {
       "id": "11F1172A6C20A23098D30263DE4AB8DB",
@@ -1951,35 +1974,6 @@
       "url": "/agenda/event/-dfns-x-ibm-report-the-future-is-onchain-144",
       "active": true,
       "mdate": "2026-04-30T16:06:25-04:00"
-    },
-    {
-      "id": "11F13C087D1D5262AE260263DE4AB8DB",
-      "title": "CoinDesk Live: Anthony Pompliano",
-      "description_html": null,
-      "date": "2026-05-05",
-      "day_of_week": "Tue",
-      "start_iso": "2026-05-05T13:00:00-04:00",
-      "end_iso": "2026-05-05T14:00:00-04:00",
-      "start_time": "13:00",
-      "end_time": "14:00",
-      "duration_minutes": 60,
-      "venue_slug": "coindesk-live-studio",
-      "venue_name": "CoinDesk Live Studio",
-      "venue_full_name": "MBCC: CoinDesk Live Studio",
-      "venue_color": "#ffc90e",
-      "tracks": [],
-      "tags": [],
-      "speakers": [
-        {
-          "name": "Anthony Pompliano",
-          "company": "ProCap Financial",
-          "title": "Chairman & CEO",
-          "role": "Speaker"
-        }
-      ],
-      "url": "/agenda/event/-coindesk-live-anthony-pompliano-246",
-      "active": true,
-      "mdate": "2026-04-19T11:57:46-04:00"
     },
     {
       "id": "11F11C0DAD24ADE098D30263DE4AB8DB",
@@ -2203,6 +2197,35 @@
       "mdate": "2026-04-30T15:56:02-04:00"
     },
     {
+      "id": "11F13C087D1D5262AE260263DE4AB8DB",
+      "title": "CoinDesk Live: Anthony Pompliano",
+      "description_html": null,
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_iso": "2026-05-05T13:15:00-04:00",
+      "end_iso": "2026-05-05T14:15:00-04:00",
+      "start_time": "13:15",
+      "end_time": "14:15",
+      "duration_minutes": 60,
+      "venue_slug": "coindesk-live-studio",
+      "venue_name": "CoinDesk Live Studio",
+      "venue_full_name": "MBCC: CoinDesk Live Studio",
+      "venue_color": "#ffc90e",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Anthony Pompliano",
+          "company": "ProCap Financial",
+          "title": "Chairman & CEO",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-coindesk-live-anthony-pompliano-246",
+      "active": true,
+      "mdate": "2026-05-04T23:18:08-04:00"
+    },
+    {
       "id": "11F1172FAC17153898D30263DE4AB8DB",
       "title": "The FQ Lounge",
       "description_html": null,
@@ -2313,35 +2336,6 @@
       "mdate": "2026-04-19T11:40:23-04:00"
     },
     {
-      "id": "11F13C08BD633577AE260263DE4AB8DB",
-      "title": "CoinDesk Live: Mike Cagney",
-      "description_html": null,
-      "date": "2026-05-05",
-      "day_of_week": "Tue",
-      "start_iso": "2026-05-05T13:30:00-04:00",
-      "end_iso": "2026-05-05T14:30:00-04:00",
-      "start_time": "13:30",
-      "end_time": "14:30",
-      "duration_minutes": 60,
-      "venue_slug": "coindesk-live-studio",
-      "venue_name": "CoinDesk Live Studio",
-      "venue_full_name": "MBCC: CoinDesk Live Studio",
-      "venue_color": "#ffc90e",
-      "tracks": [],
-      "tags": [],
-      "speakers": [
-        {
-          "name": "Mike Cagney",
-          "company": "Figure",
-          "title": "Co-Founder & Executive Chairman",
-          "role": "Speaker"
-        }
-      ],
-      "url": "/agenda/event/-coindesk-live-mike-cagney-248",
-      "active": true,
-      "mdate": "2026-04-19T11:59:42-04:00"
-    },
-    {
       "id": "11F13C0CE1E3EE73AE260263DE4AB8DB",
       "title": "CoinDesk Live: Steven McWhitrter",
       "description_html": null,
@@ -2432,6 +2426,35 @@
       "url": "/agenda/event/-midnight-meetup-184",
       "active": true,
       "mdate": "2026-05-02T18:42:14-04:00"
+    },
+    {
+      "id": "11F13C08BD633577AE260263DE4AB8DB",
+      "title": "CoinDesk Live: Mike Cagney",
+      "description_html": null,
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_iso": "2026-05-05T13:45:00-04:00",
+      "end_iso": "2026-05-05T14:45:00-04:00",
+      "start_time": "13:45",
+      "end_time": "14:45",
+      "duration_minutes": 60,
+      "venue_slug": "coindesk-live-studio",
+      "venue_name": "CoinDesk Live Studio",
+      "venue_full_name": "MBCC: CoinDesk Live Studio",
+      "venue_color": "#ffc90e",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Mike Cagney",
+          "company": "Figure",
+          "title": "Co-Founder & Executive Chairman",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-coindesk-live-mike-cagney-248",
+      "active": true,
+      "mdate": "2026-05-04T23:19:28-04:00"
     },
     {
       "id": "11F11EEA51EFEBA198D30263DE4AB8DB",
@@ -2852,6 +2875,35 @@
       "mdate": "2026-04-30T14:24:43-04:00"
     },
     {
+      "id": "11F13C0B821A4DEAAE260263DE4AB8DB",
+      "title": "CoinDesk Live: Mert Mumtaz",
+      "description_html": null,
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_iso": "2026-05-05T14:15:00-04:00",
+      "end_iso": "2026-05-05T15:15:00-04:00",
+      "start_time": "14:15",
+      "end_time": "15:15",
+      "duration_minutes": 60,
+      "venue_slug": "coindesk-live-studio",
+      "venue_name": "CoinDesk Live Studio",
+      "venue_full_name": "MBCC: CoinDesk Live Studio",
+      "venue_color": "#ffc90e",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Mert Mumtaz",
+          "company": "Helius",
+          "title": "CEO",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-coindesk-live-mert-mumtaz-264",
+      "active": true,
+      "mdate": "2026-05-04T23:22:24-04:00"
+    },
+    {
       "id": "11F143695C220894AE260263DE4AB8DB",
       "title": "CoinDesk Live: Raja Rajamannar",
       "description_html": null,
@@ -3175,7 +3227,7 @@
         {
           "name": "Lindsey Dickman",
           "company": "Kantar",
-          "title": "Executive Vice President, Finance, Health & Auto Industry Partner, NA",
+          "title": "Executive Vice President, Finance, Health & Auto Industry Partner",
           "role": "Speaker"
         },
         {
@@ -3193,7 +3245,7 @@
         {
           "name": "Christine Lane",
           "company": "Female Quotient",
-          "title": "Senior Manager of Programming",
+          "title": "Senior Manager, Event Content & Strategy.",
           "role": "Moderator"
         }
       ],
@@ -5958,35 +6010,6 @@
       "mdate": "2026-04-19T12:10:46-04:00"
     },
     {
-      "id": "11F13C0BA372129AAE260263DE4AB8DB",
-      "title": "CoinDesk Live: Tushar Jain",
-      "description_html": null,
-      "date": "2026-05-06",
-      "day_of_week": "Wed",
-      "start_iso": "2026-05-06T11:45:00-04:00",
-      "end_iso": "2026-05-06T12:45:00-04:00",
-      "start_time": "11:45",
-      "end_time": "12:45",
-      "duration_minutes": 60,
-      "venue_slug": "coindesk-live-studio",
-      "venue_name": "CoinDesk Live Studio",
-      "venue_full_name": "MBCC: CoinDesk Live Studio",
-      "venue_color": "#ffc90e",
-      "tracks": [],
-      "tags": [],
-      "speakers": [
-        {
-          "name": "Tushar Jain",
-          "company": "Multicoin Capital",
-          "title": "Managing Partner",
-          "role": "Speaker"
-        }
-      ],
-      "url": "/agenda/event/-coindesk-live-tushar-jain-265",
-      "active": true,
-      "mdate": "2026-04-19T12:20:20-04:00"
-    },
-    {
       "id": "11F143377538521CAE260263DE4AB8DB",
       "title": "So You Launched a Stablecoin. Now What?",
       "description_html": null,
@@ -6288,35 +6311,6 @@
       "mdate": "2026-05-01T06:40:04-04:00"
     },
     {
-      "id": "11F1436914C3FE52AE260263DE4AB8DB",
-      "title": "CoinDesk Live: Frank La Salla",
-      "description_html": null,
-      "date": "2026-05-06",
-      "day_of_week": "Wed",
-      "start_iso": "2026-05-06T12:15:00-04:00",
-      "end_iso": "2026-05-06T13:15:00-04:00",
-      "start_time": "12:15",
-      "end_time": "13:15",
-      "duration_minutes": 60,
-      "venue_slug": "coindesk-live-studio",
-      "venue_name": "CoinDesk Live Studio",
-      "venue_full_name": "MBCC: CoinDesk Live Studio",
-      "venue_color": "#ffc90e",
-      "tracks": [],
-      "tags": [],
-      "speakers": [
-        {
-          "name": "Frank La Salla",
-          "company": "The Depository Trust & Clearing Corporation (DTCC)",
-          "title": "President, CEO & Director",
-          "role": "Speaker"
-        }
-      ],
-      "url": "/agenda/event/-coindesk-live-frank-la-salla-338",
-      "active": true,
-      "mdate": "2026-04-28T21:16:49-04:00"
-    },
-    {
       "id": "11F143697DF2B370AE260263DE4AB8DB",
       "title": "CoinDesk Live: Hunter Horsley",
       "description_html": null,
@@ -6346,35 +6340,6 @@
       "mdate": "2026-04-28T21:19:51-04:00"
     },
     {
-      "id": "11F14368ADE30DDAAE260263DE4AB8DB",
-      "title": "CoinDesk Live: Tal Cohen",
-      "description_html": null,
-      "date": "2026-05-06",
-      "day_of_week": "Wed",
-      "start_iso": "2026-05-06T12:15:00-04:00",
-      "end_iso": "2026-05-06T13:15:00-04:00",
-      "start_time": "12:15",
-      "end_time": "13:15",
-      "duration_minutes": 60,
-      "venue_slug": "coindesk-live-studio",
-      "venue_name": "CoinDesk Live Studio",
-      "venue_full_name": "MBCC: CoinDesk Live Studio",
-      "venue_color": "#ffc90e",
-      "tracks": [],
-      "tags": [],
-      "speakers": [
-        {
-          "name": "Tal Cohen",
-          "company": "NASDAQ",
-          "title": "President",
-          "role": "Speaker"
-        }
-      ],
-      "url": "/agenda/event/-coindesk-live-tal-cohen-335",
-      "active": true,
-      "mdate": "2026-04-28T21:13:59-04:00"
-    },
-    {
       "id": "11F13C0B558422D5AE260263DE4AB8DB",
       "title": "CoinDesk Live: Catherine Gu",
       "description_html": null,
@@ -6397,8 +6362,8 @@
       "mdate": "2026-04-19T12:18:09-04:00"
     },
     {
-      "id": "11F13C09BCA613B3AE260263DE4AB8DB",
-      "title": "CoinDesk Live: Reid Hoffman",
+      "id": "11F1436914C3FE52AE260263DE4AB8DB",
+      "title": "CoinDesk Live: Frank La Salla",
       "description_html": null,
       "date": "2026-05-06",
       "day_of_week": "Wed",
@@ -6415,15 +6380,44 @@
       "tags": [],
       "speakers": [
         {
-          "name": "Reid Hoffman",
-          "company": "Greylock",
-          "title": "Partner",
+          "name": "Frank La Salla",
+          "company": "The Depository Trust & Clearing Corporation (DTCC)",
+          "title": "President, CEO & Director",
           "role": "Speaker"
         }
       ],
-      "url": "/agenda/event/-coindesk-live-reid-hoffman-254",
+      "url": "/agenda/event/-coindesk-live-frank-la-salla-338",
       "active": true,
-      "mdate": "2026-04-19T12:06:42-04:00"
+      "mdate": "2026-05-04T23:19:06-04:00"
+    },
+    {
+      "id": "11F14368ADE30DDAAE260263DE4AB8DB",
+      "title": "CoinDesk Live: Tal Cohen",
+      "description_html": null,
+      "date": "2026-05-06",
+      "day_of_week": "Wed",
+      "start_iso": "2026-05-06T12:30:00-04:00",
+      "end_iso": "2026-05-06T13:30:00-04:00",
+      "start_time": "12:30",
+      "end_time": "13:30",
+      "duration_minutes": 60,
+      "venue_slug": "coindesk-live-studio",
+      "venue_name": "CoinDesk Live Studio",
+      "venue_full_name": "MBCC: CoinDesk Live Studio",
+      "venue_color": "#ffc90e",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Tal Cohen",
+          "company": "NASDAQ",
+          "title": "President",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-coindesk-live-tal-cohen-335",
+      "active": true,
+      "mdate": "2026-05-04T23:18:43-04:00"
     },
     {
       "id": "11F1436D10E66C4CAE260263DE4AB8DB",
@@ -6453,6 +6447,35 @@
       "url": "/agenda/event/-coindesk-live-vibhu-norby-360",
       "active": true,
       "mdate": "2026-04-28T21:45:28-04:00"
+    },
+    {
+      "id": "11F13C09BCA613B3AE260263DE4AB8DB",
+      "title": "CoinDesk Live: Reid Hoffman",
+      "description_html": null,
+      "date": "2026-05-06",
+      "day_of_week": "Wed",
+      "start_iso": "2026-05-06T12:45:00-04:00",
+      "end_iso": "2026-05-06T13:45:00-04:00",
+      "start_time": "12:45",
+      "end_time": "13:45",
+      "duration_minutes": 60,
+      "venue_slug": "coindesk-live-studio",
+      "venue_name": "CoinDesk Live Studio",
+      "venue_full_name": "MBCC: CoinDesk Live Studio",
+      "venue_color": "#ffc90e",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Reid Hoffman",
+          "company": "Greylock",
+          "title": "Partner",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-coindesk-live-reid-hoffman-254",
+      "active": true,
+      "mdate": "2026-05-04T23:20:34-04:00"
     },
     {
       "id": "11F143680DBB1CC5AE260263DE4AB8DB",
@@ -7048,35 +7071,6 @@
       "mdate": "2026-04-28T21:37:59-04:00"
     },
     {
-      "id": "11F13C07F5E5D9BBAE260263DE4AB8DB",
-      "title": "CoinDesk Live: Raoul Pal",
-      "description_html": null,
-      "date": "2026-05-06",
-      "day_of_week": "Wed",
-      "start_iso": "2026-05-06T14:00:00-04:00",
-      "end_iso": "2026-05-06T15:00:00-04:00",
-      "start_time": "14:00",
-      "end_time": "15:00",
-      "duration_minutes": 60,
-      "venue_slug": "coindesk-live-studio",
-      "venue_name": "CoinDesk Live Studio",
-      "venue_full_name": "MBCC: CoinDesk Live Studio",
-      "venue_color": "#ffc90e",
-      "tracks": [],
-      "tags": [],
-      "speakers": [
-        {
-          "name": "Raoul Pal",
-          "company": "CEO & CIO, EXPAAM",
-          "title": "Co-Founder & CEO, Real Vision",
-          "role": "Speaker"
-        }
-      ],
-      "url": "/agenda/event/-coindesk-live-raoul-pal-243",
-      "active": true,
-      "mdate": "2026-04-19T11:54:01-04:00"
-    },
-    {
       "id": "11F13C0CC051B667AE260263DE4AB8DB",
       "title": "CoinDesk Live: Sunny Lu",
       "description_html": null,
@@ -7224,8 +7218,8 @@
       "mdate": "2026-04-30T14:28:27-04:00"
     },
     {
-      "id": "11F13C070714A954AE260263DE4AB8DB",
-      "title": "CoinDesk Live: Alex Rodriguez",
+      "id": "11F13C07F5E5D9BBAE260263DE4AB8DB",
+      "title": "CoinDesk Live: Raoul Pal",
       "description_html": null,
       "date": "2026-05-06",
       "day_of_week": "Wed",
@@ -7242,15 +7236,15 @@
       "tags": [],
       "speakers": [
         {
-          "name": "Alex Rodriguez",
-          "company": "A-Rod Corp / Minnesota Timberwolves & Lynx",
-          "title": "CEO of A-Rod Corp and Co-Chairman of Minnesota Timberwolves & Lynx",
+          "name": "Raoul Pal",
+          "company": "CEO & CIO, EXPAAM",
+          "title": "Co-Founder & CEO, Real Vision",
           "role": "Speaker"
         }
       ],
-      "url": "/agenda/event/-coindesk-live-alex-rodriguez-238",
+      "url": "/agenda/event/-coindesk-live-raoul-pal-243",
       "active": true,
-      "mdate": "2026-04-19T11:47:30-04:00"
+      "mdate": "2026-05-04T23:17:45-04:00"
     },
     {
       "id": "11F14757B6DA8E82AE260263DE4AB8DB",
@@ -7364,16 +7358,16 @@
       "mdate": "2026-05-02T13:22:45-04:00"
     },
     {
-      "id": "11F13C078AF4BBFAAE260263DE4AB8DB",
-      "title": "CoinDesk Live: Charles Hoskinson",
+      "id": "11F13C070714A954AE260263DE4AB8DB",
+      "title": "CoinDesk Live: Alex Rodriguez",
       "description_html": null,
       "date": "2026-05-06",
       "day_of_week": "Wed",
       "start_iso": "2026-05-06T14:30:00-04:00",
-      "end_iso": "2026-05-06T15:30:00-04:00",
+      "end_iso": "2026-05-06T15:45:00-04:00",
       "start_time": "14:30",
-      "end_time": "15:30",
-      "duration_minutes": 60,
+      "end_time": "15:45",
+      "duration_minutes": 75,
       "venue_slug": "coindesk-live-studio",
       "venue_name": "CoinDesk Live Studio",
       "venue_full_name": "MBCC: CoinDesk Live Studio",
@@ -7382,15 +7376,15 @@
       "tags": [],
       "speakers": [
         {
-          "name": "Charles Hoskinson",
-          "company": "Input Output",
-          "title": "CEO and Founder",
+          "name": "Alex Rodriguez",
+          "company": "A-Rod Corp / Minnesota Timberwolves & Lynx",
+          "title": "CEO of A-Rod Corp and Co-Chairman of Minnesota Timberwolves & Lynx",
           "role": "Speaker"
         }
       ],
-      "url": "/agenda/event/-coindesk-live-charles-hoskinson-242",
+      "url": "/agenda/event/-coindesk-live-alex-rodriguez-238",
       "active": true,
-      "mdate": "2026-04-19T11:50:59-04:00"
+      "mdate": "2026-05-04T23:16:34-04:00"
     },
     {
       "id": "11F118C7F98F1AE398D30263DE4AB8DB",
@@ -7492,6 +7486,35 @@
       "url": "/agenda/event/-unlocking-institutional-adoption-with-fhe-and-quantum-resistant-cryptography-220",
       "active": true,
       "mdate": "2026-04-30T16:08:49-04:00"
+    },
+    {
+      "id": "11F13C078AF4BBFAAE260263DE4AB8DB",
+      "title": "CoinDesk Live: Charles Hoskinson",
+      "description_html": null,
+      "date": "2026-05-06",
+      "day_of_week": "Wed",
+      "start_iso": "2026-05-06T14:45:00-04:00",
+      "end_iso": "2026-05-06T15:45:00-04:00",
+      "start_time": "14:45",
+      "end_time": "15:45",
+      "duration_minutes": 60,
+      "venue_slug": "coindesk-live-studio",
+      "venue_name": "CoinDesk Live Studio",
+      "venue_full_name": "MBCC: CoinDesk Live Studio",
+      "venue_color": "#ffc90e",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Charles Hoskinson",
+          "company": "Input Output",
+          "title": "CEO and Founder",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-coindesk-live-charles-hoskinson-242",
+      "active": true,
+      "mdate": "2026-05-04T23:17:10-04:00"
     },
     {
       "id": "11F1316B5F0643EBAE260263DE4AB8DB",
@@ -8144,35 +8167,6 @@
       "mdate": "2026-04-28T21:30:59-04:00"
     },
     {
-      "id": "11F13C0A94598FB5AE260263DE4AB8DB",
-      "title": "CoinDesk Live: Larry Wade",
-      "description_html": null,
-      "date": "2026-05-06",
-      "day_of_week": "Wed",
-      "start_iso": "2026-05-06T15:45:00-04:00",
-      "end_iso": "2026-05-06T16:45:00-04:00",
-      "start_time": "15:45",
-      "end_time": "16:45",
-      "duration_minutes": 60,
-      "venue_slug": "coindesk-live-studio",
-      "venue_name": "CoinDesk Live Studio",
-      "venue_full_name": "MBCC: CoinDesk Live Studio",
-      "venue_color": "#ffc90e",
-      "tracks": [],
-      "tags": [],
-      "speakers": [
-        {
-          "name": "Larry Wade",
-          "company": "PayPal",
-          "title": "Global Head of Crypto Compliance and Regulatory Relations",
-          "role": "Speaker"
-        }
-      ],
-      "url": "/agenda/event/-coindesk-live-larry-wade-260",
-      "active": true,
-      "mdate": "2026-04-19T12:12:48-04:00"
-    },
-    {
       "id": "11F14295967700B1AE260263DE4AB8DB",
       "title": "Crypto & the Future of Financial Services",
       "description_html": null,
@@ -8274,6 +8268,35 @@
       "url": "/agenda/event/-coindesk-live-charles-cascarilla-339",
       "active": true,
       "mdate": "2026-04-28T21:17:55-04:00"
+    },
+    {
+      "id": "11F13C0A94598FB5AE260263DE4AB8DB",
+      "title": "CoinDesk Live: Larry Wade",
+      "description_html": null,
+      "date": "2026-05-06",
+      "day_of_week": "Wed",
+      "start_iso": "2026-05-06T16:00:00-04:00",
+      "end_iso": "2026-05-06T17:00:00-04:00",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "duration_minutes": 60,
+      "venue_slug": "coindesk-live-studio",
+      "venue_name": "CoinDesk Live Studio",
+      "venue_full_name": "MBCC: CoinDesk Live Studio",
+      "venue_color": "#ffc90e",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Larry Wade",
+          "company": "PayPal",
+          "title": "Global Head of Crypto Compliance and Regulatory Relations",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-coindesk-live-larry-wade-260",
+      "active": true,
+      "mdate": "2026-05-04T23:22:02-04:00"
     },
     {
       "id": "11F14757C6685F71AE260263DE4AB8DB",
@@ -9444,35 +9467,6 @@
       "mdate": "2026-04-30T16:00:51-04:00"
     },
     {
-      "id": "11F13C09DFCA2CFCAE260263DE4AB8DB",
-      "title": "CoinDesk Live: Amy Oldenburg",
-      "description_html": null,
-      "date": "2026-05-07",
-      "day_of_week": "Thu",
-      "start_iso": "2026-05-07T10:45:00-04:00",
-      "end_iso": "2026-05-07T11:45:00-04:00",
-      "start_time": "10:45",
-      "end_time": "11:45",
-      "duration_minutes": 60,
-      "venue_slug": "coindesk-live-studio",
-      "venue_name": "CoinDesk Live Studio",
-      "venue_full_name": "MBCC: CoinDesk Live Studio",
-      "venue_color": "#ffc90e",
-      "tracks": [],
-      "tags": [],
-      "speakers": [
-        {
-          "name": "Amy Oldenburg",
-          "company": "Morgan Stanley",
-          "title": "Head of Digital Asset Strategy",
-          "role": "Speaker"
-        }
-      ],
-      "url": "/agenda/event/-coindesk-live-amy-oldenburg-255",
-      "active": true,
-      "mdate": "2026-04-19T12:07:49-04:00"
-    },
-    {
       "id": "11F1285590B4189D98D30263DE4AB8DB",
       "title": "The Future of Onchain Sports Betting & Prediction Markets",
       "description_html": null,
@@ -9643,6 +9637,35 @@
       "url": "/agenda/event/-agentic-magic-for-unlocking-growth-299",
       "active": true,
       "mdate": "2026-04-30T16:01:04-04:00"
+    },
+    {
+      "id": "11F13C09DFCA2CFCAE260263DE4AB8DB",
+      "title": "CoinDesk Live: Amy Oldenburg",
+      "description_html": null,
+      "date": "2026-05-07",
+      "day_of_week": "Thu",
+      "start_iso": "2026-05-07T11:00:00-04:00",
+      "end_iso": "2026-05-07T12:00:00-04:00",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "duration_minutes": 60,
+      "venue_slug": "coindesk-live-studio",
+      "venue_name": "CoinDesk Live Studio",
+      "venue_full_name": "MBCC: CoinDesk Live Studio",
+      "venue_color": "#ffc90e",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Amy Oldenburg",
+          "company": "Morgan Stanley",
+          "title": "Head of Digital Asset Strategy",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-coindesk-live-amy-oldenburg-255",
+      "active": true,
+      "mdate": "2026-05-04T23:21:02-04:00"
     },
     {
       "id": "11F1384B8CBE515AAE260263DE4AB8DB",
@@ -9989,7 +10012,7 @@
     },
     {
       "id": "11F12169E888DC5598D30263DE4AB8DB",
-      "title": "The Missing Layer: Why Policy Is the Last Piece of Crypto's Tech Stack",
+      "title": "Building the Crypto Capitol: A Fireside Chat with U.S. Senator Ashley Moody and The Digital Chamber CEO Cody Carbone",
       "description_html": null,
       "date": "2026-05-07",
       "day_of_week": "Thu",
@@ -10022,7 +10045,7 @@
       ],
       "url": "/agenda/event/-the-missing-layer-why-policy-is-the-last-piece-of-cryptos-tech-stack-141",
       "active": true,
-      "mdate": "2026-05-02T13:24:40-04:00"
+      "mdate": "2026-05-04T21:23:45-04:00"
     },
     {
       "id": "11F13DA4DCF40FAEAE260263DE4AB8DB",
@@ -10781,35 +10804,6 @@
       "mdate": "2026-04-30T16:22:55-04:00"
     },
     {
-      "id": "11F13C0C74E35FA1AE260263DE4AB8DB",
-      "title": "CoinDesk Live: Reeve Collins",
-      "description_html": null,
-      "date": "2026-05-07",
-      "day_of_week": "Thu",
-      "start_iso": "2026-05-07T13:30:00-04:00",
-      "end_iso": "2026-05-07T14:30:00-04:00",
-      "start_time": "13:30",
-      "end_time": "14:30",
-      "duration_minutes": 60,
-      "venue_slug": "coindesk-live-studio",
-      "venue_name": "CoinDesk Live Studio",
-      "venue_full_name": "MBCC: CoinDesk Live Studio",
-      "venue_color": "#ffc90e",
-      "tracks": [],
-      "tags": [],
-      "speakers": [
-        {
-          "name": "Reeve Collins",
-          "company": "Tether, STBL, and WeFi",
-          "title": "Co-founder",
-          "role": "Speaker"
-        }
-      ],
-      "url": "/agenda/event/-coindesk-live-reeve-collins-271",
-      "active": true,
-      "mdate": "2026-04-19T12:26:12-04:00"
-    },
-    {
       "id": "11F144D284DCA3DEAE260263DE4AB8DB",
       "title": "CoinDesk Live: Zach Witkoff",
       "description_html": null,
@@ -11188,6 +11182,35 @@
       "url": "/agenda/event/-dc-behind-the-scenes-151",
       "active": true,
       "mdate": "2026-05-01T06:44:24-04:00"
+    },
+    {
+      "id": "11F13C0C74E35FA1AE260263DE4AB8DB",
+      "title": "CoinDesk Live: Reeve Collins",
+      "description_html": null,
+      "date": "2026-05-07",
+      "day_of_week": "Thu",
+      "start_iso": "2026-05-07T14:00:00-04:00",
+      "end_iso": "2026-05-07T15:00:00-04:00",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "duration_minutes": 60,
+      "venue_slug": "coindesk-live-studio",
+      "venue_name": "CoinDesk Live Studio",
+      "venue_full_name": "MBCC: CoinDesk Live Studio",
+      "venue_color": "#ffc90e",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Reeve Collins",
+          "company": "Tether, STBL, and WeFi",
+          "title": "Co-founder",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-coindesk-live-reeve-collins-271",
+      "active": true,
+      "mdate": "2026-05-04T23:23:34-04:00"
     },
     {
       "id": "11F118CF654E883E98D30263DE4AB8DB",
@@ -11900,35 +11923,6 @@
       "mdate": "2026-04-19T12:11:41-04:00"
     },
     {
-      "id": "11F13C0D5629101CAE260263DE4AB8DB",
-      "title": "CoinDesk Live: Taylor Lindman",
-      "description_html": null,
-      "date": "2026-05-07",
-      "day_of_week": "Thu",
-      "start_iso": "2026-05-07T15:30:00-04:00",
-      "end_iso": "2026-05-07T16:30:00-04:00",
-      "start_time": "15:30",
-      "end_time": "16:30",
-      "duration_minutes": 60,
-      "venue_slug": "coindesk-live-studio",
-      "venue_name": "CoinDesk Live Studio",
-      "venue_full_name": "MBCC: CoinDesk Live Studio",
-      "venue_color": "#ffc90e",
-      "tracks": [],
-      "tags": [],
-      "speakers": [
-        {
-          "name": "Taylor Lindman",
-          "company": "U.S. Securities and Exchange Commission",
-          "title": "Chief Counsel of the Crypto Task Force",
-          "role": "Speaker"
-        }
-      ],
-      "url": "/agenda/event/-coindesk-live-taylor-lindman-277",
-      "active": true,
-      "mdate": "2026-04-19T12:32:30-04:00"
-    },
-    {
       "id": "11F11BBD394D754D98D30263DE4AB8DB",
       "title": "How Tokenization Rules are Evolving",
       "description_html": "Tokenization is the hot new thing everyone's getting into. The rules around this sector are still changing &mdash; and may change further still with new legislation.&nbsp;",
@@ -12099,6 +12093,35 @@
       "url": "/agenda/event/-fireside-chappy-asel-380",
       "active": true,
       "mdate": "2026-05-02T12:35:02-04:00"
+    },
+    {
+      "id": "11F13C0D5629101CAE260263DE4AB8DB",
+      "title": "CoinDesk Live: Taylor Lindman",
+      "description_html": null,
+      "date": "2026-05-07",
+      "day_of_week": "Thu",
+      "start_iso": "2026-05-07T15:45:00-04:00",
+      "end_iso": "2026-05-07T16:45:00-04:00",
+      "start_time": "15:45",
+      "end_time": "16:45",
+      "duration_minutes": 60,
+      "venue_slug": "coindesk-live-studio",
+      "venue_name": "CoinDesk Live Studio",
+      "venue_full_name": "MBCC: CoinDesk Live Studio",
+      "venue_color": "#ffc90e",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Taylor Lindman",
+          "company": "U.S. Securities and Exchange Commission",
+          "title": "Chief Counsel of the Crypto Task Force",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-coindesk-live-taylor-lindman-277",
+      "active": true,
+      "mdate": "2026-05-04T23:23:56-04:00"
     },
     {
       "id": "11F11B0C1E34956B98D30263DE4AB8DB",

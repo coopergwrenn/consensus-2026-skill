@@ -1,10 +1,10 @@
 {
   "meta": {
-    "baked_at": "2026-05-05T00:08:35.794Z",
+    "baked_at": "2026-05-05T03:51:01.262Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
-    "record_count": 463
+    "record_count": 462
   },
   "records": [
     {
@@ -135,7 +135,7 @@
         },
         {
           "id": "11F1247368BAF12898D30263DE4AB8DB",
-          "title": "Fireside chat: Anchorage Digital and Google Cloud",
+          "title": "Fireside Chat: Anchorage Digital and Google Cloud",
           "date": "2026-05-05",
           "start_iso": "2026-05-05T12:20:00-04:00",
           "venue_slug": "mainstage"
@@ -696,7 +696,7 @@
           "id": "11F13C0A29A64291AE260263DE4AB8DB",
           "title": "CoinDesk Live: Tom Farley",
           "date": "2026-05-05",
-          "start_iso": "2026-05-05T09:00:00-04:00",
+          "start_iso": "2026-05-05T09:45:00-04:00",
           "venue_slug": "coindesk-live-studio"
         },
         {
@@ -942,7 +942,7 @@
           "id": "11F13C0B821A4DEAAE260263DE4AB8DB",
           "title": "CoinDesk Live: Mert Mumtaz",
           "date": "2026-05-05",
-          "start_iso": "2026-05-05T12:00:00-04:00",
+          "start_iso": "2026-05-05T14:15:00-04:00",
           "venue_slug": "coindesk-live-studio"
         },
         {
@@ -1020,7 +1020,7 @@
       "sessions": [
         {
           "id": "11F1247368BAF12898D30263DE4AB8DB",
-          "title": "Fireside chat: Anchorage Digital and Google Cloud",
+          "title": "Fireside Chat: Anchorage Digital and Google Cloud",
           "date": "2026-05-05",
           "start_iso": "2026-05-05T12:20:00-04:00",
           "venue_slug": "mainstage"
@@ -1241,7 +1241,7 @@
           "id": "11F13C070714A954AE260263DE4AB8DB",
           "title": "CoinDesk Live: Alex Rodriguez",
           "date": "2026-05-06",
-          "start_iso": "2026-05-06T14:15:00-04:00",
+          "start_iso": "2026-05-06T14:30:00-04:00",
           "venue_slug": "coindesk-live-studio"
         }
       ]
@@ -1307,7 +1307,7 @@
           "id": "11F13C09DFCA2CFCAE260263DE4AB8DB",
           "title": "CoinDesk Live: Amy Oldenburg",
           "date": "2026-05-07",
-          "start_iso": "2026-05-07T10:45:00-04:00",
+          "start_iso": "2026-05-07T11:00:00-04:00",
           "venue_slug": "coindesk-live-studio"
         }
       ]
@@ -1344,7 +1344,7 @@
           "id": "11F13C087D1D5262AE260263DE4AB8DB",
           "title": "CoinDesk Live: Anthony Pompliano",
           "date": "2026-05-05",
-          "start_iso": "2026-05-05T13:00:00-04:00",
+          "start_iso": "2026-05-05T13:15:00-04:00",
           "venue_slug": "coindesk-live-studio"
         },
         {
@@ -1643,6 +1643,28 @@
       ]
     },
     {
+      "name": "Brian Klein",
+      "company": "Cooley LLP",
+      "title": "Partner",
+      "session_count": 2,
+      "sessions": [
+        {
+          "id": "11F1429D6600544FAE260263DE4AB8DB",
+          "title": "Regulation by Prosecution: Lessons From Roman Storm's First Trial Heading Into His Second",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T10:45:00-04:00",
+          "venue_slug": "spotlight-stage"
+        },
+        {
+          "id": "11F1483208A699FEAE260263DE4AB8DB",
+          "title": "CoinDesk Live: Brian Klein",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T12:15:00-04:00",
+          "venue_slug": "coindesk-live-studio"
+        }
+      ]
+    },
+    {
       "name": "Britt Cambas",
       "company": "Circle",
       "title": "Senior Manager",
@@ -1703,7 +1725,7 @@
           "id": "11F13C078AF4BBFAAE260263DE4AB8DB",
           "title": "CoinDesk Live: Charles Hoskinson",
           "date": "2026-05-06",
-          "start_iso": "2026-05-06T14:30:00-04:00",
+          "start_iso": "2026-05-06T14:45:00-04:00",
           "venue_slug": "coindesk-live-studio"
         }
       ]
@@ -2070,7 +2092,7 @@
           "id": "11F1436914C3FE52AE260263DE4AB8DB",
           "title": "CoinDesk Live: Frank La Salla",
           "date": "2026-05-06",
-          "start_iso": "2026-05-06T12:15:00-04:00",
+          "start_iso": "2026-05-06T12:30:00-04:00",
           "venue_slug": "coindesk-live-studio"
         },
         {
@@ -2451,7 +2473,7 @@
           "id": "11F13C09048FA12EAE260263DE4AB8DB",
           "title": "CoinDesk Live: Joseph Lubin",
           "date": "2026-05-05",
-          "start_iso": "2026-05-05T11:00:00-04:00",
+          "start_iso": "2026-05-05T11:15:00-04:00",
           "venue_slug": "coindesk-live-studio"
         }
       ]
@@ -2620,7 +2642,7 @@
           "id": "11F13C0A94598FB5AE260263DE4AB8DB",
           "title": "CoinDesk Live: Larry Wade",
           "date": "2026-05-06",
-          "start_iso": "2026-05-06T15:45:00-04:00",
+          "start_iso": "2026-05-06T16:00:00-04:00",
           "venue_slug": "coindesk-live-studio"
         },
         {
@@ -2781,7 +2803,7 @@
           "id": "11F13C08BD633577AE260263DE4AB8DB",
           "title": "CoinDesk Live: Mike Cagney",
           "date": "2026-05-05",
-          "start_iso": "2026-05-05T13:30:00-04:00",
+          "start_iso": "2026-05-05T13:45:00-04:00",
           "venue_slug": "coindesk-live-studio"
         }
       ]
@@ -2860,7 +2882,7 @@
       "sessions": [
         {
           "id": "11F1247368BAF12898D30263DE4AB8DB",
-          "title": "Fireside chat: Anchorage Digital and Google Cloud",
+          "title": "Fireside Chat: Anchorage Digital and Google Cloud",
           "date": "2026-05-05",
           "start_iso": "2026-05-05T12:20:00-04:00",
           "venue_slug": "mainstage"
@@ -3016,7 +3038,7 @@
           "id": "11F13C07F5E5D9BBAE260263DE4AB8DB",
           "title": "CoinDesk Live: Raoul Pal",
           "date": "2026-05-06",
-          "start_iso": "2026-05-06T14:00:00-04:00",
+          "start_iso": "2026-05-06T14:15:00-04:00",
           "venue_slug": "coindesk-live-studio"
         },
         {
@@ -3038,7 +3060,7 @@
           "id": "11F13C0C74E35FA1AE260263DE4AB8DB",
           "title": "CoinDesk Live: Reeve Collins",
           "date": "2026-05-07",
-          "start_iso": "2026-05-07T13:30:00-04:00",
+          "start_iso": "2026-05-07T14:00:00-04:00",
           "venue_slug": "coindesk-live-studio"
         },
         {
@@ -3067,7 +3089,7 @@
           "id": "11F13C09BCA613B3AE260263DE4AB8DB",
           "title": "CoinDesk Live: Reid Hoffman",
           "date": "2026-05-06",
-          "start_iso": "2026-05-06T12:30:00-04:00",
+          "start_iso": "2026-05-06T12:45:00-04:00",
           "venue_slug": "coindesk-live-studio"
         }
       ]
@@ -3233,18 +3255,18 @@
       "session_count": 2,
       "sessions": [
         {
-          "id": "11F13C099C316625AE260263DE4AB8DB",
-          "title": "CoinDesk Live: Steven Meiner",
-          "date": "2026-05-05",
-          "start_iso": "2026-05-05T09:30:00-04:00",
-          "venue_slug": "coindesk-live-studio"
-        },
-        {
           "id": "11F126BC1713EA4E98D30263DE4AB8DB",
           "title": "Opening Remarks",
           "date": "2026-05-05",
           "start_iso": "2026-05-05T09:40:00-04:00",
           "venue_slug": "mainstage"
+        },
+        {
+          "id": "11F13C099C316625AE260263DE4AB8DB",
+          "title": "CoinDesk Live: Steven Meiner",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T10:00:00-04:00",
+          "venue_slug": "coindesk-live-studio"
         }
       ]
     },
@@ -3280,7 +3302,7 @@
           "id": "11F14368ADE30DDAAE260263DE4AB8DB",
           "title": "CoinDesk Live: Tal Cohen",
           "date": "2026-05-06",
-          "start_iso": "2026-05-06T12:15:00-04:00",
+          "start_iso": "2026-05-06T12:30:00-04:00",
           "venue_slug": "coindesk-live-studio"
         },
         {
@@ -3309,7 +3331,7 @@
           "id": "11F13C0D5629101CAE260263DE4AB8DB",
           "title": "CoinDesk Live: Taylor Lindman",
           "date": "2026-05-07",
-          "start_iso": "2026-05-07T15:30:00-04:00",
+          "start_iso": "2026-05-07T15:45:00-04:00",
           "venue_slug": "coindesk-live-studio"
         }
       ]
@@ -3387,18 +3409,18 @@
       "session_count": 2,
       "sessions": [
         {
+          "id": "11F13C0BA372129AAE260263DE4AB8DB",
+          "title": "CoinDesk Live: Tushar Jain",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T00:00:00-04:00",
+          "venue_slug": "coindesk-live-studio"
+        },
+        {
           "id": "11F1215E78F32EA198D30263DE4AB8DB",
           "title": "The Future of Privacy in Blockchain",
           "date": "2026-05-05",
           "start_iso": "2026-05-05T11:35:00-04:00",
           "venue_slug": "convergence-stage"
-        },
-        {
-          "id": "11F13C0BA372129AAE260263DE4AB8DB",
-          "title": "CoinDesk Live: Tushar Jain",
-          "date": "2026-05-06",
-          "start_iso": "2026-05-06T11:45:00-04:00",
-          "venue_slug": "coindesk-live-studio"
         }
       ]
     },
@@ -3434,7 +3456,7 @@
           "id": "11F14367773C2D88AE260263DE4AB8DB",
           "title": "CoinDesk Live: Wizard of SoHo",
           "date": "2026-05-05",
-          "start_iso": "2026-05-05T10:00:00-04:00",
+          "start_iso": "2026-05-05T10:30:00-04:00",
           "venue_slug": "coindesk-live-studio"
         },
         {
@@ -3522,7 +3544,7 @@
           "id": "11F13C0532BCA0C7AE260263DE4AB8DB",
           "title": "CoinDesk Live: Yoshi Yokokawa",
           "date": "2026-05-05",
-          "start_iso": "2026-05-05T10:00:00-04:00",
+          "start_iso": "2026-05-05T09:45:00-04:00",
           "venue_slug": "coindesk-live-studio"
         },
         {
@@ -4029,7 +4051,7 @@
       "sessions": [
         {
           "id": "11F12169E888DC5598D30263DE4AB8DB",
-          "title": "The Missing Layer: Why Policy Is the Last Piece of Crypto's Tech Stack",
+          "title": "Building the Crypto Capitol: A Fireside Chat with U.S. Senator Ashley Moody and The Digital Chamber CEO Cody Carbone",
           "date": "2026-05-07",
           "start_iso": "2026-05-07T11:40:00-04:00",
           "venue_slug": "mainstage"
@@ -4157,21 +4179,6 @@
       ]
     },
     {
-      "name": "Bill Rockwood",
-      "company": "United States Senate United States Senate",
-      "title": "General Counsel, The Office of Senator Kirsten E. Gillibrand",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F117300F953B2298D30263DE4AB8DB",
-          "title": "Meet the Staffers: What You Need to Know Before the Midterms",
-          "date": "2026-05-05",
-          "start_iso": "2026-05-05T11:15:00-04:00",
-          "venue_slug": "workshop-stage"
-        }
-      ]
-    },
-    {
       "name": "Billy Beach",
       "company": "Trusted Smart Chain",
       "title": "Member of the Founding Team",
@@ -4288,21 +4295,6 @@
           "date": "2026-05-07",
           "start_iso": "2026-05-07T11:35:00-04:00",
           "venue_slug": "convergence-stage"
-        }
-      ]
-    },
-    {
-      "name": "Brian Klein",
-      "company": "Cooley LLP",
-      "title": "Partner",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F1429D6600544FAE260263DE4AB8DB",
-          "title": "Regulation by Prosecution: Lessons From Roman Storm's First Trial Heading Into His Second",
-          "date": "2026-05-05",
-          "start_iso": "2026-05-05T10:45:00-04:00",
-          "venue_slug": "spotlight-stage"
         }
       ]
     },
@@ -4579,7 +4571,7 @@
     {
       "name": "Christine Lane",
       "company": "Female Quotient",
-      "title": "Senior Manager of Programming",
+      "title": "Senior Manager, Event Content & Strategy.",
       "session_count": 1,
       "sessions": [
         {
@@ -4644,7 +4636,7 @@
       "sessions": [
         {
           "id": "11F12169E888DC5598D30263DE4AB8DB",
-          "title": "The Missing Layer: Why Policy Is the Last Piece of Crypto's Tech Stack",
+          "title": "Building the Crypto Capitol: A Fireside Chat with U.S. Senator Ashley Moody and The Digital Chamber CEO Cody Carbone",
           "date": "2026-05-07",
           "start_iso": "2026-05-07T11:40:00-04:00",
           "venue_slug": "mainstage"
@@ -6214,7 +6206,7 @@
     {
       "name": "Lindsey Dickman",
       "company": "Kantar",
-      "title": "Executive Vice President, Finance, Health & Auto Industry Partner, NA",
+      "title": "Executive Vice President, Finance, Health & Auto Industry Partner",
       "session_count": 1,
       "sessions": [
         {
