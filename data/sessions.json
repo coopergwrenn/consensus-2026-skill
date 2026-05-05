@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-05T11:41:56.091Z",
+    "baked_at": "2026-05-05T14:25:16.800Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -119,7 +119,7 @@
     {
       "id": "11F11C0DA9A5C39598D30263DE4AB8DB",
       "title": "Speed Networking Session",
-      "description_html": "Meet 10+ new contacts in just 25 minutes. This fast-paced session pairs you with fellow attendees for quick 2-minute conversations before rotating to the next connection. Whether you're hunting for partnerships, investors, clients, or just expanding your network, this is your chance to make meaningful connections without the small talk marathon. Located in the DealFlow Zone daily.<br /><br />",
+      "description_html": "Meet 10+ new contacts in just 25 minutes. This fast-paced session pairs you with fellow attendees for quick 2-minute conversations before rotating to the next connection. Whether you're hunting for partnerships, investors, clients, or just expanding your network, this is your chance to make meaningful connections without the small talk marathon. Located in the DealFlow Zone daily in the front left corner.&nbsp;",
       "date": "2026-05-05",
       "day_of_week": "Tue",
       "start_iso": "2026-05-05T09:30:00-04:00",
@@ -145,7 +145,7 @@
       ],
       "url": "/agenda/event/-speed-dating-session-119",
       "active": true,
-      "mdate": "2026-04-21T13:03:26-04:00"
+      "mdate": "2026-05-05T08:44:34-04:00"
     },
     {
       "id": "11F11719A6A722B898D30263DE4AB8DB",
@@ -2013,7 +2013,7 @@
     {
       "id": "11F11C0DAD24ADE098D30263DE4AB8DB",
       "title": "Speed Networking Session",
-      "description_html": "Meet 10+ new contacts in just 25 minutes. This fast-paced session pairs you with fellow attendees for quick 2-minute conversations before rotating to the next connection. Whether you're hunting for partnerships, investors, clients, or just expanding your network, this is your chance to make meaningful connections without the small talk marathon. Located in the DealFlow Zone daily.<br /><br />",
+      "description_html": "Meet 10+ new contacts in just 25 minutes. This fast-paced session pairs you with fellow attendees for quick 2-minute conversations before rotating to the next connection. Whether you're hunting for partnerships, investors, clients, or just expanding your network, this is your chance to make meaningful connections without the small talk marathon. Located in the DealFlow Zone daily in the front left corner.&nbsp;<br />",
       "date": "2026-05-05",
       "day_of_week": "Tue",
       "start_iso": "2026-05-05T13:00:00-04:00",
@@ -2039,7 +2039,7 @@
       ],
       "url": "/agenda/event/-speed-dating-session-120",
       "active": true,
-      "mdate": "2026-04-21T13:03:08-04:00"
+      "mdate": "2026-05-05T08:44:45-04:00"
     },
     {
       "id": "11F11EEA1EAB952F98D30263DE4AB8DB",
@@ -4527,7 +4527,7 @@
     {
       "id": "11F11C0DC127593198D30263DE4AB8DB",
       "title": "Speed Networking Session",
-      "description_html": "Meet 10+ new contacts in just 25 minutes. This fast-paced session pairs you with fellow attendees for quick 2-minute conversations before rotating to the next connection. Whether you're hunting for partnerships, investors, clients, or just expanding your network, this is your chance to make meaningful connections without the small talk marathon. Located in the DealFlow Zone daily.<br /><br />",
+      "description_html": "Meet 10+ new contacts in just 25 minutes. This fast-paced session pairs you with fellow attendees for quick 2-minute conversations before rotating to the next connection. Whether you're hunting for partnerships, investors, clients, or just expanding your network, this is your chance to make meaningful connections without the small talk marathon. Located in the DealFlow Zone daily in the front left corner.&nbsp;<br /><br />",
       "date": "2026-05-06",
       "day_of_week": "Wed",
       "start_iso": "2026-05-06T09:30:00-04:00",
@@ -4553,7 +4553,7 @@
       ],
       "url": "/agenda/event/-speed-dating-session-121",
       "active": true,
-      "mdate": "2026-04-21T13:04:05-04:00"
+      "mdate": "2026-05-05T08:44:53-04:00"
     },
     {
       "id": "11F118C786798AFC98D30263DE4AB8DB",
@@ -6537,7 +6537,7 @@
     {
       "id": "11F11C0DC9CB6A8698D30263DE4AB8DB",
       "title": "Speed Networking Session",
-      "description_html": "Meet 10+ new contacts in just 25 minutes. This fast-paced session pairs you with fellow attendees for quick 2-minute conversations before rotating to the next connection. Whether you're hunting for partnerships, investors, clients, or just expanding your network, this is your chance to make meaningful connections without the small talk marathon. Located in the DealFlow Zone daily.<br /><br />",
+      "description_html": "Meet 10+ new contacts in just 25 minutes. This fast-paced session pairs you with fellow attendees for quick 2-minute conversations before rotating to the next connection. Whether you're hunting for partnerships, investors, clients, or just expanding your network, this is your chance to make meaningful connections without the small talk marathon. Located in the DealFlow Zone daily in the front left corner.&nbsp;<br /><br />",
       "date": "2026-05-06",
       "day_of_week": "Wed",
       "start_iso": "2026-05-06T13:00:00-04:00",
@@ -6563,7 +6563,7 @@
       ],
       "url": "/agenda/event/-speed-dating-session-122",
       "active": true,
-      "mdate": "2026-04-21T13:04:15-04:00"
+      "mdate": "2026-05-05T08:45:01-04:00"
     },
     {
       "id": "11F13DA4BBCEEB54AE260263DE4AB8DB",
@@ -8597,7 +8597,7 @@
     {
       "id": "11F13BFF28D7844AAE260263DE4AB8DB",
       "title": "Ride or Die Agents: Orchestration and Improvement of Your AI Army",
-      "description_html": null,
+      "description_html": "Tim Rodgers built an AI trading bot in 20 minutes that executes real trades on Polymarket. He's never placed a prediction bet in his life.&nbsp;<br />In this hands-on workshop, he'll show you the agent army he runs from his phone every morning, break down why constraints matter more than capabilities, and help you build your first autonomous agent live in the room.&nbsp;Bring a laptop and think about two to three repeatable things you do daily.",
       "date": "2026-05-06",
       "day_of_week": "Wed",
       "start_iso": "2026-05-06T16:30:00-04:00",
@@ -8624,7 +8624,7 @@
       ],
       "url": "/agenda/event/-ride-or-die-agents-orchestration-and-improvement-of-your-ai-army-224",
       "active": true,
-      "mdate": "2026-04-30T15:59:47-04:00"
+      "mdate": "2026-05-05T08:41:00-04:00"
     },
     {
       "id": "11F117D656F5669C98D30263DE4AB8DB",
@@ -8873,7 +8873,7 @@
     {
       "id": "11F11C0DD78FCA5F98D30263DE4AB8DB",
       "title": "Speed Networking Session",
-      "description_html": "Meet 10+ new contacts in just 25 minutes. This fast-paced session pairs you with fellow attendees for quick 2-minute conversations before rotating to the next connection. Whether you're hunting for partnerships, investors, clients, or just expanding your network, this is your chance to make meaningful connections without the small talk marathon. Located in the DealFlow Zone daily.<br /><br />",
+      "description_html": "Meet 10+ new contacts in just 25 minutes. This fast-paced session pairs you with fellow attendees for quick 2-minute conversations before rotating to the next connection. Whether you're hunting for partnerships, investors, clients, or just expanding your network, this is your chance to make meaningful connections without the small talk marathon. Located in the DealFlow Zone daily in the front left corner.&nbsp;<br />",
       "date": "2026-05-07",
       "day_of_week": "Thu",
       "start_iso": "2026-05-07T09:30:00-04:00",
@@ -8899,7 +8899,7 @@
       ],
       "url": "/agenda/event/-speed-dating-session-123",
       "active": true,
-      "mdate": "2026-04-21T13:04:38-04:00"
+      "mdate": "2026-05-05T08:45:09-04:00"
     },
     {
       "id": "11F13C074DE3B127AE260263DE4AB8DB",
@@ -10481,7 +10481,7 @@
     {
       "id": "11F11C0DDF77F8D698D30263DE4AB8DB",
       "title": "Speed Networking Session",
-      "description_html": "Meet 10+ new contacts in just 25 minutes. This fast-paced session pairs you with fellow attendees for quick 2-minute conversations before rotating to the next connection. Whether you're hunting for partnerships, investors, clients, or just expanding your network, this is your chance to make meaningful connections without the small talk marathon. Located in the DealFlow Zone daily.<br /><br />",
+      "description_html": "Meet 10+ new contacts in just 25 minutes. This fast-paced session pairs you with fellow attendees for quick 2-minute conversations before rotating to the next connection. Whether you're hunting for partnerships, investors, clients, or just expanding your network, this is your chance to make meaningful connections without the small talk marathon. Located in the DealFlow Zone daily in the front left corner.&nbsp;<br /><br />",
       "date": "2026-05-07",
       "day_of_week": "Thu",
       "start_iso": "2026-05-07T13:00:00-04:00",
@@ -10507,7 +10507,7 @@
       ],
       "url": "/agenda/event/-speed-dating-session-124",
       "active": true,
-      "mdate": "2026-04-21T13:04:47-04:00"
+      "mdate": "2026-05-05T08:45:17-04:00"
     },
     {
       "id": "11F12EA4483CD3C8AE260263DE4AB8DB",
