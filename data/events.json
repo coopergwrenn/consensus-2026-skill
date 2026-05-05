@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-05T03:50:58.517Z",
+    "baked_at": "2026-05-05T06:28:58.032Z",
     "schema_version": 1,
     "source_url": "https://docs.google.com/spreadsheets/d/1xWmIHyEyOmPHfkYuZkucPRlLGWbb9CF6Oqvfl8FUV6k/gviz/tq?tqx=out:json&sheet=Consensus%20Miami%202026",
     "source_label": "plan.wtf — Consensus Miami 2026 (Google Sheets gviz)",
@@ -343,31 +343,6 @@
       "source": "planwtf"
     },
     {
-      "id": "00eacb4358ed997d",
-      "date": "2026-05-04",
-      "day_of_week": "Mon",
-      "start_time": "11:00",
-      "end_time": "13:00",
-      "start_iso": "2026-05-04T11:00:00-04:00",
-      "end_iso": "2026-05-04T13:00:00-04:00",
-      "organizer": "BackersStage Capital",
-      "name": "Founder x VC Happy Hour @ Quantum Qafe Coffee Meetup 🇺🇸",
-      "address": "The Roof at Esme Hotel, 1438 Washington Ave, Miami Beach, FL 33139, USA",
-      "cost": "Free",
-      "is_free": true,
-      "tags": [
-        "Party",
-        "Networking",
-        "Devs/Builders",
-        "VCs/Angels"
-      ],
-      "link": "https://luma.com/w234skmb",
-      "has_food": false,
-      "has_bar": true,
-      "note": null,
-      "source": "planwtf"
-    },
-    {
       "id": "96f31fcfeba184b8",
       "date": "2026-05-04",
       "day_of_week": "Mon",
@@ -630,6 +605,31 @@
         "DeFi"
       ],
       "link": "https://luma.com/i7xfu4wb",
+      "has_food": false,
+      "has_bar": true,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
+      "id": "4752938aae580a9b",
+      "date": "2026-05-04",
+      "day_of_week": "Mon",
+      "start_time": "16:00",
+      "end_time": "18:30",
+      "start_iso": "2026-05-04T16:00:00-04:00",
+      "end_iso": "2026-05-04T18:30:00-04:00",
+      "organizer": "BackersStage Capital",
+      "name": "Founder x VC Happy Hour @ Consensus Miami 2026 🇺🇸",
+      "address": "The Roof at Esme Hotel, 1438 Washington Ave, Miami Beach, FL 33139, USA",
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Party",
+        "Networking",
+        "Devs/Builders",
+        "VCs/Angels"
+      ],
+      "link": "https://luma.com/w234skmb",
       "has_food": false,
       "has_bar": true,
       "note": null,
@@ -2702,32 +2702,6 @@
       "source": "planwtf"
     },
     {
-      "id": "162102e61c8d7bc7",
-      "date": "2026-05-05",
-      "day_of_week": "Tue",
-      "start_time": "19:00",
-      "end_time": "02:00",
-      "start_iso": "2026-05-05T19:00:00-04:00",
-      "end_iso": "2026-05-05T02:00:00-04:00",
-      "organizer": "PAI Palooza Presents - Build with AI Native Studio - 2026",
-      "name": "AINative x Fondo: Proof of Fiesta",
-      "address": "The Clevelander Bar, 1020 Ocean Dr #1, Miami Beach, FL 33139, USA",
-      "cost": "Free",
-      "is_free": true,
-      "tags": [
-        "Party",
-        "Networking",
-        "Devs/Builders",
-        "VCs/Angels",
-        "AI"
-      ],
-      "link": "https://luma.com/unjchdv8",
-      "has_food": true,
-      "has_bar": true,
-      "note": null,
-      "source": "planwtf"
-    },
-    {
       "id": "3e63cc8b05326769",
       "date": "2026-05-05",
       "day_of_week": "Tue",
@@ -2749,6 +2723,32 @@
       "link": "https://luma.com/EveningwithSuiMiami",
       "has_food": false,
       "has_bar": false,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
+      "id": "6fa35435429faf6d",
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_time": "19:00",
+      "end_time": "02:00",
+      "start_iso": "2026-05-05T19:00:00-04:00",
+      "end_iso": "2026-05-05T02:00:00-04:00",
+      "organizer": "PAI Palooza Presents - Build with AI Native Studio - 2026",
+      "name": "Boom x AINative x Fondo: Proof of Fiesta",
+      "address": "The Clevelander Bar, 1020 Ocean Dr #1, Miami Beach, FL 33139, USA",
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Party",
+        "Networking",
+        "Devs/Builders",
+        "VCs/Angels",
+        "AI"
+      ],
+      "link": "https://luma.com/unjchdv8",
+      "has_food": true,
+      "has_bar": true,
       "note": null,
       "source": "planwtf"
     },
@@ -3807,7 +3807,7 @@
       "source": "planwtf"
     },
     {
-      "id": "31185128426c4e3c",
+      "id": "bf553084ccee1dbc",
       "date": "2026-05-06",
       "day_of_week": "Wed",
       "start_time": "16:00",
@@ -3815,7 +3815,7 @@
       "start_iso": "2026-05-06T16:00:00-04:00",
       "end_iso": "2026-05-06T19:00:00-04:00",
       "organizer": "Quip Network",
-      "name": "Quipicnic: Touch Grass with Quip Network | Consensus Miami 2026",
+      "name": "Quipicnic: Touch G̶r̶a̶s̶s̶ Sand with Quip Network | Consensus Miami 2026",
       "address": null,
       "cost": "Free",
       "is_free": true,
@@ -5307,7 +5307,7 @@
       "source": "planwtf"
     },
     {
-      "id": "abe312ba939bcf62",
+      "id": "519c5bcb4e543647",
       "date": "2026-05-07",
       "day_of_week": "Thu",
       "start_time": "15:00",
@@ -5315,8 +5315,8 @@
       "start_iso": "2026-05-07T15:00:00-04:00",
       "end_iso": "2026-05-07T19:00:00-04:00",
       "organizer": "Logan Wilkes",
-      "name": "Aura Farming X Envy Models",
-      "address": "South Beach, Miami Beach, FL",
+      "name": "Miami Crypto Week X Envy Models",
+      "address": "Lincoln Rd, Lincoln Rd, Miami Beach, FL 33139",
       "cost": "Free",
       "is_free": true,
       "tags": [

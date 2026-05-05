@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-05T03:51:01.262Z",
+    "baked_at": "2026-05-05T06:29:00.845Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
@@ -6760,7 +6760,7 @@
     },
     {
       "name": "Michelle Makori",
-      "company": "Miles Franklin Media",
+      "company": "Miles Franklin",
       "title": "President & Editor in Chief",
       "session_count": 1,
       "sessions": [
