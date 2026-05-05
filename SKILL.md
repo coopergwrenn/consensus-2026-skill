@@ -215,3 +215,111 @@ Save their answers to `MEMORY.md`. Reference them for every recommendation there
 - **Stale data.** Check `MANIFEST.json` `generated_at`. If older than ~2h during conference week, mention to the user that data may be slightly stale and link them to `consensus.coindesk.com` for last-minute changes.
 - **Address-based queries are best-effort.** No normalized geo on side events; fall back to substring match on `address`.
 - **Empty tags or tracks** on welcome remarks and Live Studio segments — don't reject; fall back to title/description.
+
+---
+
+## Intent Matching
+
+InstaClaw runs an intent-matching engine that pairs your user with other Consensus attendees based on what each agent has learned about its user. It's the platform's central differentiator: matches are judged by the user's *own agent* with *their MEMORY.md as context*, not by a generic embedding scorer.
+
+Three things you need to handle: the **consent ask** (one-time), **showing matches** when asked, and **knowing what the user already saw** (Telegram notifications fire automatically).
+
+### 1. The consent ask — fire ONCE after first matchpool_profile
+
+When `consensus_intent_sync.py` (cron, every 15 min) creates the user's first `matchpool_profile`, the consent_tier defaults to `hidden` — they appear in nobody's matches. You need to ask once whether they want to opt in.
+
+**Check current state:**
+
+```bash
+python3 ~/.openclaw/scripts/consensus_match_consent.py
+```
+
+Returns JSON: `{"ok": true, "consent_tier": "hidden", "profile_version": 1, "has_profile": true}`. The condition to ask: `has_profile == true` AND `consent_tier == "hidden"` AND you have NOT asked before in this user's history (check MEMORY.md / session log for prior asks).
+
+**Ask exactly once. Verbatim template (Telegram-friendly, no markdown that breaks parsing):**
+
+> One thing I want to check with you. I've extracted your intent profile from our conversations — what you're working on, what you're looking for at Consensus this week. Right now nobody else sees you in their matches.
+>
+> Want to opt in? Reply with a number:
+>
+> 1 = just my name visible
+> 2 = my interests + what I'm seeking (no description)
+> 3 = my interests + name + summary (most useful for matches)
+> 4 = full profile (interests + summary + name to anyone matched)
+>
+> Or "no" to stay hidden. You can change this any time.
+
+When they reply with a digit, set the tier:
+
+| Reply | Tier slug | Command |
+|---|---|---|
+| `1` | `name_only` | `python3 ~/.openclaw/scripts/consensus_match_consent.py --set name_only` |
+| `2` | `interests` | `python3 ~/.openclaw/scripts/consensus_match_consent.py --set interests` |
+| `3` | `interests_plus_name` | `python3 ~/.openclaw/scripts/consensus_match_consent.py --set interests_plus_name` |
+| `4` | `full_profile` | `python3 ~/.openclaw/scripts/consensus_match_consent.py --set full_profile` |
+| `no` | (no change — already hidden) | nothing — confirm "Got it, staying hidden" |
+
+The helper exits 0 on success and prints the new state. Confirm:
+
+> You're in at level N. Matches will start showing up within the next 30 minutes — I'll ping you when there's someone worth meeting.
+
+After confirming, write a USER_FACTS line: *"opted into matchpool at tier <tier> on <date>"* so you don't ask again.
+
+### 2. Surfacing matches when the user asks
+
+Triggers: *"show me my matches"*, *"who should I meet?"*, *"find me my people"*, *"what's the matchpool say"*, *"any new matches?"*, *"who's on my list"*.
+
+The matching pipeline (`consensus_match_pipeline.py`) runs every 30 minutes via cron. It writes:
+
+- **Database (server-side):** `matchpool_cached_top3` (top-3 user_ids + scores) and `matchpool_deliberations` (full rationale per candidate).
+- **Local state:** `~/.openclaw/.consensus_match_state.json` with `last_top3` (3 user_ids), `last_outcome`, `last_run_at`, `last_notified_top1`.
+- **Telegram notification:** when `last_top1` changes, fires automatically via `~/scripts/notify_user.sh` — full rationale in the body. The user has likely seen the most recent match in chat already.
+
+**Response pattern:**
+
+```bash
+# 1. Check pipeline state
+cat ~/.openclaw/.consensus_match_state.json
+```
+
+If `last_outcome` is `ok` or `ok_cold_start`, recap from the local state:
+
+> Your top match right now is [agent label from last_top3[0]] — I sent you the full read in chat at [time from last_run_at]. The other two are below them.
+>
+> Full list with rationale + suggested topics + meeting windows: https://instaclaw.io/consensus/my-matches
+>
+> Want me to draft an intro for any of them? (XMTP intro flow ships Wed.)
+
+If `last_outcome` is `no_profile`: tell them their intent hasn't been extracted yet — `consensus_intent_sync.py` runs every 15 min, and offer to force a one-shot extraction.
+
+If `last_outcome` is `no_candidates`: pool is light. Encourage them to invite people who'd find them useful, or to wait — pool grows hourly during the conference.
+
+If state file is missing: pipeline hasn't run yet. Offer to fire one immediately:
+
+```bash
+python3 ~/.openclaw/scripts/consensus_match_pipeline.py --force --no-jitter
+```
+
+Takes 30-45s. Watch the output for `pipeline.post_results_ok` — that means matches landed in DB. Then point them to `/consensus/my-matches`.
+
+### 3. Cold-start handling
+
+When `memory_bytes < 2000` (thin MEMORY.md), the pipeline runs Layer 2 only and labels matches *preliminary*. The rationale gets prefixed `<l2-only>` and the score is capped at 0.6. The /my-matches page renders these as "Preliminary · profile fit only."
+
+If the user asks why their matches aren't sharper, tell them honestly: *"I don't have enough memory of you yet to do the deep agent-with-context judgment — right now these are profile-fit only. As we talk more, the matches sharpen."*
+
+### 4. Failure modes
+
+- **Gateway flake** (gateway returns empty content): pipeline aborts on `>25%` Layer 3 fallback rate, keeps last-good `cached_top3`. State shows `abort_fallback_*`. Next cycle retries. Tell user: "matching system briefly degraded, your last-good matches still up at /consensus/my-matches; new ones in 30 min."
+- **Profile extraction failed** (consensus_intent_extract.py returned bad JSON): `last_outcome` would be `no_profile`. Force re-extract:
+  ```bash
+  python3 ~/.openclaw/scripts/consensus_intent_sync.py --force
+  ```
+- **Re-asking after consent change**: if they want to switch tiers later, just call the helper with the new `--set <tier>`. Always confirm.
+- **Hidden by default is intentional.** Don't auto-opt-in or pressure. The architectural commitment is opt-in via Telegram question, not opt-out.
+
+### 5. Voice rule (important)
+
+When you talk about a match, the deliberation rationale is already in your voice (first-person about your user — "you mentioned X", "you've been working on Y"). Don't re-paraphrase or genericize it. Pass it through verbatim. The whole point of agent-with-memory deliberation is that it sounds like *you* talking to *your user*, not like a matchmaking spreadsheet.
+
+If the rationale starts with `<l2-only>` or `<fallback:` or `<deliberation unavailable:`, strip the prefix before relaying — those are internal labels for the UI's fallback rendering, not user-facing.
