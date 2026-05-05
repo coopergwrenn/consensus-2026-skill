@@ -1,11 +1,11 @@
 {
   "meta": {
-    "baked_at": "2026-05-05T06:28:58.032Z",
+    "baked_at": "2026-05-05T09:20:49.955Z",
     "schema_version": 1,
     "source_url": "https://docs.google.com/spreadsheets/d/1xWmIHyEyOmPHfkYuZkucPRlLGWbb9CF6Oqvfl8FUV6k/gviz/tq?tqx=out:json&sheet=Consensus%20Miami%202026",
     "source_label": "plan.wtf — Consensus Miami 2026 (Google Sheets gviz)",
-    "record_count": 230,
-    "notes": "241 raw rows from gviz, 11 filtered (header/ad/out-of-window/unnamed), 230 retained."
+    "record_count": 235,
+    "notes": "246 raw rows from gviz, 11 filtered (header/ad/out-of-window/unnamed), 235 retained."
   },
   "records": [
     {
@@ -1605,6 +1605,32 @@
       "source": "planwtf"
     },
     {
+      "id": "61ca5def3d66242b",
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "start_iso": "2026-05-05T10:00:00-04:00",
+      "end_iso": "2026-05-05T12:00:00-04:00",
+      "organizer": "Joe Schiarizzi",
+      "name": "Crypto Congress: Policy Brunch Fundraiser",
+      "address": "South Pointe Tavern, 40 South Pointe Dr #109, Miami Beach, FL 33139, USA",
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Brunch",
+        "Panel/Talk",
+        "Networking",
+        "VCs/Angels",
+        "ETH"
+      ],
+      "link": "https://luma.com/uzsrcd22",
+      "has_food": true,
+      "has_bar": false,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
       "id": "b2b2752ffe45c85b",
       "date": "2026-05-05",
       "day_of_week": "Tue",
@@ -2319,6 +2345,32 @@
       "source": "planwtf"
     },
     {
+      "id": "c89e0cbc80d9c2c8",
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_time": "18:00",
+      "end_time": "20:00",
+      "start_iso": "2026-05-05T18:00:00-04:00",
+      "end_iso": "2026-05-05T20:00:00-04:00",
+      "organizer": "Jules",
+      "name": "{Feed the Agents} Dinner with Zerion and Privy",
+      "address": "Joe's Stone Crab, 211 South Pointe Dr, Miami, FL 33131, USA",
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Dinner",
+        "Networking",
+        "Devs/Builders",
+        "DeFi",
+        "ETH"
+      ],
+      "link": "https://luma.com/58dxcx5u",
+      "has_food": true,
+      "has_bar": false,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
       "id": "87545b62bd0dc1d5",
       "date": "2026-05-05",
       "day_of_week": "Tue",
@@ -2566,6 +2618,33 @@
         "ETH"
       ],
       "link": "https://luma.com/consensusmiamisoiree",
+      "has_food": true,
+      "has_bar": true,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
+      "id": "3cdff92bfd356c01",
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_time": "18:00",
+      "end_time": "20:00",
+      "start_iso": "2026-05-05T18:00:00-04:00",
+      "end_iso": "2026-05-05T20:00:00-04:00",
+      "organizer": "Harshal Madnani",
+      "name": "Xybit Poolside Happy Hour",
+      "address": "The Plymouth South Beach, 336 21st St, Miami Beach, FL 33139, USA",
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Party",
+        "Wellness",
+        "Networking",
+        "Devs/Builders",
+        "DeFi",
+        "ETH"
+      ],
+      "link": "https://luma.com/1tscqj43",
       "has_food": true,
       "has_bar": true,
       "note": null,
@@ -3330,7 +3409,7 @@
       "organizer": "The Tie Events",
       "name": "InnovateMiami 2026 Presented by The Tie",
       "address": "Miami Beach, FL",
-      "cost": "$53.47",
+      "cost": "53.47",
       "is_free": false,
       "tags": [
         "Panel/Talk",
@@ -4430,6 +4509,33 @@
       "source": "planwtf"
     },
     {
+      "id": "8aafaf644ef00afe",
+      "date": "2026-05-06",
+      "day_of_week": "Wed",
+      "start_time": "18:00",
+      "end_time": "21:00",
+      "start_iso": "2026-05-06T18:00:00-04:00",
+      "end_iso": "2026-05-06T21:00:00-04:00",
+      "organizer": "Socure Events",
+      "name": "Socure Speakeasy: Cocktail Hour",
+      "address": null,
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Party",
+        "Bar/Pub",
+        "Networking",
+        "VCs/Angels",
+        "DeFi",
+        "ETH"
+      ],
+      "link": "https://luma.com/j39nq6za",
+      "has_food": true,
+      "has_bar": true,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
       "id": "340d4660e0839e17",
       "date": "2026-05-06",
       "day_of_week": "Wed",
@@ -4971,6 +5077,31 @@
         "DeFi"
       ],
       "link": "https://luma.com/dwkxzdk7",
+      "has_food": false,
+      "has_bar": false,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
+      "id": "624a7b5ba12497fd",
+      "date": "2026-05-07",
+      "day_of_week": "Thu",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "start_iso": "2026-05-07T08:00:00-04:00",
+      "end_iso": "2026-05-07T09:00:00-04:00",
+      "organizer": "CoinEasy",
+      "name": "🇺🇸 EASYCON Miami: GM Reps 💪",
+      "address": "Muscle Beach South Beach, 873 Ocean Dr, Miami Beach, FL 33139, USA",
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Wellness",
+        "Networking",
+        "Devs/Builders",
+        "ETH"
+      ],
+      "link": "https://luma.com/EasyconMiami",
       "has_food": false,
       "has_bar": false,
       "note": null,
