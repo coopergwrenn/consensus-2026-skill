@@ -222,9 +222,24 @@ Save their answers to `MEMORY.md`. Reference them for every recommendation there
 
 InstaClaw runs an intent-matching engine that pairs your user with other Consensus attendees based on what each agent has learned about its user. It's the platform's central differentiator: matches are judged by the user's *own agent* with *their MEMORY.md as context*, not by a generic embedding scorer.
 
-Three things you need to handle: the **consent ask** (one-time), **showing matches** when asked, and **knowing what the user already saw** (Telegram notifications fire automatically).
+Four things you need to handle: the **skill state precondition** (always check first), the **consent ask** (one-time, only when skill is on), **showing matches** when asked, and **organic activation** (when skill is OFF but user mentions strong Consensus signals).
 
-### 1. The consent ask — fire ONCE after first matchpool_profile
+### 0. Precondition — check the skill state FIRST
+
+The matching engine is a toggleable skill (Skills page → Live Events → Consensus 2026). Default OFF for everyone except `/consensus` signups and `edge_city` partner VMs. Before any flow below, check the state:
+
+```bash
+python3 ~/.openclaw/scripts/consensus_match_consent.py
+```
+
+Returns JSON including `skill_enabled` (boolean) and `skill_slug`. Branch on `skill_enabled`:
+
+- **`skill_enabled: true`** → proceed to §1 (consent ask), §2 (surface matches), §3 (cold-start handling). Normal flows below.
+- **`skill_enabled: false`** → DO NOT proactively ask consent. DO NOT try to surface matches. DO NOT mention the matching engine in agent-initiated turns. The user has not opted into Consensus matching; treat the matching engine as if it does not exist for them. The ONE exception is §4 (organic activation) — when the user themselves brings up strong Consensus signals.
+
+The matching pipeline (cron, every 30 min) and intent-sync cron (every 15 min) both honor the same gate server-side. When the skill is off, no `matchpool_profile` is created, no Telegram notifications fire, no Haiku/Sonnet calls happen. Your job is to NOT bring it up unsolicited.
+
+### 1. The consent ask — fire ONCE after first matchpool_profile (skill must be ON)
 
 When `consensus_intent_sync.py` (cron, every 15 min) creates the user's first `matchpool_profile`, the consent_tier defaults to `hidden` — they appear in nobody's matches. You need to ask once whether they want to opt in.
 
@@ -234,7 +249,7 @@ When `consensus_intent_sync.py` (cron, every 15 min) creates the user's first `m
 python3 ~/.openclaw/scripts/consensus_match_consent.py
 ```
 
-Returns JSON: `{"ok": true, "consent_tier": "hidden", "profile_version": 1, "has_profile": true}`. The condition to ask: `has_profile == true` AND `consent_tier == "hidden"` AND you have NOT asked before in this user's history (check MEMORY.md / session log for prior asks).
+Returns JSON: `{"ok": true, "consent_tier": "hidden", "profile_version": 1, "has_profile": true, "skill_enabled": true, "skill_slug": "consensus-2026"}`. The condition to ask: `skill_enabled == true` AND `has_profile == true` AND `consent_tier == "hidden"` AND you have NOT asked before in this user's history (check MEMORY.md / session log for prior asks).
 
 **Ask exactly once. Verbatim template (Telegram-friendly, no markdown that breaks parsing):**
 
@@ -308,7 +323,69 @@ When `memory_bytes < 2000` (thin MEMORY.md), the pipeline runs Layer 2 only and 
 
 If the user asks why their matches aren't sharper, tell them honestly: *"I don't have enough memory of you yet to do the deep agent-with-context judgment — right now these are profile-fit only. As we talk more, the matches sharpen."*
 
-### 4. Failure modes
+### 4. Organic activation — when the skill is OFF and user surfaces strong intent
+
+When `skill_enabled: false` AND the user mentions one of the **strong** Consensus signals listed below in conversation, offer ONCE to enable the skill. Strong signals only — false positives (asking about Consensus matching when the user wasn't asking about it) are worse than missing an attendee. If in doubt, don't ask.
+
+**Strong signals** (any single one of these triggers the offer):
+
+- The phrase **"Consensus 2026"** appears in the user's message (case-insensitive)
+- The phrase **"consensus miami"** appears (case-insensitive)
+- The user asks about Consensus **sessions, speakers, side events, or agenda by name** — e.g., "what time is Saylor's keynote", "what side events are on Tuesday", "is Adam Back speaking this week", "any zk talks on Wednesday"
+- **Direct attendance statement** — "I'm going to Consensus", "we're at Consensus this week", "see you at Consensus", "I'll be in Miami for Consensus"
+- They **ask about matching directly** — "who should I meet at Consensus", "find me people at Consensus", "any Consensus matches yet"
+
+**Weak signals — DO NOT trigger the offer** (these are too ambiguous):
+
+- The bare word **"conference"** without "Consensus"
+- The bare word **"Miami"** alone (a city; user might live there or visit unrelated)
+- Generic crypto/AI conversation that doesn't name the event
+- Mentions of the protocol concept — "Raft consensus", "consensus mechanism", "team consensus on the design"
+- Mentions of *other* conferences (Bitcoin 2026, Token2049, Devcon) — those are separate skills with separate organic-activation flows when they ship
+
+**The offer (one-time, verbatim):**
+
+When a strong signal appears AND `skill_enabled` is false AND you have NOT already asked (check USER_FACTS for prior offer/decline), say:
+
+> I can help with that — want me to turn on Consensus matching? It runs in the background and finds 1-3 people at Consensus worth meeting based on what I know about you. You can also toggle it from your Skills page (Live Events category).
+
+**If the user says yes** (any affirmative — "yes", "sure", "do it", "go ahead", "turn it on", "ok"):
+
+```bash
+python3 ~/.openclaw/scripts/consensus_match_skill_toggle.py --enable
+```
+
+The helper exits 0 on success and prints `{"ok": true, "slug": "consensus-2026", "enabled": true, "previous_enabled": false, "changed": true}`. Confirm to the user:
+
+> Done. Matching is on. Intent extraction runs every 15 min, matches every 30 min — first ones land within the next 30 minutes. I'll ping you when something's worth your time.
+
+Then write a USER_FACTS line: *"enabled consensus-2026 matching skill on `<date>` after organic offer"*. Do NOT proactively ask the consent question in the same turn — let the next session handle that once `matchpool_profile` exists. (The skill being on doesn't immediately create a profile; the 15-min `consensus_intent_sync.py` cron does that on its next tick.)
+
+**If the user says no** (any negative — "no", "not now", "skip", "later", "not interested"):
+
+> Got it, leaving it off. If you change your mind, ask any time or toggle it from your Skills page.
+
+Write a USER_FACTS line: *"declined consensus-2026 matching offer on `<date>`"*. Do NOT re-ask, even if more strong signals appear later in the same session — respect the decline.
+
+**If the user ignores the offer** (changes subject, asks something unrelated):
+
+Treat as implicit "no". Write the same USER_FACTS line as above. Do NOT re-ask.
+
+**Re-asking discipline:**
+
+- After an explicit yes → never re-ask (skill is on; the §1 consent flow now applies).
+- After an explicit no → never re-ask. Ever. The user expressed a preference; respect it. They can manually enable from Skills page → Live Events any time.
+- After ignored → never re-ask in the same session. In a new session you may re-evaluate, but err toward "they already saw it once, not re-offering."
+
+**Edge cases:**
+
+- **Strong signal AFTER they already declined.** Answer their Consensus question normally (you have the data files in this skill — sessions/speakers/etc. doesn't require matching to be on). Do NOT re-offer matching.
+- **Multiple strong signals in one message.** One offer, not multiple.
+- **Strong signal in a non-conversational context** (e.g., they paste a long article or screenshot mentioning Consensus). Use judgment — usually don't fire unless the user is asking *about* Consensus, not just sharing news that mentions it.
+- **The skill is already ON when a strong signal appears.** Skip the offer entirely; proceed to §1/§2 as normal (consent ask if no profile + hidden tier; surface matches if asked).
+- **Helper script returns non-zero exit.** Apologize briefly: *"Couldn't enable that just now — try toggling it from your Skills page (Live Events → Consensus 2026)."* Don't retry the helper repeatedly.
+
+### 5. Failure modes
 
 - **Gateway flake** (gateway returns empty content): pipeline aborts on `>25%` Layer 3 fallback rate, keeps last-good `cached_top3`. State shows `abort_fallback_*`. Next cycle retries. Tell user: "matching system briefly degraded, your last-good matches still up at /consensus/my-matches; new ones in 30 min."
 - **Profile extraction failed** (consensus_intent_extract.py returned bad JSON): `last_outcome` would be `no_profile`. Force re-extract:
@@ -318,7 +395,7 @@ If the user asks why their matches aren't sharper, tell them honestly: *"I don't
 - **Re-asking after consent change**: if they want to switch tiers later, just call the helper with the new `--set <tier>`. Always confirm.
 - **Hidden by default is intentional.** Don't auto-opt-in or pressure. The architectural commitment is opt-in via Telegram question, not opt-out.
 
-### 5. Voice rule (important)
+### 6. Voice rule (important)
 
 When you talk about a match, the deliberation rationale is already in your voice (first-person about your user — "you mentioned X", "you've been working on Y"). Don't re-paraphrase or genericize it. Pass it through verbatim. The whole point of agent-with-memory deliberation is that it sounds like *you* talking to *your user*, not like a matchmaking spreadsheet.
 
