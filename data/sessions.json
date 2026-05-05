@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-05T16:55:29.921Z",
+    "baked_at": "2026-05-05T18:47:39.116Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -244,7 +244,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-tom-farley-257",
       "active": true,
-      "mdate": "2026-05-04T23:21:33-04:00"
+      "mdate": "2026-05-05T12:57:57-04:00"
     },
     {
       "id": "11F13C0532BCA0C7AE260263DE4AB8DB",
@@ -273,7 +273,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-yoshi-yokokawa-225",
       "active": true,
-      "mdate": "2026-05-04T23:25:58-04:00"
+      "mdate": "2026-05-05T12:57:02-04:00"
     },
     {
       "id": "11F118CEB4E12AB398D30263DE4AB8DB",
@@ -464,7 +464,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-steven-meiner-253",
       "active": true,
-      "mdate": "2026-05-04T23:20:10-04:00"
+      "mdate": "2026-05-05T12:59:04-04:00"
     },
     {
       "id": "11F13744DCF5AE74AE260263DE4AB8DB",
@@ -573,7 +573,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-brad-garlinghouse-334",
       "active": true,
-      "mdate": "2026-04-30T16:12:27-04:00"
+      "mdate": "2026-05-05T13:00:01-04:00"
     },
     {
       "id": "11F118D05AA4F52998D30263DE4AB8DB",
@@ -1025,7 +1025,7 @@
       ],
       "url": "/agenda/event/-fireside-brian-klein-318",
       "active": true,
-      "mdate": "2026-04-30T16:09:32-04:00"
+      "mdate": "2026-05-05T13:41:48-04:00"
     },
     {
       "id": "11F11BCC1E0AEF8298D30263DE4AB8DB",
@@ -1324,7 +1324,7 @@
       ],
       "url": "/agenda/event/-meet-the-staffers-what-you-need-to-know-before-the-midterms-18",
       "active": true,
-      "mdate": "2026-05-04T22:32:18-04:00"
+      "mdate": "2026-05-05T13:49:29-04:00"
     },
     {
       "id": "11F11EE9EF98727498D30263DE4AB8DB",
@@ -1484,7 +1484,7 @@
       ],
       "url": "/agenda/event/-the-future-of-privacy-in-blockchain-139",
       "active": true,
-      "mdate": "2026-05-01T06:34:25-04:00"
+      "mdate": "2026-05-05T13:42:30-04:00"
     },
     {
       "id": "11F13797B5E9A489AE260263DE4AB8DB",
@@ -1768,7 +1768,7 @@
       ],
       "url": "/agenda/event/-fireside-cloudflare-4",
       "active": true,
-      "mdate": "2026-04-30T14:23:22-04:00"
+      "mdate": "2026-05-05T13:15:09-04:00"
     },
     {
       "id": "11F11EEB2A2DC54298D30263DE4AB8DB",
@@ -1827,7 +1827,7 @@
       ],
       "url": "/agenda/event/-the-rwa-boom-tokenized-assets-institutional-surge-133",
       "active": true,
-      "mdate": "2026-05-02T13:26:32-04:00"
+      "mdate": "2026-05-05T14:25:39-04:00"
     },
     {
       "id": "11F1483208A699FEAE260263DE4AB8DB",
@@ -1897,7 +1897,7 @@
       ],
       "url": "/agenda/event/-anchorage-sponsored-session-147",
       "active": true,
-      "mdate": "2026-05-04T20:41:29-04:00"
+      "mdate": "2026-05-05T13:36:34-04:00"
     },
     {
       "id": "11F1172A6C20A23098D30263DE4AB8DB",
@@ -1936,7 +1936,7 @@
       ],
       "url": "/agenda/event/-fireside-solana-6",
       "active": true,
-      "mdate": "2026-04-30T14:23:55-04:00"
+      "mdate": "2026-05-05T14:19:17-04:00"
     },
     {
       "id": "11F123A2FA8C787098D30263DE4AB8DB",
@@ -2008,7 +2008,7 @@
       ],
       "url": "/agenda/event/-a-bullish-era-the-next-evolution-of-capital-markets-is-here-304",
       "active": true,
-      "mdate": "2026-05-05T06:21:37-04:00"
+      "mdate": "2026-05-05T14:17:00-04:00"
     },
     {
       "id": "11F11C0DAD24ADE098D30263DE4AB8DB",
@@ -2578,7 +2578,7 @@
       ],
       "url": "/agenda/event/-fireside-morgan-stanley-160",
       "active": true,
-      "mdate": "2026-04-30T14:58:52-04:00"
+      "mdate": "2026-05-05T14:40:05-04:00"
     },
     {
       "id": "11F12EB51688E924AE260263DE4AB8DB",
@@ -2802,7 +2802,7 @@
       ],
       "url": "/agenda/event/-keynote-animoca-brands-161",
       "active": true,
-      "mdate": "2026-04-30T14:58:41-04:00"
+      "mdate": "2026-05-05T14:31:00-04:00"
     },
     {
       "id": "11F0FA671BD797CEA4A512AA38458C0B",
@@ -10594,7 +10594,7 @@
       ],
       "url": "/agenda/event/-how-were-accelerating-the-internet-of-value-389",
       "active": true,
-      "mdate": "2026-05-03T22:08:01-04:00"
+      "mdate": "2026-05-05T13:48:58-04:00"
     },
     {
       "id": "11F11BE2A9C0310E98D30263DE4AB8DB",
