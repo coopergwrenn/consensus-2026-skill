@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-05T22:13:02.793Z",
+    "baked_at": "2026-05-05T23:12:15.768Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -2540,7 +2540,7 @@
       ],
       "url": "/agenda/event/-the-programmable-balance-sheet-how-dats-are-automating-the-global-treasury-130",
       "active": true,
-      "mdate": "2026-05-01T06:43:47-04:00"
+      "mdate": "2026-05-05T18:30:03-04:00"
     },
     {
       "id": "11F1285B58A0A43E98D30263DE4AB8DB",
@@ -3016,7 +3016,7 @@
       ],
       "url": "/agenda/event/-digital-asset-derivatives-building-ecosystems-and-establishing-opportunities-193",
       "active": true,
-      "mdate": "2026-05-01T06:47:02-04:00"
+      "mdate": "2026-05-05T18:30:56-04:00"
     },
     {
       "id": "11F13CDE3B954395AE260263DE4AB8DB",
@@ -3206,7 +3206,7 @@
       ],
       "url": "/agenda/event/-fireside-galaxy-199",
       "active": true,
-      "mdate": "2026-05-01T06:47:32-04:00"
+      "mdate": "2026-05-05T18:38:44-04:00"
     },
     {
       "id": "11F135C3B56B6D70AE260263DE4AB8DB",
@@ -3428,7 +3428,7 @@
       ],
       "url": "/agenda/event/-permissionless-perps-the-future-hyperliquid-157",
       "active": true,
-      "mdate": "2026-05-01T06:45:27-04:00"
+      "mdate": "2026-05-05T18:56:27-04:00"
     },
     {
       "id": "11F126FA6816954998D30263DE4AB8DB",
@@ -3773,7 +3773,7 @@
       ],
       "url": "/agenda/event/-fireside-ava-labs-158",
       "active": true,
-      "mdate": "2026-05-01T06:45:38-04:00"
+      "mdate": "2026-05-05T18:49:16-04:00"
     },
     {
       "id": "11F118CD7A2D108F98D30263DE4AB8DB",
@@ -3853,7 +3853,7 @@
       ],
       "url": "/agenda/event/-fireside-bonk-149",
       "active": true,
-      "mdate": "2026-05-01T06:44:15-04:00"
+      "mdate": "2026-05-05T19:00:29-04:00"
     },
     {
       "id": "11F14579F061F321AE260263DE4AB8DB",
