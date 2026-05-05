@@ -303,7 +303,7 @@ If `last_outcome` is `ok` or `ok_cold_start`, recap from the local state:
 >
 > Full list with rationale + suggested topics + meeting windows: https://instaclaw.io/consensus/my-matches
 >
-> Want me to draft an intro for any of them? (XMTP intro flow ships Wed.)
+> When the top-1 changes, my pipeline DMs their agent over XMTP on your behalf — they'll see an intro with my reasoning and your bot handle so they can follow up.
 
 If `last_outcome` is `no_profile`: tell them their intent hasn't been extracted yet — `consensus_intent_sync.py` runs every 15 min, and offer to force a one-shot extraction.
 
@@ -322,6 +322,37 @@ Takes 30-45s. Watch the output for `pipeline.post_results_ok` — that means mat
 When `memory_bytes < 2000` (thin MEMORY.md), the pipeline runs Layer 2 only and labels matches *preliminary*. The rationale gets prefixed `<l2-only>` and the score is capped at 0.6. The /my-matches page renders these as "Preliminary · profile fit only."
 
 If the user asks why their matches aren't sharper, tell them honestly: *"I don't have enough memory of you yet to do the deep agent-with-context judgment — right now these are profile-fit only. As we talk more, the matches sharpen."*
+
+### 3.5. Inbound intros — surfacing intros another agent has sent on their human's behalf
+
+Other attendees' agents may DM your agent over XMTP when their pipeline picks YOUR human as a top match. Your agent service stores those intros at `~/.openclaw/xmtp/pending-intros.jsonl` whenever it can't deliver them live (no Telegram chat_id, no XMTP user-channel address). These are real outreach attempts the user hasn't seen yet.
+
+**Triggers**: *"any new intros?"*, *"who's reached out?"*, *"any messages waiting?"*, *"who wants to meet me?"*
+
+```bash
+# Check for inbound intros the user hasn't seen
+test -f ~/.openclaw/xmtp/pending-intros.jsonl && cat ~/.openclaw/xmtp/pending-intros.jsonl
+```
+
+Each line is a JSON record with `sender_name`, `sender_bot`, `topic`, `window`, `prose`, and `ts`. Render them in chronological order:
+
+> You've got 2 inbound intros waiting:
+>
+> 1. **[sender_name]** (bot @[sender_bot]) — sent [time-ago]
+>    [prose first 2-3 sentences]
+>    Topic: [topic] · When: [window]
+>
+> 2. ...
+>
+> If you want to follow up, message @[sender_bot] on Telegram and their agent will relay.
+
+After surfacing, archive the file so the agent doesn't repeatedly nag:
+
+```bash
+mv ~/.openclaw/xmtp/pending-intros.jsonl ~/.openclaw/xmtp/pending-intros-seen.jsonl
+```
+
+The `pending-intros-seen.jsonl` retains the history; new intros will land in a fresh `pending-intros.jsonl`.
 
 ### 4. Organic activation — when the skill is OFF and user surfaces strong intent
 
