@@ -1,10 +1,10 @@
 {
   "meta": {
-    "baked_at": "2026-05-05T09:20:52.465Z",
+    "baked_at": "2026-05-05T11:41:56.091Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
-    "record_count": 462
+    "record_count": 464
   },
   "records": [
     {
@@ -348,8 +348,8 @@
           "venue_slug": "hackathon"
         },
         {
-          "id": "11F14757C6685F71AE260263DE4AB8DB",
-          "title": "CoinDesk PitchFest Agentic Side Quest",
+          "id": "11F14268B608CA9EAE260263DE4AB8DB",
+          "title": "PitchFest Side Quest: Agentic Commerce Finals",
           "date": "2026-05-06",
           "start_iso": "2026-05-06T16:00:00-04:00",
           "venue_slug": "hackathon"
@@ -477,8 +477,8 @@
           "venue_slug": "hackathon"
         },
         {
-          "id": "11F14757C6685F71AE260263DE4AB8DB",
-          "title": "CoinDesk PitchFest Agentic Side Quest",
+          "id": "11F14268B608CA9EAE260263DE4AB8DB",
+          "title": "PitchFest Side Quest: Agentic Commerce Finals",
           "date": "2026-05-06",
           "start_iso": "2026-05-06T16:00:00-04:00",
           "venue_slug": "hackathon"
@@ -503,6 +503,49 @@
           "date": "2026-05-07",
           "start_iso": "2026-05-07T16:15:00-04:00",
           "venue_slug": "hackathon"
+        }
+      ]
+    },
+    {
+      "name": "Tom Farley",
+      "company": "Bullish",
+      "title": "CEO",
+      "session_count": 5,
+      "sessions": [
+        {
+          "id": "11F13C0A29A64291AE260263DE4AB8DB",
+          "title": "CoinDesk Live: Tom Farley",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T09:45:00-04:00",
+          "venue_slug": "coindesk-live-studio"
+        },
+        {
+          "id": "11F1172ECB0D26C198D30263DE4AB8DB",
+          "title": "Fireside: Ripple",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T11:05:00-04:00",
+          "venue_slug": "mainstage"
+        },
+        {
+          "id": "11F13E65834211AFAE260263DE4AB8DB",
+          "title": "A Bullish Era: The Next Evolution of Capital Markets Is Here",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T12:55:00-04:00",
+          "venue_slug": "mainstage"
+        },
+        {
+          "id": "11F13DB08414E24FAE260263DE4AB8DB",
+          "title": "LOC'ed In: How Anvil and Bullish are Forging the Future on Payment Using Onchain Letters of Credit",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T13:30:00-04:00",
+          "venue_slug": "mainstage"
+        },
+        {
+          "id": "11F11731C501DF5098D30263DE4AB8DB",
+          "title": "Fireside: Alex Rodriguez",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T13:40:00-04:00",
+          "venue_slug": "mainstage"
         }
       ]
     },
@@ -683,42 +726,6 @@
           "date": "2026-05-06",
           "start_iso": "2026-05-06T16:10:00-04:00",
           "venue_slug": "convergence-stage"
-        }
-      ]
-    },
-    {
-      "name": "Tom Farley",
-      "company": "Bullish",
-      "title": "CEO",
-      "session_count": 4,
-      "sessions": [
-        {
-          "id": "11F13C0A29A64291AE260263DE4AB8DB",
-          "title": "CoinDesk Live: Tom Farley",
-          "date": "2026-05-05",
-          "start_iso": "2026-05-05T09:45:00-04:00",
-          "venue_slug": "coindesk-live-studio"
-        },
-        {
-          "id": "11F1172ECB0D26C198D30263DE4AB8DB",
-          "title": "Fireside: Ripple",
-          "date": "2026-05-05",
-          "start_iso": "2026-05-05T11:05:00-04:00",
-          "venue_slug": "mainstage"
-        },
-        {
-          "id": "11F13DB08414E24FAE260263DE4AB8DB",
-          "title": "LOC'ed In: How Anvil and Bullish are Forging the Future on Payment Using Onchain Letters of Credit",
-          "date": "2026-05-06",
-          "start_iso": "2026-05-06T13:30:00-04:00",
-          "venue_slug": "mainstage"
-        },
-        {
-          "id": "11F11731C501DF5098D30263DE4AB8DB",
-          "title": "Fireside: Alex Rodriguez",
-          "date": "2026-05-06",
-          "start_iso": "2026-05-06T13:40:00-04:00",
-          "venue_slug": "mainstage"
         }
       ]
     },
@@ -4704,6 +4711,21 @@
       ]
     },
     {
+      "name": "Dan Kramer",
+      "company": "Equiniti",
+      "title": "CEO",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F13E65834211AFAE260263DE4AB8DB",
+          "title": "A Bullish Era: The Next Evolution of Capital Markets Is Here",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T12:55:00-04:00",
+          "venue_slug": "mainstage"
+        }
+      ]
+    },
+    {
       "name": "Dan Wong",
       "company": "Binance.US",
       "title": "Chief Legal Officer",
@@ -5480,6 +5502,21 @@
           "date": "2026-05-05",
           "start_iso": "2026-05-05T11:15:00-04:00",
           "venue_slug": "workshop-stage"
+        }
+      ]
+    },
+    {
+      "name": "Janis Aguilar",
+      "company": "CV VC",
+      "title": "Head of Acceleration Investments",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F14268B608CA9EAE260263DE4AB8DB",
+          "title": "PitchFest Side Quest: Agentic Commerce Finals",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T16:00:00-04:00",
+          "venue_slug": "hackathon"
         }
       ]
     },

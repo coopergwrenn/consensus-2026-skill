@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-05T09:20:52.465Z",
+    "baked_at": "2026-05-05T11:41:56.091Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -1974,6 +1974,41 @@
       "url": "/agenda/event/-dfns-x-ibm-report-the-future-is-onchain-144",
       "active": true,
       "mdate": "2026-04-30T16:06:25-04:00"
+    },
+    {
+      "id": "11F13E65834211AFAE260263DE4AB8DB",
+      "title": "A Bullish Era: The Next Evolution of Capital Markets Is Here",
+      "description_html": null,
+      "date": "2026-05-05",
+      "day_of_week": "Tue",
+      "start_iso": "2026-05-05T12:55:00-04:00",
+      "end_iso": "2026-05-05T13:10:00-04:00",
+      "start_time": "12:55",
+      "end_time": "13:10",
+      "duration_minutes": 15,
+      "venue_slug": "mainstage",
+      "venue_name": "Anchorage Digital Mainstage",
+      "venue_full_name": "MBCC: Anchorage Digital Mainstage",
+      "venue_color": "#7092be",
+      "tracks": [],
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Dan Kramer",
+          "company": "Equiniti",
+          "title": "CEO",
+          "role": "Speaker"
+        },
+        {
+          "name": "Tom Farley",
+          "company": "Bullish",
+          "title": "CEO",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-a-bullish-era-the-next-evolution-of-capital-markets-is-here-304",
+      "active": true,
+      "mdate": "2026-05-05T06:21:37-04:00"
     },
     {
       "id": "11F11C0DAD24ADE098D30263DE4AB8DB",
@@ -8299,41 +8334,6 @@
       "mdate": "2026-05-04T23:22:02-04:00"
     },
     {
-      "id": "11F14757C6685F71AE260263DE4AB8DB",
-      "title": "CoinDesk PitchFest Agentic Side Quest",
-      "description_html": null,
-      "date": "2026-05-06",
-      "day_of_week": "Wed",
-      "start_iso": "2026-05-06T16:00:00-04:00",
-      "end_iso": "2026-05-06T17:00:00-04:00",
-      "start_time": "16:00",
-      "end_time": "17:00",
-      "duration_minutes": 60,
-      "venue_slug": "hackathon",
-      "venue_name": "Hackathon",
-      "venue_full_name": "MBCC: Hackathon",
-      "venue_color": "#ffaec9",
-      "tracks": [],
-      "tags": [],
-      "speakers": [
-        {
-          "name": "Dom Kwok",
-          "company": "EasyA",
-          "title": "Co-Founder",
-          "role": "Speaker"
-        },
-        {
-          "name": "Phil Kwok",
-          "company": "EasyA",
-          "title": "Co-Founder",
-          "role": "Speaker"
-        }
-      ],
-      "url": "/agenda/event/-coindesk-pitchfest-agentic-side-quest-398",
-      "active": true,
-      "mdate": "2026-05-03T21:23:08-04:00"
-    },
-    {
       "id": "11F14268B608CA9EAE260263DE4AB8DB",
       "title": "PitchFest Side Quest: Agentic Commerce Finals",
       "description_html": null,
@@ -8352,6 +8352,12 @@
       "tags": [],
       "speakers": [
         {
+          "name": "Janis Aguilar",
+          "company": "CV VC",
+          "title": "Head of Acceleration Investments",
+          "role": "Speaker"
+        },
+        {
           "name": "Leah Callon Butler",
           "company": "Emfarsis",
           "title": "Director",
@@ -8362,11 +8368,23 @@
           "company": "Delphi Ventures",
           "title": "Founding Partner",
           "role": "Speaker"
+        },
+        {
+          "name": "Dom Kwok",
+          "company": "EasyA",
+          "title": "Co-Founder",
+          "role": "Speaker"
+        },
+        {
+          "name": "Phil Kwok",
+          "company": "EasyA",
+          "title": "Co-Founder",
+          "role": "Speaker"
         }
       ],
       "url": "/agenda/event/-pitchfest-agentic-commerce-side-quest-310",
       "active": true,
-      "mdate": "2026-04-27T14:52:52-04:00"
+      "mdate": "2026-05-05T07:41:18-04:00"
     },
     {
       "id": "11F1335CD6409A06AE260263DE4AB8DB",
