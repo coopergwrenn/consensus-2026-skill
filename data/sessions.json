@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-05T18:47:39.116Z",
+    "baked_at": "2026-05-05T20:17:59.299Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -705,7 +705,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-erik-reppel-342",
       "active": true,
-      "mdate": "2026-04-28T21:21:01-04:00"
+      "mdate": "2026-05-05T15:06:45-04:00"
     },
     {
       "id": "11F14369CEB1F9E9AE260263DE4AB8DB",
@@ -734,7 +734,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-jesse-pollak-343",
       "active": true,
-      "mdate": "2026-04-28T21:22:05-04:00"
+      "mdate": "2026-05-05T15:14:02-04:00"
     },
     {
       "id": "11F14367773C2D88AE260263DE4AB8DB",
@@ -892,7 +892,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-stefano-bury-327",
       "active": true,
-      "mdate": "2026-04-28T21:04:24-04:00"
+      "mdate": "2026-05-05T15:09:18-04:00"
     },
     {
       "id": "11F11747EF0C51BB98D30263DE4AB8DB",
@@ -1237,7 +1237,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-joseph-lubin-250",
       "active": true,
-      "mdate": "2026-05-04T23:19:46-04:00"
+      "mdate": "2026-05-05T15:15:21-04:00"
     },
     {
       "id": "11F12A2ADD462B7E98D30263DE4AB8DB",
@@ -1432,7 +1432,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-adam-back-330",
       "active": true,
-      "mdate": "2026-04-28T21:07:39-04:00"
+      "mdate": "2026-05-05T15:09:46-04:00"
     },
     {
       "id": "11F1215E78F32EA198D30263DE4AB8DB",
@@ -1557,7 +1557,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-bob-diamond-275",
       "active": true,
-      "mdate": "2026-04-19T12:30:27-04:00"
+      "mdate": "2026-05-05T15:11:40-04:00"
     },
     {
       "id": "11F13C08E0F1EAB6AE260263DE4AB8DB",
@@ -1586,7 +1586,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-johann-kerbrat-249",
       "active": true,
-      "mdate": "2026-04-30T16:14:01-04:00"
+      "mdate": "2026-05-05T15:10:50-04:00"
     },
     {
       "id": "11F118C929A4971A98D30263DE4AB8DB",
@@ -1856,7 +1856,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-brian-klein-401",
       "active": true,
-      "mdate": "2026-05-04T23:25:23-04:00"
+      "mdate": "2026-05-05T15:13:33-04:00"
     },
     {
       "id": "11F1247368BAF12898D30263DE4AB8DB",
@@ -2258,7 +2258,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-anthony-pompliano-246",
       "active": true,
-      "mdate": "2026-05-04T23:18:08-04:00"
+      "mdate": "2026-05-05T15:16:04-04:00"
     },
     {
       "id": "11F1172FAC17153898D30263DE4AB8DB",
@@ -2339,7 +2339,7 @@
       ],
       "url": "/agenda/event/-trust-by-design-building-on-chain-systems-people-believe-in-280",
       "active": true,
-      "mdate": "2026-05-01T06:37:17-04:00"
+      "mdate": "2026-05-05T15:09:05-04:00"
     },
     {
       "id": "11F13C0557CA189CAE260263DE4AB8DB",
@@ -2669,7 +2669,7 @@
       ],
       "url": "/agenda/event/-from-protocol-to-people-designing-for-adoption-281",
       "active": true,
-      "mdate": "2026-05-01T06:37:27-04:00"
+      "mdate": "2026-05-05T15:41:30-04:00"
     },
     {
       "id": "11F1436B60702AA0AE260263DE4AB8DB",
@@ -2698,7 +2698,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-ahmed-nimale-353",
       "active": true,
-      "mdate": "2026-04-28T21:33:15-04:00"
+      "mdate": "2026-05-05T15:16:42-04:00"
     },
     {
       "id": "11F1436AB03AADB2AE260263DE4AB8DB",
@@ -2907,7 +2907,7 @@
       ],
       "url": "/agenda/event/-fireside-procap-financial-7",
       "active": true,
-      "mdate": "2026-04-30T14:24:43-04:00"
+      "mdate": "2026-05-05T15:17:10-04:00"
     },
     {
       "id": "11F13C0B821A4DEAAE260263DE4AB8DB",
@@ -3164,7 +3164,7 @@
       ],
       "url": "/agenda/event/-fireside-base-11",
       "active": true,
-      "mdate": "2026-04-30T14:27:02-04:00"
+      "mdate": "2026-05-05T15:27:58-04:00"
     },
     {
       "id": "11F1351DC49C1DAAAE260263DE4AB8DB",
@@ -3324,7 +3324,7 @@
       ],
       "url": "/agenda/event/-fireside-tempo-196",
       "active": true,
-      "mdate": "2026-04-30T15:01:01-04:00"
+      "mdate": "2026-05-05T15:54:23-04:00"
     },
     {
       "id": "11F143673C83B88FAE260263DE4AB8DB",
@@ -9514,12 +9514,6 @@
           "role": "Speaker"
         },
         {
-          "name": "Olivia Santarelli",
-          "company": "Gemini",
-          "title": "Head of Marketing",
-          "role": "Speaker"
-        },
-        {
           "name": "Shayon Sengupta",
           "company": "Multicoin Capital",
           "title": "General Partner",
@@ -9528,7 +9522,7 @@
       ],
       "url": "/agenda/event/-the-future-of-onchain-sports-betting-prediction-markets-156",
       "active": true,
-      "mdate": "2026-05-01T06:35:01-04:00"
+      "mdate": "2026-05-05T15:33:30-04:00"
     },
     {
       "id": "11F118CB6B3EC4B598D30263DE4AB8DB",
@@ -11259,8 +11253,8 @@
           "role": "Speaker"
         },
         {
-          "name": "Bo Hines",
-          "company": "Tether USA₮",
+          "name": "Tim Grant",
+          "company": "Deus X Capital",
           "title": "CEO",
           "role": "Speaker"
         },
@@ -11273,7 +11267,7 @@
       ],
       "url": "/agenda/event/-the-new-global-settlement-layer-from-volatility-to-value-70",
       "active": true,
-      "mdate": "2026-04-30T14:54:05-04:00"
+      "mdate": "2026-05-05T15:36:29-04:00"
     },
     {
       "id": "11F135223EB48539AE260263DE4AB8DB",

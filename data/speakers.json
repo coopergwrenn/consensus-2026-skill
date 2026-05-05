@@ -1,10 +1,10 @@
 {
   "meta": {
-    "baked_at": "2026-05-05T18:47:39.116Z",
+    "baked_at": "2026-05-05T20:17:59.299Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
-    "record_count": 464
+    "record_count": 462
   },
   "records": [
     {
@@ -3344,6 +3344,28 @@
       ]
     },
     {
+      "name": "Tim Grant",
+      "company": "Deus X Capital",
+      "title": "CEO",
+      "session_count": 2,
+      "sessions": [
+        {
+          "id": "11F118CD4DDE98C898D30263DE4AB8DB",
+          "title": "Bringing Wall Street Onchain",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T10:00:00-04:00",
+          "venue_slug": "mainstage"
+        },
+        {
+          "id": "11F118CF654E883E98D30263DE4AB8DB",
+          "title": "The Stablecoin Era: The World's Primary Financial Rail",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T14:00:00-04:00",
+          "venue_slug": "mainstage"
+        }
+      ]
+    },
+    {
       "name": "Tim Queenan",
       "company": "Circle",
       "title": "SVP, Marketing",
@@ -4212,21 +4234,6 @@
           "date": "2026-05-05",
           "start_iso": "2026-05-05T11:45:00-04:00",
           "venue_slug": "frontier-stage"
-        }
-      ]
-    },
-    {
-      "name": "Bo Hines",
-      "company": "Tether USA₮",
-      "title": "CEO",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F118CF654E883E98D30263DE4AB8DB",
-          "title": "The Stablecoin Era: The World's Primary Financial Rail",
-          "date": "2026-05-07",
-          "start_iso": "2026-05-07T14:00:00-04:00",
-          "venue_slug": "mainstage"
         }
       ]
     },
@@ -7156,21 +7163,6 @@
       ]
     },
     {
-      "name": "Olivia Santarelli",
-      "company": "Gemini",
-      "title": "Head of Marketing",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F1285590B4189D98D30263DE4AB8DB",
-          "title": "The Future of Onchain Sports Betting & Prediction Markets",
-          "date": "2026-05-07",
-          "start_iso": "2026-05-07T10:45:00-04:00",
-          "venue_slug": "convergence-stage"
-        }
-      ]
-    },
-    {
       "name": "Omar Karim",
       "company": "Adapti",
       "title": "CRO",
@@ -8127,21 +8119,6 @@
           "date": "2026-05-06",
           "start_iso": "2026-05-06T15:00:00-04:00",
           "venue_slug": "frontier-stage"
-        }
-      ]
-    },
-    {
-      "name": "Tim Grant",
-      "company": "Deus X Capital",
-      "title": "CEO",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F118CD4DDE98C898D30263DE4AB8DB",
-          "title": "Bringing Wall Street Onchain",
-          "date": "2026-05-07",
-          "start_iso": "2026-05-07T10:00:00-04:00",
-          "venue_slug": "mainstage"
         }
       ]
     },
