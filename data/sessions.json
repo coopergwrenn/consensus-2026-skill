@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-05T14:25:16.800Z",
+    "baked_at": "2026-05-05T16:55:29.921Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -86,7 +86,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-arthur-hayes-247",
       "active": true,
-      "mdate": "2026-04-28T21:13:02-04:00"
+      "mdate": "2026-05-05T12:55:20-04:00"
     },
     {
       "id": "11F11B0895C361D798D30263DE4AB8DB",
@@ -180,7 +180,7 @@
       ],
       "url": "/agenda/event/-welcome-remarks-2",
       "active": true,
-      "mdate": "2026-04-30T14:23:02-04:00"
+      "mdate": "2026-05-05T10:43:07-04:00"
     },
     {
       "id": "11F126BC1713EA4E98D30263DE4AB8DB",
@@ -215,7 +215,7 @@
       ],
       "url": "/agenda/event/-opening-remarks-148",
       "active": true,
-      "mdate": "2026-04-30T14:57:50-04:00"
+      "mdate": "2026-05-05T10:43:34-04:00"
     },
     {
       "id": "11F13C0A29A64291AE260263DE4AB8DB",
@@ -331,7 +331,7 @@
       ],
       "url": "/agenda/event/-the-trillion-dollar-question-whats-the-framework-for-agentic-paymentsa-67",
       "active": true,
-      "mdate": "2026-05-02T13:26:18-04:00"
+      "mdate": "2026-05-05T11:34:58-04:00"
     },
     {
       "id": "11F118C9079E3AEF98D30263DE4AB8DB",
@@ -413,7 +413,7 @@
       ],
       "url": "/agenda/event/-keynote-arthur-hayes-3",
       "active": true,
-      "mdate": "2026-04-30T14:23:12-04:00"
+      "mdate": "2026-05-05T10:44:55-04:00"
     },
     {
       "id": "11F14368400A9805AE260263DE4AB8DB",
@@ -544,7 +544,7 @@
       ],
       "url": "/agenda/event/-zero-to-one-onchain-building-the-next-category-defining-companies-40",
       "active": true,
-      "mdate": "2026-04-30T14:52:35-04:00"
+      "mdate": "2026-05-05T11:29:53-04:00"
     },
     {
       "id": "11F1436875666975AE260263DE4AB8DB",
@@ -619,7 +619,7 @@
       ],
       "url": "/agenda/event/-b2b-and-cross-border-breakthroughs-71",
       "active": true,
-      "mdate": "2026-05-01T06:32:39-04:00"
+      "mdate": "2026-05-05T11:39:46-04:00"
     },
     {
       "id": "11F1337BFCED8088AE260263DE4AB8DB",
@@ -801,7 +801,7 @@
       ],
       "url": "/agenda/event/-fireside-kyle-samani-167",
       "active": true,
-      "mdate": "2026-04-30T14:59:24-04:00"
+      "mdate": "2026-05-05T12:06:28-04:00"
     },
     {
       "id": "11F1384BB29E4CF8AE260263DE4AB8DB",
@@ -863,7 +863,7 @@
       ],
       "url": "/agenda/event/-fireside-representative-horsford-307",
       "active": true,
-      "mdate": "2026-04-30T16:02:08-04:00"
+      "mdate": "2026-05-05T12:31:50-04:00"
     },
     {
       "id": "11F1436757C48672AE260263DE4AB8DB",
@@ -951,7 +951,7 @@
       ],
       "url": "/agenda/event/-yield-bearing-stablecoins-rwa-collateral-27",
       "active": true,
-      "mdate": "2026-05-01T12:51:57-04:00"
+      "mdate": "2026-05-05T12:08:14-04:00"
     },
     {
       "id": "11F139B10CBCC6B5AE260263DE4AB8DB",
@@ -1064,7 +1064,7 @@
       ],
       "url": "/agenda/event/-fireside-consensys-107",
       "active": true,
-      "mdate": "2026-04-30T14:54:36-04:00"
+      "mdate": "2026-05-05T12:20:15-04:00"
     },
     {
       "id": "11F14756AF62C670AE260263DE4AB8DB",
@@ -1208,7 +1208,7 @@
       ],
       "url": "/agenda/event/-fireside-ripple-13",
       "active": true,
-      "mdate": "2026-04-30T14:27:25-04:00"
+      "mdate": "2026-05-05T12:31:46-04:00"
     },
     {
       "id": "11F13C09048FA12EAE260263DE4AB8DB",
@@ -1268,7 +1268,7 @@
       ],
       "url": "/agenda/event/-limited-stablecoin-track-session-166",
       "active": true,
-      "mdate": "2026-05-01T17:39:26-04:00"
+      "mdate": "2026-05-05T12:20:23-04:00"
     },
     {
       "id": "11F117300F953B2298D30263DE4AB8DB",
@@ -1403,7 +1403,7 @@
       ],
       "url": "/agenda/event/-keynote-mastercard-5",
       "active": true,
-      "mdate": "2026-04-30T14:23:35-04:00"
+      "mdate": "2026-05-05T12:40:09-04:00"
     },
     {
       "id": "11F14367CACE8CD6AE260263DE4AB8DB",
@@ -1528,7 +1528,7 @@
       ],
       "url": "/agenda/event/-the-next-100-million-agents-or-humansa-206",
       "active": true,
-      "mdate": "2026-04-19T13:41:06-04:00"
+      "mdate": "2026-05-05T12:54:37-04:00"
     },
     {
       "id": "11F13C0D0CD674F0AE260263DE4AB8DB",
