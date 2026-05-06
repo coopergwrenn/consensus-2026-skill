@@ -1,10 +1,10 @@
 {
   "meta": {
-    "baked_at": "2026-05-06T16:54:27.708Z",
+    "baked_at": "2026-05-06T18:59:52.087Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
-    "record_count": 463
+    "record_count": 462
   },
   "records": [
     {
@@ -185,6 +185,63 @@
       ]
     },
     {
+      "name": "Sam Ewen",
+      "company": "CoinDesk",
+      "title": "Head of Media Innovation, Multimedia & Social",
+      "session_count": 7,
+      "sessions": [
+        {
+          "id": "11F13797B5E9A489AE260263DE4AB8DB",
+          "title": "The Next 100 Million | Agents or Humans?",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T11:40:00-04:00",
+          "venue_slug": "mainstage"
+        },
+        {
+          "id": "11F123A62AF852FE98D30263DE4AB8DB",
+          "title": "Fireside: Kevin O'Leary",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T10:05:00-04:00",
+          "venue_slug": "mainstage"
+        },
+        {
+          "id": "11F145840280E9E1AE260263DE4AB8DB",
+          "title": "From Bitcoin Mining to AI Infrastructure: How the Industry is Rapidly Evolving into Compute Platforms",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T10:15:00-04:00",
+          "venue_slug": "mainstage"
+        },
+        {
+          "id": "11F12792627E786E98D30263DE4AB8DB",
+          "title": "Fireside: Reid Hoffman",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T11:40:00-04:00",
+          "venue_slug": "mainstage"
+        },
+        {
+          "id": "11F13EB085928999AE260263DE4AB8DB",
+          "title": "Fireside: Raoul Pal",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T16:15:00-04:00",
+          "venue_slug": "mainstage"
+        },
+        {
+          "id": "11F137978DCFF5CBAE260263DE4AB8DB",
+          "title": "From Niche to Normal",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T17:00:00-04:00",
+          "venue_slug": "mainstage"
+        },
+        {
+          "id": "11F12EB4B6A7F754AE260263DE4AB8DB",
+          "title": "Reimagining The Rails. How Creative Entrepreneurs are Trying to Uplevel Traditonal Businesses with Blockchain",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T13:45:00-04:00",
+          "venue_slug": "spotlight-stage"
+        }
+      ]
+    },
+    {
       "name": "Aoyon Ashraf",
       "company": "CoinDesk",
       "title": "Global Head of News",
@@ -281,56 +338,6 @@
           "date": "2026-05-07",
           "start_iso": "2026-05-07T15:40:00-04:00",
           "venue_slug": "mainstage"
-        }
-      ]
-    },
-    {
-      "name": "Sam Ewen",
-      "company": "CoinDesk",
-      "title": "Head of Media Innovation, Multimedia & Social",
-      "session_count": 6,
-      "sessions": [
-        {
-          "id": "11F13797B5E9A489AE260263DE4AB8DB",
-          "title": "The Next 100 Million | Agents or Humans?",
-          "date": "2026-05-05",
-          "start_iso": "2026-05-05T11:40:00-04:00",
-          "venue_slug": "mainstage"
-        },
-        {
-          "id": "11F123A62AF852FE98D30263DE4AB8DB",
-          "title": "Fireside: Kevin O'Leary",
-          "date": "2026-05-06",
-          "start_iso": "2026-05-06T10:05:00-04:00",
-          "venue_slug": "mainstage"
-        },
-        {
-          "id": "11F145840280E9E1AE260263DE4AB8DB",
-          "title": "From Bitcoin Mining to AI Infrastructure: How the Industry is Rapidly Evolving into Compute Platforms",
-          "date": "2026-05-06",
-          "start_iso": "2026-05-06T10:15:00-04:00",
-          "venue_slug": "mainstage"
-        },
-        {
-          "id": "11F12792627E786E98D30263DE4AB8DB",
-          "title": "Fireside: Reid Hoffman",
-          "date": "2026-05-06",
-          "start_iso": "2026-05-06T11:40:00-04:00",
-          "venue_slug": "mainstage"
-        },
-        {
-          "id": "11F13EB085928999AE260263DE4AB8DB",
-          "title": "Fireside: Raoul Pal",
-          "date": "2026-05-06",
-          "start_iso": "2026-05-06T16:15:00-04:00",
-          "venue_slug": "mainstage"
-        },
-        {
-          "id": "11F12EB4B6A7F754AE260263DE4AB8DB",
-          "title": "Reimagining The Rails. How Creative Entrepreneurs are Trying to Uplevel Traditonal Businesses with Blockchain",
-          "date": "2026-05-07",
-          "start_iso": "2026-05-07T13:45:00-04:00",
-          "venue_slug": "spotlight-stage"
         }
       ]
     },
@@ -4992,21 +4999,6 @@
           "date": "2026-05-05",
           "start_iso": "2026-05-05T12:05:00-04:00",
           "venue_slug": "convergence-stage"
-        }
-      ]
-    },
-    {
-      "name": "Farokh Sarmad",
-      "company": "DASTAN",
-      "title": "Co-Founder & President",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F137978DCFF5CBAE260263DE4AB8DB",
-          "title": "From Niche to Normal",
-          "date": "2026-05-06",
-          "start_iso": "2026-05-06T17:00:00-04:00",
-          "venue_slug": "mainstage"
         }
       ]
     },
