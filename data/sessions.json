@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-06T18:59:52.087Z",
+    "baked_at": "2026-05-06T20:46:54.307Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -4496,7 +4496,7 @@
       "speakers": [],
       "url": "/agenda/event/-coindesk-live-15",
       "active": true,
-      "mdate": "2026-04-22T13:14:10-04:00"
+      "mdate": "2026-05-06T15:55:51-04:00"
     },
     {
       "id": "11F11B0A88CDB35F98D30263DE4AB8DB",
@@ -4634,7 +4634,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-adam-reeds-234",
       "active": true,
-      "mdate": "2026-04-19T11:43:21-04:00"
+      "mdate": "2026-05-06T15:56:13-04:00"
     },
     {
       "id": "11F1436CDCB13627AE260263DE4AB8DB",
@@ -4784,7 +4784,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-katherine-dowling-235",
       "active": true,
-      "mdate": "2026-04-30T16:11:35-04:00"
+      "mdate": "2026-05-06T15:56:43-04:00"
     },
     {
       "id": "11F13C06B94380C2AE260263DE4AB8DB",
@@ -4813,7 +4813,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-matt-cole-236",
       "active": true,
-      "mdate": "2026-04-30T16:12:00-04:00"
+      "mdate": "2026-05-06T15:57:01-04:00"
     },
     {
       "id": "11F118C6DF2FC0E498D30263DE4AB8DB",
@@ -5081,7 +5081,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-alex-pruden-237",
       "active": true,
-      "mdate": "2026-04-19T11:46:17-04:00"
+      "mdate": "2026-05-06T15:57:31-04:00"
     },
     {
       "id": "11F1436BD56F2FC0AE260263DE4AB8DB",
@@ -5360,7 +5360,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-adeniyi-abiodun-337",
       "active": true,
-      "mdate": "2026-04-28T21:15:55-04:00"
+      "mdate": "2026-05-06T15:58:21-04:00"
     },
     {
       "id": "11F144D1A094E50CAE260263DE4AB8DB",
@@ -5389,7 +5389,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-senator-kirsten-gillibrand-374",
       "active": true,
-      "mdate": "2026-04-30T16:17:48-04:00"
+      "mdate": "2026-05-06T15:57:56-04:00"
     },
     {
       "id": "11F1174850A6BA7098D30263DE4AB8DB",
@@ -5724,7 +5724,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-kevin-oleary-344",
       "active": true,
-      "mdate": "2026-04-28T21:23:07-04:00"
+      "mdate": "2026-05-06T15:58:47-04:00"
     },
     {
       "id": "11F122788D17607D98D30263DE4AB8DB",
@@ -5873,7 +5873,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-david-burt-251",
       "active": true,
-      "mdate": "2026-04-19T12:02:34-04:00"
+      "mdate": "2026-05-06T15:59:12-04:00"
     },
     {
       "id": "11F11EEB904CFA1098D30263DE4AB8DB",
@@ -6036,7 +6036,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-raja-chakravorti-258",
       "active": true,
-      "mdate": "2026-04-19T12:10:46-04:00"
+      "mdate": "2026-05-06T15:59:37-04:00"
     },
     {
       "id": "11F143377538521CAE260263DE4AB8DB",
@@ -6151,7 +6151,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-ian-de-bode-227",
       "active": true,
-      "mdate": "2026-04-19T11:40:31-04:00"
+      "mdate": "2026-05-06T15:59:58-04:00"
     },
     {
       "id": "11F147576A6114DCAE260263DE4AB8DB",
@@ -6366,7 +6366,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-hunter-horsley-341",
       "active": true,
-      "mdate": "2026-04-28T21:19:51-04:00"
+      "mdate": "2026-05-06T16:00:26-04:00"
     },
     {
       "id": "11F13C0B558422D5AE260263DE4AB8DB",
@@ -6417,7 +6417,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-frank-la-salla-338",
       "active": true,
-      "mdate": "2026-05-04T23:19:06-04:00"
+      "mdate": "2026-05-06T16:01:11-04:00"
     },
     {
       "id": "11F14368ADE30DDAAE260263DE4AB8DB",
@@ -6446,7 +6446,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-tal-cohen-335",
       "active": true,
-      "mdate": "2026-05-04T23:18:43-04:00"
+      "mdate": "2026-05-06T16:22:31-04:00"
     },
     {
       "id": "11F1436D10E66C4CAE260263DE4AB8DB",
@@ -6475,7 +6475,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-vibhu-norby-360",
       "active": true,
-      "mdate": "2026-04-28T21:45:28-04:00"
+      "mdate": "2026-05-06T16:00:43-04:00"
     },
     {
       "id": "11F13C09BCA613B3AE260263DE4AB8DB",
@@ -6504,7 +6504,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-reid-hoffman-254",
       "active": true,
-      "mdate": "2026-05-04T23:20:34-04:00"
+      "mdate": "2026-05-06T16:14:50-04:00"
     },
     {
       "id": "11F143680DBB1CC5AE260263DE4AB8DB",
@@ -6526,7 +6526,7 @@
       "speakers": [],
       "url": "/agenda/event/-coindesk-live-dan-tapiero-332",
       "active": true,
-      "mdate": "2026-04-28T21:09:21-04:00"
+      "mdate": "2026-05-06T16:12:32-04:00"
     },
     {
       "id": "11F11C0DC9CB6A8698D30263DE4AB8DB",
@@ -6800,7 +6800,7 @@
       ],
       "url": "/agenda/event/-institutional-defi-surge-infra-powering-wall-street-adoption-30",
       "active": true,
-      "mdate": "2026-05-01T06:31:24-04:00"
+      "mdate": "2026-05-06T15:06:04-04:00"
     },
     {
       "id": "11F118C7C3EE432298D30263DE4AB8DB",
@@ -6858,7 +6858,7 @@
       ],
       "url": "/agenda/event/-two-and-half-years-on-how-the-bitcoin-etfs-change-bitcoin-forever-52",
       "active": true,
-      "mdate": "2026-05-01T06:40:16-04:00"
+      "mdate": "2026-05-06T15:13:05-04:00"
     },
     {
       "id": "11F13DB08414E24FAE260263DE4AB8DB",
@@ -6960,7 +6960,7 @@
       ],
       "url": "/agenda/event/-fireside-a-rod-23",
       "active": true,
-      "mdate": "2026-04-30T14:28:16-04:00"
+      "mdate": "2026-05-06T15:10:32-04:00"
     },
     {
       "id": "11F1215F056BE0B798D30263DE4AB8DB",
@@ -7012,7 +7012,7 @@
       ],
       "url": "/agenda/event/-doubling-down-on-depin-hype-check-on-decentralized-compute-140",
       "active": true,
-      "mdate": "2026-05-01T06:34:35-04:00"
+      "mdate": "2026-05-06T16:01:28-04:00"
     },
     {
       "id": "11F119AFB509E44B98D30263DE4AB8DB",
@@ -7166,7 +7166,7 @@
       ],
       "url": "/agenda/event/-bitcoins-quantum-threat-revisted-53",
       "active": true,
-      "mdate": "2026-05-01T06:40:26-04:00"
+      "mdate": "2026-05-06T16:27:24-04:00"
     },
     {
       "id": "11F13BFE98A8ED04AE260263DE4AB8DB",
@@ -7347,7 +7347,7 @@
       ],
       "url": "/agenda/event/-enterprise-ai-without-surveillance-privacy-confidential-compute-and-the-open-alternative-69",
       "active": true,
-      "mdate": "2026-05-01T06:32:30-04:00"
+      "mdate": "2026-05-06T16:01:09-04:00"
     },
     {
       "id": "11F11BC88112DB1F98D30263DE4AB8DB",
@@ -7384,7 +7384,7 @@
       ],
       "url": "/agenda/event/-old-money-new-assets-102",
       "active": true,
-      "mdate": "2026-05-02T13:22:45-04:00"
+      "mdate": "2026-05-06T15:36:50-04:00"
     },
     {
       "id": "11F13C070714A954AE260263DE4AB8DB",
@@ -7619,7 +7619,7 @@
       ],
       "url": "/agenda/event/-tokenization-transforming-markets-in-the-digital-era-21",
       "active": true,
-      "mdate": "2026-04-30T14:27:34-04:00"
+      "mdate": "2026-05-06T15:51:16-04:00"
     },
     {
       "id": "11F11BDD7CFC4AE598D30263DE4AB8DB",
@@ -7902,7 +7902,7 @@
       ],
       "url": "/agenda/event/-fireside-patrick-witt-31",
       "active": true,
-      "mdate": "2026-04-30T14:29:20-04:00"
+      "mdate": "2026-05-06T16:14:58-04:00"
     },
     {
       "id": "11F1436B8CA17D17AE260263DE4AB8DB",
@@ -8280,7 +8280,7 @@
       ],
       "url": "/agenda/event/-fireside-grant-cardone-22",
       "active": true,
-      "mdate": "2026-04-30T14:27:59-04:00"
+      "mdate": "2026-05-06T16:43:57-04:00"
     },
     {
       "id": "11F143693BA1C77CAE260263DE4AB8DB",

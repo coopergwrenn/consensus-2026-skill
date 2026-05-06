@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-06T18:59:52.095Z",
+  "generated_at": "2026-05-06T20:46:54.315Z",
   "files": [
     {
       "file": "events.json",
       "records": 252,
       "bytes": 176613,
-      "sha256": "44380d1dc8dae3db951674617ede0f81cac9a4d34c169a0f6e116f9402029f19",
+      "sha256": "1b28c808a38f182704587402ba12a4d4b5cb739eb53277c48e3d2328cad02a35",
       "source_url": "https://docs.google.com/spreadsheets/d/1xWmIHyEyOmPHfkYuZkucPRlLGWbb9CF6Oqvfl8FUV6k/gviz/tq?tqx=out:json&sheet=Consensus%20Miami%202026",
-      "baked_at": "2026-05-06T18:59:49.973Z"
+      "baked_at": "2026-05-06T20:46:52.220Z"
     },
     {
       "file": "sessions.json",
       "records": 339,
       "bytes": 425117,
-      "sha256": "0494a59f6dcd96bd9879b6268aa2a07bd209d90fa7aaf1f70db21b5a23f39b2c",
+      "sha256": "58e750c159628ec29870e2de07be3758181bf3ab4013f149201d1fb440cbfa78",
       "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
-      "baked_at": "2026-05-06T18:59:52.087Z"
+      "baked_at": "2026-05-06T20:46:54.307Z"
     },
     {
       "file": "speakers.json",
       "records": 462,
       "bytes": 261124,
-      "sha256": "c1ab4a940eca7e530d01057dfdc19fa2d631b287ae670dca6021358606c1ee3f",
+      "sha256": "7ea22aa0ccadce5b110d85288d2cdc014c11676d41776b385612b5813141fcaa",
       "source_url": "derived from sessions.json agenda_speaker_ref entries",
-      "baked_at": "2026-05-06T18:59:52.087Z"
+      "baked_at": "2026-05-06T20:46:54.307Z"
     }
   ]
 }
