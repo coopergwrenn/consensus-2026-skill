@@ -1,10 +1,10 @@
 {
   "meta": {
-    "baked_at": "2026-05-06T12:06:55.752Z",
+    "baked_at": "2026-05-06T14:47:15.871Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
-    "record_count": 462
+    "record_count": 464
   },
   "records": [
     {
@@ -1496,28 +1496,6 @@
       ]
     },
     {
-      "name": "Augie Ilag",
-      "company": "CMT Digital",
-      "title": "Partner, Head of Asia",
-      "session_count": 2,
-      "sessions": [
-        {
-          "id": "11F11747EF0C51BB98D30263DE4AB8DB",
-          "title": "Yield Bearing Stablecoins & RWA Collateral",
-          "date": "2026-05-05",
-          "start_iso": "2026-05-05T10:45:00-04:00",
-          "venue_slug": "convergence-stage"
-        },
-        {
-          "id": "11F1426E10000549AE260263DE4AB8DB",
-          "title": "PitchFest Semi-Finals",
-          "date": "2026-05-06",
-          "start_iso": "2026-05-06T10:00:00-04:00",
-          "venue_slug": "workshop-stage"
-        }
-      ]
-    },
-    {
       "name": "Austin Campbell",
       "company": "Zero Knowledge Group",
       "title": "Founder & Managing Partner",
@@ -2955,7 +2933,7 @@
       "sessions": [
         {
           "id": "11F119AFB509E44B98D30263DE4AB8DB",
-          "title": "T7X Spotlight Session 2: Institutional Adoption of Tokenized Assets: Where Are We Now?",
+          "title": "T7X Spotlight Session 2: Main Street Adoption of Tokenized Assets: Where Are We Now?",
           "date": "2026-05-06",
           "start_iso": "2026-05-06T13:50:00-04:00",
           "venue_slug": "spotlight-stage"
@@ -4028,6 +4006,21 @@
       ]
     },
     {
+      "name": "Aryan Sheikhalian",
+      "company": "CMT Digital",
+      "title": "Head of Research",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F1426E10000549AE260263DE4AB8DB",
+          "title": "PitchFest Semi-Finals",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T10:00:00-04:00",
+          "venue_slug": "workshop-stage"
+        }
+      ]
+    },
+    {
       "name": "Asaf Meir",
       "company": "Solidus Labs",
       "title": "Co-Founder & CEO",
@@ -4084,6 +4077,21 @@
           "date": "2026-05-06",
           "start_iso": "2026-05-06T14:50:00-04:00",
           "venue_slug": "workshop-stage"
+        }
+      ]
+    },
+    {
+      "name": "Augie Ilag",
+      "company": "CMT Digital",
+      "title": "Partner, Head of Asia",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F11747EF0C51BB98D30263DE4AB8DB",
+          "title": "Yield Bearing Stablecoins & RWA Collateral",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T10:45:00-04:00",
+          "venue_slug": "convergence-stage"
         }
       ]
     },
@@ -4788,6 +4796,21 @@
           "title": "Unlocking Institutional Capital by Building Blockchain’s Compliance Layer",
           "date": "2026-05-05",
           "start_iso": "2026-05-05T11:00:00-04:00",
+          "venue_slug": "spotlight-stage"
+        }
+      ]
+    },
+    {
+      "name": "David Meehan",
+      "company": "IQ Capital",
+      "title": "",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F13381975175C5AE260263DE4AB8DB",
+          "title": "Tokenized Commodities and RWA Trading: Building the On-Chain Market for Real Assets",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T15:00:00-04:00",
           "venue_slug": "spotlight-stage"
         }
       ]
@@ -6795,7 +6818,7 @@
       "sessions": [
         {
           "id": "11F119AFB509E44B98D30263DE4AB8DB",
-          "title": "T7X Spotlight Session 2: Institutional Adoption of Tokenized Assets: Where Are We Now?",
+          "title": "T7X Spotlight Session 2: Main Street Adoption of Tokenized Assets: Where Are We Now?",
           "date": "2026-05-06",
           "start_iso": "2026-05-06T13:50:00-04:00",
           "venue_slug": "spotlight-stage"
@@ -7155,7 +7178,7 @@
       "sessions": [
         {
           "id": "11F119AFB509E44B98D30263DE4AB8DB",
-          "title": "T7X Spotlight Session 2: Institutional Adoption of Tokenized Assets: Where Are We Now?",
+          "title": "T7X Spotlight Session 2: Main Street Adoption of Tokenized Assets: Where Are We Now?",
           "date": "2026-05-06",
           "start_iso": "2026-05-06T13:50:00-04:00",
           "venue_slug": "spotlight-stage"
@@ -8220,7 +8243,7 @@
       "sessions": [
         {
           "id": "11F119AFB509E44B98D30263DE4AB8DB",
-          "title": "T7X Spotlight Session 2: Institutional Adoption of Tokenized Assets: Where Are We Now?",
+          "title": "T7X Spotlight Session 2: Main Street Adoption of Tokenized Assets: Where Are We Now?",
           "date": "2026-05-06",
           "start_iso": "2026-05-06T13:50:00-04:00",
           "venue_slug": "spotlight-stage"
@@ -8250,7 +8273,7 @@
       "sessions": [
         {
           "id": "11F119AFB509E44B98D30263DE4AB8DB",
-          "title": "T7X Spotlight Session 2: Institutional Adoption of Tokenized Assets: Where Are We Now?",
+          "title": "T7X Spotlight Session 2: Main Street Adoption of Tokenized Assets: Where Are We Now?",
           "date": "2026-05-06",
           "start_iso": "2026-05-06T13:50:00-04:00",
           "venue_slug": "spotlight-stage"

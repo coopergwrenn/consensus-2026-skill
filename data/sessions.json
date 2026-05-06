@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-06T12:06:55.752Z",
+    "baked_at": "2026-05-06T14:47:15.871Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -35,7 +35,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-tushar-jain-265",
       "active": true,
-      "mdate": "2026-05-04T23:23:03-04:00"
+      "mdate": "2026-05-06T09:52:23-04:00"
     },
     {
       "id": "11F1172F741C253998D30263DE4AB8DB",
@@ -180,7 +180,7 @@
       ],
       "url": "/agenda/event/-welcome-remarks-2",
       "active": true,
-      "mdate": "2026-05-05T10:43:07-04:00"
+      "mdate": "2026-05-06T08:08:45-04:00"
     },
     {
       "id": "11F126BC1713EA4E98D30263DE4AB8DB",
@@ -215,7 +215,7 @@
       ],
       "url": "/agenda/event/-opening-remarks-148",
       "active": true,
-      "mdate": "2026-05-05T10:43:34-04:00"
+      "mdate": "2026-05-06T08:11:08-04:00"
     },
     {
       "id": "11F13C0A29A64291AE260263DE4AB8DB",
@@ -413,7 +413,7 @@
       ],
       "url": "/agenda/event/-keynote-arthur-hayes-3",
       "active": true,
-      "mdate": "2026-05-05T10:44:55-04:00"
+      "mdate": "2026-05-06T08:18:36-04:00"
     },
     {
       "id": "11F14368400A9805AE260263DE4AB8DB",
@@ -544,7 +544,7 @@
       ],
       "url": "/agenda/event/-zero-to-one-onchain-building-the-next-category-defining-companies-40",
       "active": true,
-      "mdate": "2026-05-05T11:29:53-04:00"
+      "mdate": "2026-05-06T08:31:08-04:00"
     },
     {
       "id": "11F1436875666975AE260263DE4AB8DB",
@@ -801,7 +801,7 @@
       ],
       "url": "/agenda/event/-fireside-kyle-samani-167",
       "active": true,
-      "mdate": "2026-05-05T12:06:28-04:00"
+      "mdate": "2026-05-06T08:31:40-04:00"
     },
     {
       "id": "11F1384BB29E4CF8AE260263DE4AB8DB",
@@ -1064,7 +1064,7 @@
       ],
       "url": "/agenda/event/-fireside-consensys-107",
       "active": true,
-      "mdate": "2026-05-05T12:20:15-04:00"
+      "mdate": "2026-05-06T08:27:21-04:00"
     },
     {
       "id": "11F14756AF62C670AE260263DE4AB8DB",
@@ -1208,7 +1208,7 @@
       ],
       "url": "/agenda/event/-fireside-ripple-13",
       "active": true,
-      "mdate": "2026-05-05T12:31:46-04:00"
+      "mdate": "2026-05-06T08:32:22-04:00"
     },
     {
       "id": "11F13C09048FA12EAE260263DE4AB8DB",
@@ -1403,7 +1403,7 @@
       ],
       "url": "/agenda/event/-keynote-mastercard-5",
       "active": true,
-      "mdate": "2026-05-05T12:40:09-04:00"
+      "mdate": "2026-05-06T08:27:56-04:00"
     },
     {
       "id": "11F14367CACE8CD6AE260263DE4AB8DB",
@@ -1528,7 +1528,7 @@
       ],
       "url": "/agenda/event/-the-next-100-million-agents-or-humansa-206",
       "active": true,
-      "mdate": "2026-05-05T12:54:37-04:00"
+      "mdate": "2026-05-06T08:32:57-04:00"
     },
     {
       "id": "11F13C0D0CD674F0AE260263DE4AB8DB",
@@ -1768,7 +1768,7 @@
       ],
       "url": "/agenda/event/-fireside-cloudflare-4",
       "active": true,
-      "mdate": "2026-05-05T13:15:09-04:00"
+      "mdate": "2026-05-06T08:33:42-04:00"
     },
     {
       "id": "11F11EEB2A2DC54298D30263DE4AB8DB",
@@ -1897,7 +1897,7 @@
       ],
       "url": "/agenda/event/-anchorage-sponsored-session-147",
       "active": true,
-      "mdate": "2026-05-05T13:36:34-04:00"
+      "mdate": "2026-05-06T08:34:28-04:00"
     },
     {
       "id": "11F1172A6C20A23098D30263DE4AB8DB",
@@ -1936,7 +1936,7 @@
       ],
       "url": "/agenda/event/-fireside-solana-6",
       "active": true,
-      "mdate": "2026-05-05T14:19:17-04:00"
+      "mdate": "2026-05-06T08:35:00-04:00"
     },
     {
       "id": "11F123A2FA8C787098D30263DE4AB8DB",
@@ -2368,7 +2368,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-joshua-riezman-226",
       "active": true,
-      "mdate": "2026-04-19T11:40:23-04:00"
+      "mdate": "2026-05-06T09:47:26-04:00"
     },
     {
       "id": "11F13C0CE1E3EE73AE260263DE4AB8DB",
@@ -2397,7 +2397,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-steven-mcwhitrter-274",
       "active": true,
-      "mdate": "2026-04-19T12:29:17-04:00"
+      "mdate": "2026-05-06T09:47:50-04:00"
     },
     {
       "id": "11F11BCA39E1D8E998D30263DE4AB8DB",
@@ -2489,7 +2489,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-mike-cagney-248",
       "active": true,
-      "mdate": "2026-05-04T23:19:28-04:00"
+      "mdate": "2026-05-06T09:48:08-04:00"
     },
     {
       "id": "11F11EEA51EFEBA198D30263DE4AB8DB",
@@ -2540,7 +2540,7 @@
       ],
       "url": "/agenda/event/-the-programmable-balance-sheet-how-dats-are-automating-the-global-treasury-130",
       "active": true,
-      "mdate": "2026-05-05T18:30:03-04:00"
+      "mdate": "2026-05-06T10:14:17-04:00"
     },
     {
       "id": "11F1285B58A0A43E98D30263DE4AB8DB",
@@ -2578,7 +2578,7 @@
       ],
       "url": "/agenda/event/-fireside-morgan-stanley-160",
       "active": true,
-      "mdate": "2026-05-05T14:40:05-04:00"
+      "mdate": "2026-05-06T08:43:35-04:00"
     },
     {
       "id": "11F12EB51688E924AE260263DE4AB8DB",
@@ -2611,7 +2611,7 @@
       ],
       "url": "/agenda/event/-agentic-ai-vc-what-investors-must-know-before-writing-the-check-176",
       "active": true,
-      "mdate": "2026-04-30T16:06:53-04:00"
+      "mdate": "2026-05-06T10:04:35-04:00"
     },
     {
       "id": "11F13CDDECE75FE4AE260263DE4AB8DB",
@@ -2727,7 +2727,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-alex-sternhell-349",
       "active": true,
-      "mdate": "2026-04-28T21:28:20-04:00"
+      "mdate": "2026-05-06T09:48:34-04:00"
     },
     {
       "id": "11F1436A63C28056AE260263DE4AB8DB",
@@ -2802,7 +2802,7 @@
       ],
       "url": "/agenda/event/-keynote-animoca-brands-161",
       "active": true,
-      "mdate": "2026-05-05T14:31:00-04:00"
+      "mdate": "2026-05-06T08:44:08-04:00"
     },
     {
       "id": "11F0FA671BD797CEA4A512AA38458C0B",
@@ -2907,7 +2907,7 @@
       ],
       "url": "/agenda/event/-fireside-procap-financial-7",
       "active": true,
-      "mdate": "2026-05-05T15:17:10-04:00"
+      "mdate": "2026-05-06T08:47:23-04:00"
     },
     {
       "id": "11F13C0B821A4DEAAE260263DE4AB8DB",
@@ -2936,7 +2936,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-mert-mumtaz-264",
       "active": true,
-      "mdate": "2026-05-04T23:22:24-04:00"
+      "mdate": "2026-05-06T09:49:48-04:00"
     },
     {
       "id": "11F143695C220894AE260263DE4AB8DB",
@@ -2965,7 +2965,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-raja-rajamannar-340",
       "active": true,
-      "mdate": "2026-04-28T21:18:49-04:00"
+      "mdate": "2026-05-06T09:48:58-04:00"
     },
     {
       "id": "11F1351748EA66D9AE260263DE4AB8DB",
@@ -3097,7 +3097,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-richard-widmann-355",
       "active": true,
-      "mdate": "2026-04-28T21:35:38-04:00"
+      "mdate": "2026-05-06T09:50:40-04:00"
     },
     {
       "id": "11F13C076D261DC2AE260263DE4AB8DB",
@@ -3126,7 +3126,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-yat-siu-241",
       "active": true,
-      "mdate": "2026-04-28T21:09:53-04:00"
+      "mdate": "2026-05-06T09:50:19-04:00"
     },
     {
       "id": "11F1172E97D0170198D30263DE4AB8DB",
@@ -3164,7 +3164,7 @@
       ],
       "url": "/agenda/event/-fireside-base-11",
       "active": true,
-      "mdate": "2026-05-05T15:27:58-04:00"
+      "mdate": "2026-05-06T08:47:47-04:00"
     },
     {
       "id": "11F1351DC49C1DAAAE260263DE4AB8DB",
@@ -3235,7 +3235,7 @@
       ],
       "url": "/agenda/event/-onchain-promises-how-anvil-is-enabling-consensus-to-level-up-sponsorships-202",
       "active": true,
-      "mdate": "2026-04-30T16:07:53-04:00"
+      "mdate": "2026-05-06T10:05:12-04:00"
     },
     {
       "id": "11F13CDE8B447502AE260263DE4AB8DB",
@@ -3353,7 +3353,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-austin-federa-326",
       "active": true,
-      "mdate": "2026-04-28T21:03:38-04:00"
+      "mdate": "2026-05-06T09:51:32-04:00"
     },
     {
       "id": "11F13C0A034144F5AE260263DE4AB8DB",
@@ -3382,7 +3382,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-haider-rafique-256",
       "active": true,
-      "mdate": "2026-04-19T12:08:49-04:00"
+      "mdate": "2026-05-06T09:51:07-04:00"
     },
     {
       "id": "11F12855F65905B398D30263DE4AB8DB",
@@ -3483,7 +3483,7 @@
       ],
       "url": "/agenda/event/-solidus-labs-sponsored-session-41",
       "active": true,
-      "mdate": "2026-05-03T11:22:55-04:00"
+      "mdate": "2026-05-06T10:05:45-04:00"
     },
     {
       "id": "11F11BDDA4F10FF598D30263DE4AB8DB",
@@ -3516,7 +3516,7 @@
       ],
       "url": "/agenda/event/-your-agents-first-wallet-an-intro-to-x402-with-coinbase-111",
       "active": true,
-      "mdate": "2026-05-04T10:12:38-04:00"
+      "mdate": "2026-05-06T09:20:44-04:00"
     },
     {
       "id": "11F123A6E6DBBF0498D30263DE4AB8DB",
@@ -3589,7 +3589,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-tobi-bauer-350",
       "active": true,
-      "mdate": "2026-04-28T21:29:29-04:00"
+      "mdate": "2026-05-06T09:51:59-04:00"
     },
     {
       "id": "11F13C0C36348AA0AE260263DE4AB8DB",
@@ -3733,7 +3733,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-tom-zschach-358",
       "active": true,
-      "mdate": "2026-04-28T21:42:23-04:00"
+      "mdate": "2026-05-06T10:47:15-04:00"
     },
     {
       "id": "11F128595941CDC998D30263DE4AB8DB",
@@ -3882,7 +3882,7 @@
       ],
       "url": "/agenda/event/-the-bitcoin-four-year-cycle-is-dead-what-replaces-ita-378",
       "active": true,
-      "mdate": "2026-05-01T12:23:10-04:00"
+      "mdate": "2026-05-06T10:33:02-04:00"
     },
     {
       "id": "11F1381941231185AE260263DE4AB8DB",
@@ -4155,7 +4155,7 @@
       ],
       "url": "/agenda/event/-the-old-rails-suck-where-your-business-should-use-stablecoins-221",
       "active": true,
-      "mdate": "2026-05-04T10:13:19-04:00"
+      "mdate": "2026-05-06T09:21:37-04:00"
     },
     {
       "id": "11F129E9EF8419B798D30263DE4AB8DB",
@@ -4755,7 +4755,7 @@
       ],
       "url": "/agenda/event/-the-past-present-and-future-of-blockchain-216",
       "active": true,
-      "mdate": "2026-04-21T20:47:26-04:00"
+      "mdate": "2026-05-06T10:44:16-04:00"
     },
     {
       "id": "11F13C06983D9FA7AE260263DE4AB8DB",
@@ -4988,15 +4988,15 @@
       ],
       "speakers": [
         {
-          "name": "Augie Ilag",
-          "company": "CMT Digital",
-          "title": "Partner, Head of Asia",
-          "role": "Speaker"
-        },
-        {
           "name": "Brent Fulfer",
           "company": "TBV",
           "title": "Co-Founder & General Partner",
+          "role": "Speaker"
+        },
+        {
+          "name": "Aryan Sheikhalian",
+          "company": "CMT Digital",
+          "title": "Head of Research",
           "role": "Speaker"
         },
         {
@@ -5014,7 +5014,7 @@
       ],
       "url": "/agenda/event/-pitchfest-semi-finals-311",
       "active": true,
-      "mdate": "2026-05-03T21:30:58-04:00"
+      "mdate": "2026-05-06T08:51:43-04:00"
     },
     {
       "id": "11F123A62AF852FE98D30263DE4AB8DB",
@@ -5052,7 +5052,7 @@
       ],
       "url": "/agenda/event/-keynote-kevin-oleary-145",
       "active": true,
-      "mdate": "2026-05-01T13:33:40-04:00"
+      "mdate": "2026-05-06T10:43:27-04:00"
     },
     {
       "id": "11F13C06E2089CDDAE260263DE4AB8DB",
@@ -7022,7 +7022,7 @@
     },
     {
       "id": "11F119AFB509E44B98D30263DE4AB8DB",
-      "title": "T7X Spotlight Session 2: Institutional Adoption of Tokenized Assets: Where Are We Now?",
+      "title": "T7X Spotlight Session 2: Main Street Adoption of Tokenized Assets: Where Are We Now?",
       "description_html": "Speakers: Omar Karim (Adapti) Tyler Ehler (Tranquil) Ubair Javaid (Nomyx) Pablo Penaloza (T7X) - [Closer] Michelle Makori - Moderator",
       "date": "2026-05-06",
       "day_of_week": "Wed",
@@ -7074,7 +7074,7 @@
       ],
       "url": "/agenda/event/-t7x-spotlight-session-2-76",
       "active": true,
-      "mdate": "2026-05-06T07:52:18-04:00"
+      "mdate": "2026-05-06T08:58:36-04:00"
     },
     {
       "id": "11F1436C07B9ACC6AE260263DE4AB8DB",
@@ -7808,11 +7808,17 @@
           "company": "Ault Capital Group - Ault Blockchain",
           "title": "Founder",
           "role": "Speaker"
+        },
+        {
+          "name": "David Meehan",
+          "company": "IQ Capital",
+          "title": "",
+          "role": "Speaker"
         }
       ],
       "url": "/agenda/event/-ault-blockchain-spotlight-session-188",
       "active": true,
-      "mdate": "2026-05-06T07:59:56-04:00"
+      "mdate": "2026-05-06T09:38:22-04:00"
     },
     {
       "id": "11F12859F15665D198D30263DE4AB8DB",
