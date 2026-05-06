@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-06T00:04:27.464Z",
+    "baked_at": "2026-05-06T04:05:55.770Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -5565,9 +5565,9 @@
           "role": "Speaker"
         },
         {
-          "name": "Alpen Sheth",
+          "name": "Patrick O’Kain",
           "company": "Borderless",
-          "title": "Partner, Head of Research",
+          "title": "General Partner",
           "role": "Speaker"
         },
         {

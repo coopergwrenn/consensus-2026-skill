@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-06T00:04:27.464Z",
+    "baked_at": "2026-05-06T04:05:55.770Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
@@ -3848,21 +3848,6 @@
       ]
     },
     {
-      "name": "Alpen Sheth",
-      "company": "Borderless",
-      "title": "Partner, Head of Research",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F1426E6E6220C2AE260263DE4AB8DB",
-          "title": "PitchFest Semi-Finals",
-          "date": "2026-05-06",
-          "start_iso": "2026-05-06T10:50:00-04:00",
-          "venue_slug": "workshop-stage"
-        }
-      ]
-    },
-    {
       "name": "Amanda Fabiano",
       "company": "Nakamoto Inc",
       "title": "COO",
@@ -7203,6 +7188,21 @@
           "title": "PitchFest Semi-Finals",
           "date": "2026-05-06",
           "start_iso": "2026-05-06T11:40:00-04:00",
+          "venue_slug": "workshop-stage"
+        }
+      ]
+    },
+    {
+      "name": "Patrick O’Kain",
+      "company": "Borderless",
+      "title": "General Partner",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F1426E6E6220C2AE260263DE4AB8DB",
+          "title": "PitchFest Semi-Finals",
+          "date": "2026-05-06",
+          "start_iso": "2026-05-06T10:50:00-04:00",
           "venue_slug": "workshop-stage"
         }
       ]
