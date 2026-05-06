@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-06T14:47:15.871Z",
+    "baked_at": "2026-05-06T16:54:27.708Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -2831,7 +2831,7 @@
       ],
       "url": "/agenda/event/-fidelity-digital-assets-sponsored-session-1",
       "active": true,
-      "mdate": "2026-05-02T18:42:46-04:00"
+      "mdate": "2026-05-06T10:49:26-04:00"
     },
     {
       "id": "11F11BDD903F785A98D30263DE4AB8DB",
@@ -2870,7 +2870,7 @@
       ],
       "url": "/agenda/event/-killer-prompts-and-openclaw-getting-started-with-ai-and-agents-110",
       "active": true,
-      "mdate": "2026-04-30T15:56:23-04:00"
+      "mdate": "2026-05-06T12:50:27-04:00"
     },
     {
       "id": "11F1172A929A742C98D30263DE4AB8DB",
@@ -3994,7 +3994,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-anthony-soohoo-270",
       "active": true,
-      "mdate": "2026-04-19T12:25:22-04:00"
+      "mdate": "2026-05-06T10:47:57-04:00"
     },
     {
       "id": "11F13C097B9F0795AE260263DE4AB8DB",
@@ -4023,7 +4023,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-arjun-sethi-252",
       "active": true,
-      "mdate": "2026-04-19T12:04:54-04:00"
+      "mdate": "2026-05-06T10:47:34-04:00"
     },
     {
       "id": "11F135177621FB5AAE260263DE4AB8DB",
@@ -4123,7 +4123,7 @@
       ],
       "url": "/agenda/event/-pwc-sponsored-session-179",
       "active": true,
-      "mdate": "2026-05-04T08:48:52-04:00"
+      "mdate": "2026-05-06T10:48:57-04:00"
     },
     {
       "id": "11F13BFD55E406CBAE260263DE4AB8DB",
@@ -4258,7 +4258,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-john-wu-230",
       "active": true,
-      "mdate": "2026-04-19T11:40:57-04:00"
+      "mdate": "2026-05-06T10:48:15-04:00"
     },
     {
       "id": "11F13DA4B14B3D9BAE260263DE4AB8DB",
@@ -4605,7 +4605,7 @@
       ],
       "url": "/agenda/event/-if-you-build-it-will-they-comea-dissecting-bitcoins-l2-landscape-50",
       "active": true,
-      "mdate": "2026-05-01T06:39:56-04:00"
+      "mdate": "2026-05-06T11:25:52-04:00"
     },
     {
       "id": "11F13C0677A3AAF4AE260263DE4AB8DB",
@@ -4717,7 +4717,7 @@
       ],
       "url": "/agenda/event/-agents-meet-the-enterprise-supply-chains-compliance-and-the-trust-stack-105",
       "active": true,
-      "mdate": "2026-05-01T06:33:10-04:00"
+      "mdate": "2026-05-06T12:51:09-04:00"
     },
     {
       "id": "11F139B8FA6E5883AE260263DE4AB8DB",
@@ -4865,7 +4865,7 @@
       ],
       "url": "/agenda/event/-not-your-grandaddys-broker-how-bitcoin-financial-services-have-matured-to-meet-mainstream-adoption-47",
       "active": true,
-      "mdate": "2026-05-01T06:39:23-04:00"
+      "mdate": "2026-05-06T11:48:03-04:00"
     },
     {
       "id": "11F147572281AF01AE260263DE4AB8DB",
@@ -5212,7 +5212,7 @@
       ],
       "url": "/agenda/event/-from-bitcoin-mining-to-ai-infrastructure-how-the-industry-is-rapidly-evolving-into-compute-platforms-379",
       "active": true,
-      "mdate": "2026-05-01T13:35:25-04:00"
+      "mdate": "2026-05-06T10:48:19-04:00"
     },
     {
       "id": "11F1216A0B9D657D98D30263DE4AB8DB",
@@ -5255,7 +5255,7 @@
       ],
       "url": "/agenda/event/-whos-really-writing-the-rules-for-cryptoa-142",
       "active": true,
-      "mdate": "2026-04-30T14:55:41-04:00"
+      "mdate": "2026-05-06T11:44:47-04:00"
     },
     {
       "id": "11F118C72974B74398D30263DE4AB8DB",
@@ -5530,7 +5530,7 @@
       ],
       "url": "/agenda/event/-crypto-in-dc-the-industrys-evolving-relationship-with-washington-34",
       "active": true,
-      "mdate": "2026-04-30T14:51:53-04:00"
+      "mdate": "2026-05-06T12:09:04-04:00"
     },
     {
       "id": "11F1426E6E6220C2AE260263DE4AB8DB",
@@ -5618,7 +5618,7 @@
       ],
       "url": "/agenda/event/-bitcoin-then-now-and-later-reflecting-on-bitcoins-future-17-years-on-163",
       "active": true,
-      "mdate": "2026-05-01T06:45:48-04:00"
+      "mdate": "2026-05-06T12:48:50-04:00"
     },
     {
       "id": "11F147575744B572AE260263DE4AB8DB",
@@ -5755,7 +5755,7 @@
       ],
       "url": "/agenda/event/-pi-network-20-minute-speaking-session-143",
       "active": true,
-      "mdate": "2026-05-01T06:34:43-04:00"
+      "mdate": "2026-05-06T12:34:17-04:00"
     },
     {
       "id": "11F118C755714F4598D30263DE4AB8DB",
@@ -5844,7 +5844,7 @@
       ],
       "url": "/agenda/event/-keynote-x402-32",
       "active": true,
-      "mdate": "2026-04-30T14:28:59-04:00"
+      "mdate": "2026-05-06T12:08:36-04:00"
     },
     {
       "id": "11F13C0926343F14AE260263DE4AB8DB",
@@ -5906,12 +5906,6 @@
           "role": "Speaker"
         },
         {
-          "name": "Akshat Vaidya",
-          "company": "Maelstrom",
-          "title": "Co-Founder & Head of Investments",
-          "role": "Speaker"
-        },
-        {
           "name": "Anto Joseph",
           "company": "Eigen Labs",
           "title": "Principal Security Engineer",
@@ -5926,7 +5920,7 @@
       ],
       "url": "/agenda/event/-agentic-frictionless-payments-ai-enters-the-zone-134",
       "active": true,
-      "mdate": "2026-05-01T06:33:36-04:00"
+      "mdate": "2026-05-06T11:30:43-04:00"
     },
     {
       "id": "11F12792627E786E98D30263DE4AB8DB",

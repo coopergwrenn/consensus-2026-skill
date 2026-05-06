@@ -1,10 +1,10 @@
 {
   "meta": {
-    "baked_at": "2026-05-06T14:47:15.871Z",
+    "baked_at": "2026-05-06T16:54:27.708Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
-    "record_count": 464
+    "record_count": 463
   },
   "records": [
     {
@@ -3612,21 +3612,6 @@
           "date": "2026-05-05",
           "start_iso": "2026-05-05T10:45:00-04:00",
           "venue_slug": "frontier-stage"
-        }
-      ]
-    },
-    {
-      "name": "Akshat Vaidya",
-      "company": "Maelstrom",
-      "title": "Co-Founder & Head of Investments",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F11EEB904CFA1098D30263DE4AB8DB",
-          "title": "Agentic & Frictionless Payments: AI Enters the Zone",
-          "date": "2026-05-06",
-          "start_iso": "2026-05-06T11:35:00-04:00",
-          "venue_slug": "convergence-stage"
         }
       ]
     },
