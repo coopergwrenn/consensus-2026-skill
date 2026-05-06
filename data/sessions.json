@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-05T23:12:15.768Z",
+    "baked_at": "2026-05-06T00:04:27.464Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -4074,7 +4074,7 @@
       ],
       "url": "/agenda/event/-crypto-etfs-groundwork-growth-and-granularity-for-whats-next-194",
       "active": true,
-      "mdate": "2026-05-01T06:47:17-04:00"
+      "mdate": "2026-05-05T19:25:57-04:00"
     },
     {
       "id": "11F12F894417E286AE260263DE4AB8DB",
@@ -4392,7 +4392,7 @@
       ],
       "url": "/agenda/event/-the-institutional-investor-outlook-208",
       "active": true,
-      "mdate": "2026-05-01T06:47:55-04:00"
+      "mdate": "2026-05-05T19:30:10-04:00"
     },
     {
       "id": "11F118CD1B4DCFD998D30263DE4AB8DB",
