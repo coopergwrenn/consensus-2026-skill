@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-06T09:37:12.227Z",
+    "baked_at": "2026-05-06T12:06:55.752Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -505,7 +505,7 @@
       ],
       "url": "/agenda/event/-scaling-the-rails-blockchain-adoption-in-apac-and-role-for-dat-203",
       "active": true,
-      "mdate": "2026-04-30T16:08:08-04:00"
+      "mdate": "2026-05-06T07:59:27-04:00"
     },
     {
       "id": "11F117D79C20021098D30263DE4AB8DB",
@@ -1134,7 +1134,7 @@
       ],
       "url": "/agenda/event/-persona-expo-hall-spotlight-session-26",
       "active": true,
-      "mdate": "2026-04-30T16:05:00-04:00"
+      "mdate": "2026-05-06T08:00:15-04:00"
     },
     {
       "id": "11F138E1C6226390AE260263DE4AB8DB",
@@ -1973,7 +1973,7 @@
       ],
       "url": "/agenda/event/-dfns-x-ibm-report-the-future-is-onchain-144",
       "active": true,
-      "mdate": "2026-04-30T16:06:25-04:00"
+      "mdate": "2026-05-06T07:56:55-04:00"
     },
     {
       "id": "11F13E65834211AFAE260263DE4AB8DB",
@@ -7022,7 +7022,7 @@
     },
     {
       "id": "11F119AFB509E44B98D30263DE4AB8DB",
-      "title": "T7X Spotlight Session 2: Main Street Adoption of Tokenized Assets: Where Are We Now?",
+      "title": "T7X Spotlight Session 2: Institutional Adoption of Tokenized Assets: Where Are We Now?",
       "description_html": "Speakers: Omar Karim (Adapti) Tyler Ehler (Tranquil) Ubair Javaid (Nomyx) Pablo Penaloza (T7X) - [Closer] Michelle Makori - Moderator",
       "date": "2026-05-06",
       "day_of_week": "Wed",
@@ -7074,7 +7074,7 @@
       ],
       "url": "/agenda/event/-t7x-spotlight-session-2-76",
       "active": true,
-      "mdate": "2026-04-30T18:53:23-04:00"
+      "mdate": "2026-05-06T07:52:18-04:00"
     },
     {
       "id": "11F1436C07B9ACC6AE260263DE4AB8DB",
@@ -7812,7 +7812,7 @@
       ],
       "url": "/agenda/event/-ault-blockchain-spotlight-session-188",
       "active": true,
-      "mdate": "2026-05-02T20:27:26-04:00"
+      "mdate": "2026-05-06T07:59:56-04:00"
     },
     {
       "id": "11F12859F15665D198D30263DE4AB8DB",
@@ -12250,6 +12250,55 @@
       "mdate": "2026-05-01T06:42:49-04:00"
     },
     {
+      "id": "11F117D722CDED6898D30263DE4AB8DB",
+      "title": "PitchFest Finals",
+      "description_html": null,
+      "date": "2026-05-07",
+      "day_of_week": "Thu",
+      "start_iso": "2026-05-07T16:00:00-04:00",
+      "end_iso": "2026-05-07T16:50:00-04:00",
+      "start_time": "16:00",
+      "end_time": "16:50",
+      "duration_minutes": 50,
+      "venue_slug": "mainstage",
+      "venue_name": "Anchorage Digital Mainstage",
+      "venue_full_name": "MBCC: Anchorage Digital Mainstage",
+      "venue_color": "#7092be",
+      "tracks": [],
+      "tags": [
+        "PitchFest"
+      ],
+      "speakers": [
+        {
+          "name": "Alasdair Foster",
+          "company": "Bullish Capital",
+          "title": "CEO",
+          "role": "Speaker"
+        },
+        {
+          "name": "Chris Joannou",
+          "company": "Draper University",
+          "title": "VP of Venture Ecosystem",
+          "role": "Speaker"
+        },
+        {
+          "name": "Amanda Terry",
+          "company": "ACTAI Ventures",
+          "title": "Co-Founder and Managing Partner",
+          "role": "Speaker"
+        },
+        {
+          "name": "Jennifer Styles",
+          "company": "Symphony",
+          "title": "Chief Operating Officer",
+          "role": "Speaker"
+        }
+      ],
+      "url": "/agenda/event/-pitchfest-finals-39",
+      "active": true,
+      "mdate": "2026-05-06T07:56:53-04:00"
+    },
+    {
       "id": "11F11EECF4059B3E98D30263DE4AB8DB",
       "title": "The New Financial Services Revolution: Banking on Blockchain",
       "description_html": null,
@@ -12423,55 +12472,6 @@
       "url": "/agenda/event/-are-prediction-markets-gambling-or-nota-101",
       "active": true,
       "mdate": "2026-05-01T06:42:58-04:00"
-    },
-    {
-      "id": "11F117D722CDED6898D30263DE4AB8DB",
-      "title": "PitchFest Finals",
-      "description_html": null,
-      "date": "2026-05-07",
-      "day_of_week": "Thu",
-      "start_iso": "2026-05-07T16:30:00-04:00",
-      "end_iso": "2026-05-07T17:20:00-04:00",
-      "start_time": "16:30",
-      "end_time": "17:20",
-      "duration_minutes": 50,
-      "venue_slug": "mainstage",
-      "venue_name": "Anchorage Digital Mainstage",
-      "venue_full_name": "MBCC: Anchorage Digital Mainstage",
-      "venue_color": "#7092be",
-      "tracks": [],
-      "tags": [
-        "PitchFest"
-      ],
-      "speakers": [
-        {
-          "name": "Alasdair Foster",
-          "company": "Bullish Capital",
-          "title": "CEO",
-          "role": "Speaker"
-        },
-        {
-          "name": "Chris Joannou",
-          "company": "Draper University",
-          "title": "VP of Venture Ecosystem",
-          "role": "Speaker"
-        },
-        {
-          "name": "Amanda Terry",
-          "company": "ACTAI Ventures",
-          "title": "Co-Founder and Managing Partner",
-          "role": "Speaker"
-        },
-        {
-          "name": "Jennifer Styles",
-          "company": "Symphony",
-          "title": "Chief Operating Officer",
-          "role": "Speaker"
-        }
-      ],
-      "url": "/agenda/event/-pitchfest-finals-39",
-      "active": true,
-      "mdate": "2026-05-04T12:14:31-04:00"
     },
     {
       "id": "11F12860C57D74D398D30263DE4AB8DB",

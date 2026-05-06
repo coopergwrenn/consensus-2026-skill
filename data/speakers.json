@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-06T09:37:12.227Z",
+    "baked_at": "2026-05-06T12:06:55.752Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
@@ -415,7 +415,7 @@
           "id": "11F117D722CDED6898D30263DE4AB8DB",
           "title": "PitchFest Finals",
           "date": "2026-05-07",
-          "start_iso": "2026-05-07T16:30:00-04:00",
+          "start_iso": "2026-05-07T16:00:00-04:00",
           "venue_slug": "mainstage"
         }
       ]
@@ -1292,7 +1292,7 @@
           "id": "11F117D722CDED6898D30263DE4AB8DB",
           "title": "PitchFest Finals",
           "date": "2026-05-07",
-          "start_iso": "2026-05-07T16:30:00-04:00",
+          "start_iso": "2026-05-07T16:00:00-04:00",
           "venue_slug": "mainstage"
         }
       ]
@@ -2955,7 +2955,7 @@
       "sessions": [
         {
           "id": "11F119AFB509E44B98D30263DE4AB8DB",
-          "title": "T7X Spotlight Session 2: Main Street Adoption of Tokenized Assets: Where Are We Now?",
+          "title": "T7X Spotlight Session 2: Institutional Adoption of Tokenized Assets: Where Are We Now?",
           "date": "2026-05-06",
           "start_iso": "2026-05-06T13:50:00-04:00",
           "venue_slug": "spotlight-stage"
@@ -3662,7 +3662,7 @@
           "id": "11F117D722CDED6898D30263DE4AB8DB",
           "title": "PitchFest Finals",
           "date": "2026-05-07",
-          "start_iso": "2026-05-07T16:30:00-04:00",
+          "start_iso": "2026-05-07T16:00:00-04:00",
           "venue_slug": "mainstage"
         }
       ]
@@ -4442,7 +4442,7 @@
           "id": "11F117D722CDED6898D30263DE4AB8DB",
           "title": "PitchFest Finals",
           "date": "2026-05-07",
-          "start_iso": "2026-05-07T16:30:00-04:00",
+          "start_iso": "2026-05-07T16:00:00-04:00",
           "venue_slug": "mainstage"
         }
       ]
@@ -6795,7 +6795,7 @@
       "sessions": [
         {
           "id": "11F119AFB509E44B98D30263DE4AB8DB",
-          "title": "T7X Spotlight Session 2: Main Street Adoption of Tokenized Assets: Where Are We Now?",
+          "title": "T7X Spotlight Session 2: Institutional Adoption of Tokenized Assets: Where Are We Now?",
           "date": "2026-05-06",
           "start_iso": "2026-05-06T13:50:00-04:00",
           "venue_slug": "spotlight-stage"
@@ -7155,7 +7155,7 @@
       "sessions": [
         {
           "id": "11F119AFB509E44B98D30263DE4AB8DB",
-          "title": "T7X Spotlight Session 2: Main Street Adoption of Tokenized Assets: Where Are We Now?",
+          "title": "T7X Spotlight Session 2: Institutional Adoption of Tokenized Assets: Where Are We Now?",
           "date": "2026-05-06",
           "start_iso": "2026-05-06T13:50:00-04:00",
           "venue_slug": "spotlight-stage"
@@ -8220,7 +8220,7 @@
       "sessions": [
         {
           "id": "11F119AFB509E44B98D30263DE4AB8DB",
-          "title": "T7X Spotlight Session 2: Main Street Adoption of Tokenized Assets: Where Are We Now?",
+          "title": "T7X Spotlight Session 2: Institutional Adoption of Tokenized Assets: Where Are We Now?",
           "date": "2026-05-06",
           "start_iso": "2026-05-06T13:50:00-04:00",
           "venue_slug": "spotlight-stage"
@@ -8250,7 +8250,7 @@
       "sessions": [
         {
           "id": "11F119AFB509E44B98D30263DE4AB8DB",
-          "title": "T7X Spotlight Session 2: Main Street Adoption of Tokenized Assets: Where Are We Now?",
+          "title": "T7X Spotlight Session 2: Institutional Adoption of Tokenized Assets: Where Are We Now?",
           "date": "2026-05-06",
           "start_iso": "2026-05-06T13:50:00-04:00",
           "venue_slug": "spotlight-stage"
