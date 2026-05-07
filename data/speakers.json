@@ -1,10 +1,10 @@
 {
   "meta": {
-    "baked_at": "2026-05-07T13:03:08.467Z",
+    "baked_at": "2026-05-07T15:37:31.840Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
-    "record_count": 464
+    "record_count": 463
   },
   "records": [
     {
@@ -2815,7 +2815,7 @@
         },
         {
           "id": "11F133968A19DB98AE260263DE4AB8DB",
-          "title": "What Gets Traded: Silver, RWAs, and the Market Structure for Tokenized Commodities on Ault Blockchain",
+          "title": "What Gets Traded: Silver first, then gold, platinum, and other commodity real-world assets (\"RWAs\"), and the market structure for tokenized assets.",
           "date": "2026-05-07",
           "start_iso": "2026-05-07T11:15:00-04:00",
           "venue_slug": "convergence-stage"
@@ -4497,21 +4497,6 @@
           "date": "2026-05-06",
           "start_iso": "2026-05-06T10:00:00-04:00",
           "venue_slug": "frontier-stage"
-        }
-      ]
-    },
-    {
-      "name": "Christa Gyori",
-      "company": "Leaders on Purpose",
-      "title": "Co-Founder & CEO",
-      "session_count": 1,
-      "sessions": [
-        {
-          "id": "11F143264E6A93B4AE260263DE4AB8DB",
-          "title": "Introducing Verimatics.  Reimagining mining and cryptography to find AI Truth in the post-quantum era",
-          "date": "2026-05-07",
-          "start_iso": "2026-05-07T11:45:00-04:00",
-          "venue_slug": "spotlight-stage"
         }
       ]
     },

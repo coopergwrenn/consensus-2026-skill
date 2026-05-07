@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-07T13:03:08.467Z",
+    "baked_at": "2026-05-07T15:37:31.840Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -7097,7 +7097,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-eric-piscini-357",
       "active": true,
-      "mdate": "2026-04-28T21:37:59-04:00"
+      "mdate": "2026-05-07T09:55:25-04:00"
     },
     {
       "id": "11F13C0CC051B667AE260263DE4AB8DB",
@@ -7273,7 +7273,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-raoul-pal-243",
       "active": true,
-      "mdate": "2026-05-04T23:17:45-04:00"
+      "mdate": "2026-05-07T09:55:44-04:00"
     },
     {
       "id": "11F14757B6DA8E82AE260263DE4AB8DB",
@@ -7413,7 +7413,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-alex-rodriguez-238",
       "active": true,
-      "mdate": "2026-05-04T23:16:34-04:00"
+      "mdate": "2026-05-07T09:56:08-04:00"
     },
     {
       "id": "11F118C7F98F1AE398D30263DE4AB8DB",
@@ -7514,7 +7514,7 @@
       ],
       "url": "/agenda/event/-unlocking-institutional-adoption-with-fhe-and-quantum-resistant-cryptography-220",
       "active": true,
-      "mdate": "2026-04-30T16:08:49-04:00"
+      "mdate": "2026-05-07T10:46:06-04:00"
     },
     {
       "id": "11F13C078AF4BBFAAE260263DE4AB8DB",
@@ -7543,7 +7543,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-charles-hoskinson-242",
       "active": true,
-      "mdate": "2026-05-04T23:17:10-04:00"
+      "mdate": "2026-05-07T09:56:32-04:00"
     },
     {
       "id": "11F1316B5F0643EBAE260263DE4AB8DB",
@@ -7699,7 +7699,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-josh-swihart-266",
       "active": true,
-      "mdate": "2026-04-19T12:21:32-04:00"
+      "mdate": "2026-05-07T09:56:53-04:00"
     },
     {
       "id": "11F118C81550F8E298D30263DE4AB8DB",
@@ -7812,7 +7812,7 @@
       ],
       "url": "/agenda/event/-ault-blockchain-spotlight-session-188",
       "active": true,
-      "mdate": "2026-05-06T09:38:22-04:00"
+      "mdate": "2026-05-07T10:48:17-04:00"
     },
     {
       "id": "11F12859F15665D198D30263DE4AB8DB",
@@ -7931,7 +7931,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-xiao-xiao-j-zhu-354",
       "active": true,
-      "mdate": "2026-04-28T21:34:32-04:00"
+      "mdate": "2026-05-07T09:57:14-04:00"
     },
     {
       "id": "11F13C0AB25B5B0EAE260263DE4AB8DB",
@@ -7960,7 +7960,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-katherine-kirkpatrick-bos-261",
       "active": true,
-      "mdate": "2026-04-19T12:13:40-04:00"
+      "mdate": "2026-05-07T09:57:35-04:00"
     },
     {
       "id": "11F144D111EEE023AE260263DE4AB8DB",
@@ -7989,7 +7989,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-paul-grewal-373",
       "active": true,
-      "mdate": "2026-04-30T16:24:47-04:00"
+      "mdate": "2026-05-07T10:07:43-04:00"
     },
     {
       "id": "11F118C83B3C43E598D30263DE4AB8DB",
@@ -8302,7 +8302,7 @@
       "speakers": [],
       "url": "/agenda/event/-coindesk-live-charles-cascarilla-339",
       "active": true,
-      "mdate": "2026-04-28T21:17:55-04:00"
+      "mdate": "2026-05-07T10:08:24-04:00"
     },
     {
       "id": "11F13C0A94598FB5AE260263DE4AB8DB",
@@ -8331,7 +8331,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-larry-wade-260",
       "active": true,
-      "mdate": "2026-05-04T23:22:02-04:00"
+      "mdate": "2026-05-07T10:09:45-04:00"
     },
     {
       "id": "11F14268B608CA9EAE260263DE4AB8DB",
@@ -8493,7 +8493,7 @@
       "speakers": [],
       "url": "/agenda/event/-coindesk-live-jean-marie-mognetti-331",
       "active": true,
-      "mdate": "2026-04-28T21:08:30-04:00"
+      "mdate": "2026-05-07T10:10:19-04:00"
     },
     {
       "id": "11F13EB085928999AE260263DE4AB8DB",
@@ -8624,7 +8624,7 @@
       ],
       "url": "/agenda/event/-ride-or-die-agents-orchestration-and-improvement-of-your-ai-army-224",
       "active": true,
-      "mdate": "2026-05-05T08:41:00-04:00"
+      "mdate": "2026-05-07T10:33:10-04:00"
     },
     {
       "id": "11F117D656F5669C98D30263DE4AB8DB",
@@ -8743,7 +8743,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-grant-cardone-245",
       "active": true,
-      "mdate": "2026-04-19T11:55:59-04:00"
+      "mdate": "2026-05-07T10:12:01-04:00"
     },
     {
       "id": "11F11B0AEB73066D98D30263DE4AB8DB",
@@ -8842,7 +8842,7 @@
       "speakers": [],
       "url": "/agenda/event/-coindesk-live-16",
       "active": true,
-      "mdate": "2026-04-22T13:14:22-04:00"
+      "mdate": "2026-05-07T10:57:15-04:00"
     },
     {
       "id": "11F11B0C3C2DE56D98D30263DE4AB8DB",
@@ -8928,7 +8928,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-mike-belshe-240",
       "active": true,
-      "mdate": "2026-04-19T11:49:20-04:00"
+      "mdate": "2026-05-07T10:57:33-04:00"
     },
     {
       "id": "11F11BCAEEABEE8498D30263DE4AB8DB",
@@ -9014,7 +9014,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-angus-fletcher-229",
       "active": true,
-      "mdate": "2026-04-19T11:40:47-04:00"
+      "mdate": "2026-05-07T11:07:09-04:00"
     },
     {
       "id": "11F13C05F3215D54AE260263DE4AB8DB",
@@ -9043,7 +9043,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-krista-lynch-231",
       "active": true,
-      "mdate": "2026-04-19T11:41:05-04:00"
+      "mdate": "2026-05-07T11:09:54-04:00"
     },
     {
       "id": "11F11BBC6313F54898D30263DE4AB8DB",
@@ -9765,7 +9765,7 @@
     },
     {
       "id": "11F133968A19DB98AE260263DE4AB8DB",
-      "title": "What Gets Traded: Silver, RWAs, and the Market Structure for Tokenized Commodities on Ault Blockchain",
+      "title": "What Gets Traded: Silver first, then gold, platinum, and other commodity real-world assets (\"RWAs\"), and the market structure for tokenized assets.",
       "description_html": "The assets planned for Ault Blockchain's platform tokenized silver, BMAX, and RWAs. The regulatory and structural frameworks behind each, and what Ault is looking for from institutional and ecosystem partners.",
       "date": "2026-05-07",
       "day_of_week": "Thu",
@@ -9792,7 +9792,7 @@
       ],
       "url": "/agenda/event/-ault-defi-trading-track-session-189",
       "active": true,
-      "mdate": "2026-05-04T08:10:48-04:00"
+      "mdate": "2026-05-07T09:29:59-04:00"
     },
     {
       "id": "11F13E47D229B6F8AE260263DE4AB8DB",
@@ -10123,17 +10123,11 @@
           "company": "Dragon Camp",
           "title": "Founder",
           "role": "Speaker"
-        },
-        {
-          "name": "Christa Gyori",
-          "company": "Leaders on Purpose",
-          "title": "Co-Founder & CEO",
-          "role": "Speaker"
         }
       ],
       "url": "/agenda/event/-reimagining-the-rails-verimatics-trustworthy-ai-and-the-bitcoin-blockchain-ecosystem-in-the-quantum-era-319",
       "active": true,
-      "mdate": "2026-05-01T06:18:38-04:00"
+      "mdate": "2026-05-07T11:23:34-04:00"
     },
     {
       "id": "11F13E48305B59E6AE260263DE4AB8DB",
