@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-07T17:58:08.756Z",
+    "baked_at": "2026-05-07T19:55:01.832Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
@@ -327,7 +327,7 @@
         },
         {
           "id": "11F13C1C1568254BAE260263DE4AB8DB",
-          "title": "[Virtual] Fireside: CZ",
+          "title": "Fireside: CZ",
           "date": "2026-05-07",
           "start_iso": "2026-05-07T10:30:00-04:00",
           "venue_slug": "mainstage"
@@ -4382,13 +4382,13 @@
     },
     {
       "name": "Changpeng  (CZ) Zhao",
-      "company": "VIRTUAL SPEAKER",
+      "company": "",
       "title": "Founder of Binance",
       "session_count": 1,
       "sessions": [
         {
           "id": "11F13C1C1568254BAE260263DE4AB8DB",
-          "title": "[Virtual] Fireside: CZ",
+          "title": "Fireside: CZ",
           "date": "2026-05-07",
           "start_iso": "2026-05-07T10:30:00-04:00",
           "venue_slug": "mainstage"

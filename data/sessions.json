@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-07T17:58:08.756Z",
+    "baked_at": "2026-05-07T19:55:01.832Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -8419,7 +8419,7 @@
       ],
       "url": "/agenda/event/-midnight-sponsored-session-185",
       "active": true,
-      "mdate": "2026-05-02T18:41:45-04:00"
+      "mdate": "2026-05-07T15:33:26-04:00"
     },
     {
       "id": "11F11F22142BF0A898D30263DE4AB8DB",
@@ -8601,10 +8601,10 @@
       "date": "2026-05-06",
       "day_of_week": "Wed",
       "start_iso": "2026-05-06T16:30:00-04:00",
-      "end_iso": "2026-05-07T17:10:00-04:00",
+      "end_iso": "2026-05-06T17:10:00-04:00",
       "start_time": "16:30",
       "end_time": "17:10",
-      "duration_minutes": 1480,
+      "duration_minutes": 40,
       "venue_slug": "workshop-stage",
       "venue_name": "Workshop Stage",
       "venue_full_name": "MBCC: Workshop Stage",
@@ -8624,7 +8624,7 @@
       ],
       "url": "/agenda/event/-ride-or-die-agents-orchestration-and-improvement-of-your-ai-army-224",
       "active": true,
-      "mdate": "2026-05-07T10:33:10-04:00"
+      "mdate": "2026-05-07T14:01:23-04:00"
     },
     {
       "id": "11F117D656F5669C98D30263DE4AB8DB",
@@ -9145,7 +9145,7 @@
       ],
       "url": "/agenda/event/-bringing-wall-street-onchain-64",
       "active": true,
-      "mdate": "2026-05-07T12:02:51-04:00"
+      "mdate": "2026-05-07T15:01:54-04:00"
     },
     {
       "id": "11F138DE8E631008AE260263DE4AB8DB",
@@ -9192,7 +9192,7 @@
       ],
       "url": "/agenda/event/-inveniam-spotlight-session-211",
       "active": true,
-      "mdate": "2026-05-01T11:17:55-04:00"
+      "mdate": "2026-05-07T15:30:08-04:00"
     },
     {
       "id": "11F13E46CD54E570AE260263DE4AB8DB",
@@ -9256,7 +9256,7 @@
       ],
       "url": "/agenda/event/-ampersand-a-dashboard-for-the-agentic-economy-296",
       "active": true,
-      "mdate": "2026-04-30T16:00:24-04:00"
+      "mdate": "2026-05-07T14:51:42-04:00"
     },
     {
       "id": "11F118CEE414468C98D30263DE4AB8DB",
@@ -9340,7 +9340,7 @@
       ],
       "url": "/agenda/event/-robots-on-stage-embodied-ai-meets-crypto-incentives-297",
       "active": true,
-      "mdate": "2026-05-01T11:45:24-04:00"
+      "mdate": "2026-05-07T14:54:15-04:00"
     },
     {
       "id": "11F11BBC73E3404B98D30263DE4AB8DB",
@@ -9390,7 +9390,7 @@
     },
     {
       "id": "11F13C1C1568254BAE260263DE4AB8DB",
-      "title": "[Virtual] Fireside: CZ",
+      "title": "Fireside: CZ",
       "description_html": null,
       "date": "2026-05-07",
       "day_of_week": "Thu",
@@ -9412,7 +9412,7 @@
       "speakers": [
         {
           "name": "Changpeng  (CZ) Zhao",
-          "company": "VIRTUAL SPEAKER",
+          "company": "",
           "title": "Founder of Binance",
           "role": "Speaker"
         },
@@ -9423,9 +9423,9 @@
           "role": "Moderator"
         }
       ],
-      "url": "/agenda/event/-virtual-fireside-cz-278",
+      "url": "/agenda/event/-fireside-cz-278",
       "active": true,
-      "mdate": "2026-05-07T12:04:51-04:00"
+      "mdate": "2026-05-07T14:54:00-04:00"
     },
     {
       "id": "11F11B0BDC80983798D30263DE4AB8DB",
@@ -9730,7 +9730,7 @@
       ],
       "url": "/agenda/event/-xsolla-spotlight-session-209",
       "active": true,
-      "mdate": "2026-05-02T18:04:19-04:00"
+      "mdate": "2026-05-07T15:30:48-04:00"
     },
     {
       "id": "11F13E47A70237E9AE260263DE4AB8DB",
@@ -9895,7 +9895,7 @@
       ],
       "url": "/agenda/event/-keynote-tom-lee-38",
       "active": true,
-      "mdate": "2026-05-07T12:32:10-04:00"
+      "mdate": "2026-05-07T14:23:34-04:00"
     },
     {
       "id": "11F13E48051431CBAE260263DE4AB8DB",
@@ -9981,7 +9981,7 @@
       ],
       "url": "/agenda/event/-stablecoin-revival-big-tech-re-enters-payments-150",
       "active": true,
-      "mdate": "2026-05-01T06:34:51-04:00"
+      "mdate": "2026-05-07T14:47:55-04:00"
     },
     {
       "id": "11F11BBCE74EFD6E98D30263DE4AB8DB",
@@ -10127,7 +10127,7 @@
       ],
       "url": "/agenda/event/-reimagining-the-rails-verimatics-trustworthy-ai-and-the-bitcoin-blockchain-ecosystem-in-the-quantum-era-319",
       "active": true,
-      "mdate": "2026-05-07T11:23:34-04:00"
+      "mdate": "2026-05-07T15:31:38-04:00"
     },
     {
       "id": "11F13E48305B59E6AE260263DE4AB8DB",
@@ -10334,7 +10334,7 @@
       ],
       "url": "/agenda/event/-the-global-payments-pivot-crypto-cards-rewards-beyond-45",
       "active": true,
-      "mdate": "2026-05-02T13:27:19-04:00"
+      "mdate": "2026-05-07T14:48:12-04:00"
     },
     {
       "id": "11F13A9A6985699BAE260263DE4AB8DB",
@@ -10378,7 +10378,7 @@
       ],
       "url": "/agenda/event/-tokenization-and-the-future-of-us-dollar-demand-219",
       "active": true,
-      "mdate": "2026-05-02T14:35:22-04:00"
+      "mdate": "2026-05-07T14:23:10-04:00"
     },
     {
       "id": "11F11BBD061B47B198D30263DE4AB8DB",
@@ -10553,7 +10553,7 @@
       ],
       "url": "/agenda/event/-the-2026-election-stakes-how-crypto-is-preparing-for-the-midterms-171",
       "active": true,
-      "mdate": "2026-05-06T22:38:24-04:00"
+      "mdate": "2026-05-07T15:36:09-04:00"
     },
     {
       "id": "11F147563AA73405AE260263DE4AB8DB",
@@ -10588,7 +10588,7 @@
       ],
       "url": "/agenda/event/-how-were-accelerating-the-internet-of-value-389",
       "active": true,
-      "mdate": "2026-05-07T08:52:37-04:00"
+      "mdate": "2026-05-07T15:29:17-04:00"
     },
     {
       "id": "11F11BE2A9C0310E98D30263DE4AB8DB",
@@ -10634,7 +10634,7 @@
       ],
       "url": "/agenda/event/-degen-agents-trading-on-prediction-markets-115",
       "active": true,
-      "mdate": "2026-04-30T15:57:55-04:00"
+      "mdate": "2026-05-07T15:18:08-04:00"
     },
     {
       "id": "11F144D1CD520A4CAE260263DE4AB8DB",
@@ -10663,7 +10663,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-jack-mcdonald-375",
       "active": true,
-      "mdate": "2026-04-30T16:22:37-04:00"
+      "mdate": "2026-05-07T14:27:27-04:00"
     },
     {
       "id": "11F118CCA532CFB498D30263DE4AB8DB",
@@ -10707,7 +10707,7 @@
       ],
       "url": "/agenda/event/-scaling-agentic-commerce-through-crypto-rails-and-open-protocols-62",
       "active": true,
-      "mdate": "2026-04-30T14:53:04-04:00"
+      "mdate": "2026-05-07T15:14:11-04:00"
     },
     {
       "id": "11F13DA4F213F677AE260263DE4AB8DB",
@@ -10784,7 +10784,7 @@
       ],
       "url": "/agenda/event/-unlocking-fine-art-tokenizing-a-2t-asset-class-314",
       "active": true,
-      "mdate": "2026-05-01T06:38:08-04:00"
+      "mdate": "2026-05-07T14:48:32-04:00"
     },
     {
       "id": "11F144D238D960ACAE260263DE4AB8DB",
@@ -10813,7 +10813,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-donald-trump-jr-376",
       "active": true,
-      "mdate": "2026-04-30T16:22:55-04:00"
+      "mdate": "2026-05-07T14:51:44-04:00"
     },
     {
       "id": "11F144D284DCA3DEAE260263DE4AB8DB",
@@ -10842,7 +10842,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-zach-witkoff-377",
       "active": true,
-      "mdate": "2026-04-30T16:24:13-04:00"
+      "mdate": "2026-05-07T14:51:31-04:00"
     },
     {
       "id": "11F12EA47E38CBA9AE260263DE4AB8DB",
@@ -10962,7 +10962,7 @@
       ],
       "url": "/agenda/event/-fireside-world-gold-council-72",
       "active": true,
-      "mdate": "2026-05-01T06:32:48-04:00"
+      "mdate": "2026-05-07T14:47:34-04:00"
     },
     {
       "id": "11F13A5FE8FCB9F3AE260263DE4AB8DB",
@@ -10993,7 +10993,7 @@
       ],
       "url": "/agenda/event/-keynote-midnight-218",
       "active": true,
-      "mdate": "2026-04-22T14:47:47-04:00"
+      "mdate": "2026-05-07T15:00:34-04:00"
     },
     {
       "id": "11F11B0BB7B227E198D30263DE4AB8DB",
@@ -11069,7 +11069,7 @@
       ],
       "url": "/agenda/event/-reimagining-the-rails-how-creative-entrepreneurs-are-trying-to-uplevel-traditonal-businesses-with-blockchain-175",
       "active": true,
-      "mdate": "2026-04-30T16:06:38-04:00"
+      "mdate": "2026-05-07T15:32:14-04:00"
     },
     {
       "id": "11F11EECAFBEB93298D30263DE4AB8DB",
@@ -11121,7 +11121,7 @@
       ],
       "url": "/agenda/event/-perp-dex-explosion-bullish-volumes-bear-market-resilience-135",
       "active": true,
-      "mdate": "2026-05-01T06:33:45-04:00"
+      "mdate": "2026-05-07T14:48:49-04:00"
     },
     {
       "id": "11F13BFF064F0881AE260263DE4AB8DB",
@@ -11153,7 +11153,7 @@
       ],
       "url": "/agenda/event/-using-claude-cowork-to-rule-the-world-223",
       "active": true,
-      "mdate": "2026-04-30T15:59:35-04:00"
+      "mdate": "2026-05-07T15:48:49-04:00"
     },
     {
       "id": "11F126CEF1DC046498D30263DE4AB8DB",
@@ -11267,7 +11267,7 @@
       ],
       "url": "/agenda/event/-the-new-global-settlement-layer-from-volatility-to-value-70",
       "active": true,
-      "mdate": "2026-05-05T15:36:29-04:00"
+      "mdate": "2026-05-07T15:48:34-04:00"
     },
     {
       "id": "11F135223EB48539AE260263DE4AB8DB",
@@ -11300,7 +11300,7 @@
       ],
       "url": "/agenda/event/-the-challenges-agentic-commerce-still-leaves-unanswered-201",
       "active": true,
-      "mdate": "2026-05-01T06:37:02-04:00"
+      "mdate": "2026-05-07T15:12:11-04:00"
     },
     {
       "id": "11F12EA50735A727AE260263DE4AB8DB",
