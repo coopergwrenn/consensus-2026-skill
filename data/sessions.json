@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-07T00:05:16.358Z",
+    "baked_at": "2026-05-07T04:06:01.066Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -9514,6 +9514,12 @@
           "role": "Speaker"
         },
         {
+          "name": "Adam Mastrelli",
+          "company": "57 Maiden",
+          "title": "Founder",
+          "role": "Speaker"
+        },
+        {
           "name": "Shayon Sengupta",
           "company": "Multicoin Capital",
           "title": "General Partner",
@@ -9522,7 +9528,7 @@
       ],
       "url": "/agenda/event/-the-future-of-onchain-sports-betting-prediction-markets-156",
       "active": true,
-      "mdate": "2026-05-05T15:33:30-04:00"
+      "mdate": "2026-05-06T22:57:27-04:00"
     },
     {
       "id": "11F118CB6B3EC4B598D30263DE4AB8DB",
@@ -10533,9 +10539,9 @@
           "role": "Speaker"
         },
         {
-          "name": "Alex Sternhell",
-          "company": "Sternhell Group",
-          "title": "Principal & Founder",
+          "name": "Colin McLaren",
+          "company": "Solana Policy Institute",
+          "title": "Head of Government Relations",
           "role": "Speaker"
         },
         {
@@ -10553,7 +10559,7 @@
       ],
       "url": "/agenda/event/-the-2026-election-stakes-how-crypto-is-preparing-for-the-midterms-171",
       "active": true,
-      "mdate": "2026-05-01T06:46:00-04:00"
+      "mdate": "2026-05-06T22:38:24-04:00"
     },
     {
       "id": "11F147563AA73405AE260263DE4AB8DB",

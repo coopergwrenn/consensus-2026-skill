@@ -1,10 +1,10 @@
 {
   "meta": {
-    "baked_at": "2026-05-07T00:05:16.358Z",
+    "baked_at": "2026-05-07T04:06:01.066Z",
     "schema_version": 1,
     "source_url": "derived from sessions.json agenda_speaker_ref entries",
     "source_label": "Speaker index — derived",
-    "record_count": 462
+    "record_count": 464
   },
   "records": [
     {
@@ -1257,28 +1257,6 @@
           "date": "2026-05-06",
           "start_iso": "2026-05-06T14:30:00-04:00",
           "venue_slug": "coindesk-live-studio"
-        }
-      ]
-    },
-    {
-      "name": "Alex Sternhell",
-      "company": "Sternhell Group",
-      "title": "Principal & Founder",
-      "session_count": 2,
-      "sessions": [
-        {
-          "id": "11F1436AB03AADB2AE260263DE4AB8DB",
-          "title": "CoinDesk Live: Alex Sternhell",
-          "date": "2026-05-05",
-          "start_iso": "2026-05-05T14:00:00-04:00",
-          "venue_slug": "coindesk-live-studio"
-        },
-        {
-          "id": "11F12EA4483CD3C8AE260263DE4AB8DB",
-          "title": "The 2026 Election Stakes: How Crypto Is Preparing for the Midterms",
-          "date": "2026-05-07",
-          "start_iso": "2026-05-07T13:00:00-04:00",
-          "venue_slug": "frontier-stage"
         }
       ]
     },
@@ -3623,6 +3601,21 @@
       ]
     },
     {
+      "name": "Adam Mastrelli",
+      "company": "57 Maiden",
+      "title": "Founder",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F1285590B4189D98D30263DE4AB8DB",
+          "title": "The Future of Onchain Sports Betting & Prediction Markets",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T10:45:00-04:00",
+          "venue_slug": "convergence-stage"
+        }
+      ]
+    },
+    {
       "name": "Alasdair Foster",
       "company": "Bullish Capital",
       "title": "CEO",
@@ -3679,6 +3672,21 @@
           "date": "2026-05-06",
           "start_iso": "2026-05-06T15:45:00-04:00",
           "venue_slug": "spotlight-stage"
+        }
+      ]
+    },
+    {
+      "name": "Alex Sternhell",
+      "company": "Sternhell Group",
+      "title": "Principal & Founder",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F1436AB03AADB2AE260263DE4AB8DB",
+          "title": "CoinDesk Live: Alex Sternhell",
+          "date": "2026-05-05",
+          "start_iso": "2026-05-05T14:00:00-04:00",
+          "venue_slug": "coindesk-live-studio"
         }
       ]
     },
@@ -4653,6 +4661,21 @@
           "title": "Ad Aspera ad Astra: Bitcoin's 2026 and 2027 Market Outlook",
           "date": "2026-05-06",
           "start_iso": "2026-05-06T15:30:00-04:00",
+          "venue_slug": "frontier-stage"
+        }
+      ]
+    },
+    {
+      "name": "Colin McLaren",
+      "company": "Solana Policy Institute",
+      "title": "Head of Government Relations",
+      "session_count": 1,
+      "sessions": [
+        {
+          "id": "11F12EA4483CD3C8AE260263DE4AB8DB",
+          "title": "The 2026 Election Stakes: How Crypto Is Preparing for the Midterms",
+          "date": "2026-05-07",
+          "start_iso": "2026-05-07T13:00:00-04:00",
           "venue_slug": "frontier-stage"
         }
       ]
