@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-07T19:55:01.832Z",
+    "baked_at": "2026-05-07T21:15:01.318Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -1025,7 +1025,7 @@
       ],
       "url": "/agenda/event/-fireside-brian-klein-318",
       "active": true,
-      "mdate": "2026-05-05T13:41:48-04:00"
+      "mdate": "2026-05-07T17:14:39-04:00"
     },
     {
       "id": "11F11BCC1E0AEF8298D30263DE4AB8DB",
@@ -10888,7 +10888,7 @@
       ],
       "url": "/agenda/event/-the-2026-election-stakes-what-2027-will-bring-172",
       "active": true,
-      "mdate": "2026-05-02T13:29:50-04:00"
+      "mdate": "2026-05-07T16:10:11-04:00"
     },
     {
       "id": "11F14757F398C650AE260263DE4AB8DB",
@@ -11193,7 +11193,7 @@
       ],
       "url": "/agenda/event/-dc-behind-the-scenes-151",
       "active": true,
-      "mdate": "2026-05-01T06:44:24-04:00"
+      "mdate": "2026-05-07T16:05:35-04:00"
     },
     {
       "id": "11F13C0C74E35FA1AE260263DE4AB8DB",
@@ -11222,7 +11222,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-reeve-collins-271",
       "active": true,
-      "mdate": "2026-05-04T23:23:34-04:00"
+      "mdate": "2026-05-07T16:06:02-04:00"
     },
     {
       "id": "11F118CF654E883E98D30263DE4AB8DB",
@@ -11352,7 +11352,7 @@
       ],
       "url": "/agenda/event/-navigating-the-new-federal-standard-for-stablecoins-173",
       "active": true,
-      "mdate": "2026-05-01T06:46:32-04:00"
+      "mdate": "2026-05-07T16:39:44-04:00"
     },
     {
       "id": "11F1351B96C11B7CAE260263DE4AB8DB",
@@ -11398,7 +11398,7 @@
       ],
       "url": "/agenda/event/-the-agent-wallet-is-the-new-browser-198",
       "active": true,
-      "mdate": "2026-05-01T06:36:52-04:00"
+      "mdate": "2026-05-07T16:01:08-04:00"
     },
     {
       "id": "11F13C0C1520CF0FAE260263DE4AB8DB",
@@ -11427,7 +11427,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-conor-moore-268",
       "active": true,
-      "mdate": "2026-04-30T16:14:57-04:00"
+      "mdate": "2026-05-07T16:06:36-04:00"
     },
     {
       "id": "11F132A23D1B2805AE260263DE4AB8DB",
@@ -11470,7 +11470,7 @@
       ],
       "url": "/agenda/event/-beyond-human-latency-scaling-intelligence-in-the-agentic-economy-183",
       "active": true,
-      "mdate": "2026-04-30T15:00:04-04:00"
+      "mdate": "2026-05-07T16:36:08-04:00"
     },
     {
       "id": "11F1351F3F98C820AE260263DE4AB8DB",
@@ -11509,7 +11509,7 @@
       ],
       "url": "/agenda/event/-coinbases-view-from-the-white-house-200",
       "active": true,
-      "mdate": "2026-05-01T06:47:43-04:00"
+      "mdate": "2026-05-07T16:25:05-04:00"
     },
     {
       "id": "11F11BE2975F8A4598D30263DE4AB8DB",
@@ -11541,7 +11541,7 @@
       ],
       "url": "/agenda/event/-deploying-whitehat-hackers-to-guard-your-code-in-the-age-of-ai-114",
       "active": true,
-      "mdate": "2026-04-30T15:57:44-04:00"
+      "mdate": "2026-05-07T16:50:05-04:00"
     },
     {
       "id": "11F1436A4209AF68AE260263DE4AB8DB",
@@ -11570,7 +11570,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-ahmed-zifzaf-346",
       "active": true,
-      "mdate": "2026-04-28T21:25:17-04:00"
+      "mdate": "2026-05-07T16:27:12-04:00"
     },
     {
       "id": "11F14368CDD3881AAE260263DE4AB8DB",
@@ -11599,7 +11599,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-yoni-assia-336",
       "active": true,
-      "mdate": "2026-04-28T21:14:54-04:00"
+      "mdate": "2026-05-07T16:24:00-04:00"
     },
     {
       "id": "11F142988862D436AE260263DE4AB8DB",
@@ -11644,7 +11644,7 @@
       ],
       "url": "/agenda/event/-invisible-shields-proactive-defense-in-a-privacy-first-world-316",
       "active": true,
-      "mdate": "2026-05-01T06:38:29-04:00"
+      "mdate": "2026-05-07T16:25:29-04:00"
     },
     {
       "id": "11F11BBD25319F9898D30263DE4AB8DB",
@@ -11695,7 +11695,7 @@
       ],
       "url": "/agenda/event/-will-we-have-market-structure-this-yeara-why-and-why-not-98",
       "active": true,
-      "mdate": "2026-05-01T06:42:30-04:00"
+      "mdate": "2026-05-07T17:13:38-04:00"
     },
     {
       "id": "11F135182C3ED7DCAE260263DE4AB8DB",
@@ -11733,7 +11733,7 @@
       ],
       "url": "/agenda/event/-fireside-aave-195",
       "active": true,
-      "mdate": "2026-05-03T14:17:35-04:00"
+      "mdate": "2026-05-07T16:23:24-04:00"
     },
     {
       "id": "11F13DA4FCBB5EACAE260263DE4AB8DB",
@@ -11803,7 +11803,7 @@
       ],
       "url": "/agenda/event/-fireside-zcash-164",
       "active": true,
-      "mdate": "2026-05-01T06:35:30-04:00"
+      "mdate": "2026-05-07T16:25:46-04:00"
     },
     {
       "id": "11F118CD918C3FBB98D30263DE4AB8DB",
@@ -11840,7 +11840,7 @@
       ],
       "url": "/agenda/event/-fireside-bitgo-66",
       "active": true,
-      "mdate": "2026-04-30T14:53:54-04:00"
+      "mdate": "2026-05-07T16:40:44-04:00"
     },
     {
       "id": "11F13519D630EBB1AE260263DE4AB8DB",
@@ -11874,7 +11874,7 @@
       ],
       "url": "/agenda/event/-keynote-tamara-haasen-197",
       "active": true,
-      "mdate": "2026-05-01T06:36:44-04:00"
+      "mdate": "2026-05-07T16:26:07-04:00"
     },
     {
       "id": "11F13C0B33C88268AE260263DE4AB8DB",
@@ -12016,7 +12016,7 @@
       ],
       "url": "/agenda/event/-proving-your-humanness-in-the-ai-era-with-world-190",
       "active": true,
-      "mdate": "2026-04-30T15:58:59-04:00"
+      "mdate": "2026-05-07T16:53:03-04:00"
     },
     {
       "id": "11F12EB6839412FFAE260263DE4AB8DB",
@@ -12104,7 +12104,7 @@
       ],
       "url": "/agenda/event/-fireside-chappy-asel-380",
       "active": true,
-      "mdate": "2026-05-02T12:35:02-04:00"
+      "mdate": "2026-05-07T17:14:37-04:00"
     },
     {
       "id": "11F13C0D5629101CAE260263DE4AB8DB",
