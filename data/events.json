@@ -1,11 +1,11 @@
 {
   "meta": {
-    "baked_at": "2026-05-07T07:18:35.275Z",
+    "baked_at": "2026-05-07T10:35:18.434Z",
     "schema_version": 1,
     "source_url": "https://docs.google.com/spreadsheets/d/1xWmIHyEyOmPHfkYuZkucPRlLGWbb9CF6Oqvfl8FUV6k/gviz/tq?tqx=out:json&sheet=Consensus%20Miami%202026",
     "source_label": "plan.wtf — Consensus Miami 2026 (Google Sheets gviz)",
-    "record_count": 252,
-    "notes": "265 raw rows from gviz, 11 filtered (header/ad/out-of-window/unnamed), 252 retained."
+    "record_count": 253,
+    "notes": "264 raw rows from gviz, 11 filtered (header/ad/out-of-window/unnamed), 253 retained."
   },
   "records": [
     {
@@ -4524,31 +4524,6 @@
       "source": "planwtf"
     },
     {
-      "id": "058733c5d804a1fd",
-      "date": "2026-05-06",
-      "day_of_week": "Wed",
-      "start_time": "18:00",
-      "end_time": "20:00",
-      "start_iso": "2026-05-06T18:00:00-04:00",
-      "end_iso": "2026-05-06T20:00:00-04:00",
-      "organizer": "Bobby Shell",
-      "name": "An Evening with Voltage: C-Level Executive Dinner",
-      "address": "Rum Room Restaurant & Venu, 2100 Washington Ave, Miami Beach, FL 33139, USA",
-      "cost": "Free",
-      "is_free": true,
-      "tags": [
-        "Dinner",
-        "Networking",
-        "Devs/Builders",
-        "BTC"
-      ],
-      "link": "https://luma.com/om0k9qoz",
-      "has_food": true,
-      "has_bar": false,
-      "note": null,
-      "source": "planwtf"
-    },
-    {
       "id": "12c5bdd2551c4b6c",
       "date": "2026-05-06",
       "day_of_week": "Wed",
@@ -5448,33 +5423,6 @@
       "source": "planwtf"
     },
     {
-      "id": "eab4922d88505e3a",
-      "date": "2026-05-07",
-      "day_of_week": "Thu",
-      "start_time": "09:00",
-      "end_time": "11:00",
-      "start_iso": "2026-05-07T09:00:00-04:00",
-      "end_iso": "2026-05-07T11:00:00-04:00",
-      "organizer": "Dion Guillaume",
-      "name": "Breakfast and Networking with Tradecraft at Consensus Miami",
-      "address": "Backyard Miami Beach, 1741 Collins Ave, Miami Beach, FL 33139, USA",
-      "cost": "Free",
-      "is_free": true,
-      "tags": [
-        "Brunch",
-        "Networking",
-        "Devs/Builders",
-        "VCs/Angels",
-        "ETH",
-        "SOL"
-      ],
-      "link": "https://luma.com/i7qeqbgs",
-      "has_food": true,
-      "has_bar": false,
-      "note": null,
-      "source": "planwtf"
-    },
-    {
       "id": "cb31b8f8f837d2b1",
       "date": "2026-05-07",
       "day_of_week": "Thu",
@@ -5894,6 +5842,33 @@
       "source": "planwtf"
     },
     {
+      "id": "43779028c49a8a9d",
+      "date": "2026-05-07",
+      "day_of_week": "Thu",
+      "start_time": "16:00",
+      "end_time": "20:00",
+      "start_iso": "2026-05-07T16:00:00-04:00",
+      "end_iso": "2026-05-07T20:00:00-04:00",
+      "organizer": "BitBasel",
+      "name": "Private Access: Investors & Institutional RWAs",
+      "address": "The Sagamore Hotel South Beach The Sagamore, 1671 Collins Ave, Miami Beach, FL 33139, USA",
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Conference",
+        "Art",
+        "Panel/Talk",
+        "Networking",
+        "VCs/Angels",
+        "RWA"
+      ],
+      "link": "https://luma.com/isbfgeip",
+      "has_food": true,
+      "has_bar": true,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
       "id": "3d3bbf59883be55c",
       "date": "2026-05-07",
       "day_of_week": "Thu",
@@ -5965,6 +5940,32 @@
       "link": "https://luma.com/mwj9lzuc",
       "has_food": false,
       "has_bar": false,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
+      "id": "6536ac287624393b",
+      "date": "2026-05-07",
+      "day_of_week": "Thu",
+      "start_time": "18:00",
+      "end_time": "22:00",
+      "start_iso": "2026-05-07T18:00:00-04:00",
+      "end_iso": "2026-05-07T22:00:00-04:00",
+      "organizer": "Mana Common",
+      "name": "Breezeway Sets presented by Mana Common",
+      "address": "Museum Tower Café by Todd English 150 W Flagler St #175, Miami, FL 33130, USA",
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Party",
+        "Art",
+        "Bar/Pub",
+        "Performance",
+        "Networking"
+      ],
+      "link": "https://luma.com/qpzyb3t8",
+      "has_food": true,
+      "has_bar": true,
       "note": null,
       "source": "planwtf"
     },
@@ -6421,6 +6422,32 @@
       "link": "https://luma.com/chhz2wdt",
       "has_food": true,
       "has_bar": false,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
+      "id": "c2d3a064a58b9353",
+      "date": "2026-05-08",
+      "day_of_week": "Fri",
+      "start_time": "19:00",
+      "end_time": "22:00",
+      "start_iso": "2026-05-08T19:00:00-04:00",
+      "end_iso": "2026-05-08T22:00:00-04:00",
+      "organizer": "Challah Baby",
+      "name": "Shabbat Dinner Experience",
+      "address": "BeyBey Miami Beach 1330 18th St, Miami Beach, FL 33139, USA",
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Dinner",
+        "Party",
+        "Art",
+        "Networking",
+        "VCs/Angels"
+      ],
+      "link": "https://luma.com/nyxvcvlp",
+      "has_food": true,
+      "has_bar": true,
       "note": null,
       "source": "planwtf"
     },
