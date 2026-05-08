@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-08T14:17:31.218Z",
+    "baked_at": "2026-05-08T16:45:04.670Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -1528,7 +1528,7 @@
       ],
       "url": "/agenda/event/-the-next-100-million-agents-or-humansa-206",
       "active": true,
-      "mdate": "2026-05-06T08:32:57-04:00"
+      "mdate": "2026-05-08T11:24:50-04:00"
     },
     {
       "id": "11F13C0D0CD674F0AE260263DE4AB8DB",
@@ -2190,7 +2190,7 @@
       ],
       "url": "/agenda/event/-lewis-brisbois-spotlight-session-74",
       "active": true,
-      "mdate": "2026-05-05T17:43:10-04:00"
+      "mdate": "2026-05-08T12:36:25-04:00"
     },
     {
       "id": "11F11BDD692B89AD98D30263DE4AB8DB",
@@ -2831,7 +2831,7 @@
       ],
       "url": "/agenda/event/-fidelity-digital-assets-sponsored-session-1",
       "active": true,
-      "mdate": "2026-05-06T10:49:26-04:00"
+      "mdate": "2026-05-08T10:57:20-04:00"
     },
     {
       "id": "11F11BDD903F785A98D30263DE4AB8DB",
@@ -3324,7 +3324,7 @@
       ],
       "url": "/agenda/event/-fireside-tempo-196",
       "active": true,
-      "mdate": "2026-05-05T15:54:23-04:00"
+      "mdate": "2026-05-08T10:19:13-04:00"
     },
     {
       "id": "11F143673C83B88FAE260263DE4AB8DB",
@@ -3483,7 +3483,7 @@
       ],
       "url": "/agenda/event/-solidus-labs-sponsored-session-41",
       "active": true,
-      "mdate": "2026-05-06T10:05:45-04:00"
+      "mdate": "2026-05-08T12:35:19-04:00"
     },
     {
       "id": "11F11BDDA4F10FF598D30263DE4AB8DB",
@@ -4123,7 +4123,7 @@
       ],
       "url": "/agenda/event/-pwc-sponsored-session-179",
       "active": true,
-      "mdate": "2026-05-06T10:48:57-04:00"
+      "mdate": "2026-05-08T11:52:40-04:00"
     },
     {
       "id": "11F13BFD55E406CBAE260263DE4AB8DB",
@@ -10553,7 +10553,7 @@
       ],
       "url": "/agenda/event/-the-2026-election-stakes-how-crypto-is-preparing-for-the-midterms-171",
       "active": true,
-      "mdate": "2026-05-07T15:36:09-04:00"
+      "mdate": "2026-05-08T11:46:43-04:00"
     },
     {
       "id": "11F147563AA73405AE260263DE4AB8DB",
@@ -12247,7 +12247,7 @@
       ],
       "url": "/agenda/event/-the-states-approach-to-regulating-crypto-100",
       "active": true,
-      "mdate": "2026-05-07T18:02:09-04:00"
+      "mdate": "2026-05-08T12:28:24-04:00"
     },
     {
       "id": "11F117D722CDED6898D30263DE4AB8DB",
