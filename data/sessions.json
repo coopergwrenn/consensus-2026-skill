@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-08T11:45:45.122Z",
+    "baked_at": "2026-05-08T14:17:31.218Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -413,7 +413,7 @@
       ],
       "url": "/agenda/event/-keynote-arthur-hayes-3",
       "active": true,
-      "mdate": "2026-05-06T08:18:36-04:00"
+      "mdate": "2026-05-08T09:52:17-04:00"
     },
     {
       "id": "11F14368400A9805AE260263DE4AB8DB",
@@ -435,7 +435,7 @@
       "speakers": [],
       "url": "/agenda/event/-coindesk-live-david-tse-333",
       "active": true,
-      "mdate": "2026-04-28T21:10:57-04:00"
+      "mdate": "2026-05-08T10:00:47-04:00"
     },
     {
       "id": "11F13C099C316625AE260263DE4AB8DB",
@@ -1268,7 +1268,7 @@
       ],
       "url": "/agenda/event/-limited-stablecoin-track-session-166",
       "active": true,
-      "mdate": "2026-05-05T17:25:31-04:00"
+      "mdate": "2026-05-08T09:02:23-04:00"
     },
     {
       "id": "11F117300F953B2298D30263DE4AB8DB",
@@ -6800,7 +6800,7 @@
       ],
       "url": "/agenda/event/-institutional-defi-surge-infra-powering-wall-street-adoption-30",
       "active": true,
-      "mdate": "2026-05-06T15:06:04-04:00"
+      "mdate": "2026-05-08T09:34:04-04:00"
     },
     {
       "id": "11F118C7C3EE432298D30263DE4AB8DB",
@@ -8242,7 +8242,7 @@
       ],
       "url": "/agenda/event/-crypto-the-future-of-financial-services-315",
       "active": true,
-      "mdate": "2026-05-07T12:10:57-04:00"
+      "mdate": "2026-05-08T10:11:39-04:00"
     },
     {
       "id": "11F11731A66DBA2298D30263DE4AB8DB",
@@ -9792,7 +9792,7 @@
       ],
       "url": "/agenda/event/-ault-defi-trading-track-session-189",
       "active": true,
-      "mdate": "2026-05-07T12:23:27-04:00"
+      "mdate": "2026-05-08T09:57:05-04:00"
     },
     {
       "id": "11F13E47D229B6F8AE260263DE4AB8DB",
@@ -11903,7 +11903,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-austin-campbell-262",
       "active": true,
-      "mdate": "2026-04-19T12:17:15-04:00"
+      "mdate": "2026-05-08T08:55:13-04:00"
     },
     {
       "id": "11F13C0A6EA83993AE260263DE4AB8DB",
@@ -11932,7 +11932,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-miles-jennings-259",
       "active": true,
-      "mdate": "2026-04-19T12:11:41-04:00"
+      "mdate": "2026-05-08T08:54:44-04:00"
     },
     {
       "id": "11F11BBD394D754D98D30263DE4AB8DB",
@@ -12133,7 +12133,7 @@
       ],
       "url": "/agenda/event/-coindesk-live-taylor-lindman-277",
       "active": true,
-      "mdate": "2026-05-04T23:23:56-04:00"
+      "mdate": "2026-05-08T09:53:44-04:00"
     },
     {
       "id": "11F11B0C1E34956B98D30263DE4AB8DB",
@@ -12296,7 +12296,7 @@
       ],
       "url": "/agenda/event/-pitchfest-finals-39",
       "active": true,
-      "mdate": "2026-05-06T07:56:53-04:00"
+      "mdate": "2026-05-08T08:19:36-04:00"
     },
     {
       "id": "11F11EECF4059B3E98D30263DE4AB8DB",
