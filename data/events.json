@@ -1,11 +1,11 @@
 {
   "meta": {
-    "baked_at": "2026-05-08T09:53:58.331Z",
+    "baked_at": "2026-05-08T11:45:43.076Z",
     "schema_version": 1,
     "source_url": "https://docs.google.com/spreadsheets/d/1xWmIHyEyOmPHfkYuZkucPRlLGWbb9CF6Oqvfl8FUV6k/gviz/tq?tqx=out:json&sheet=Consensus%20Miami%202026",
     "source_label": "plan.wtf — Consensus Miami 2026 (Google Sheets gviz)",
-    "record_count": 254,
-    "notes": "264 raw rows from gviz, 10 filtered (header/ad/out-of-window/unnamed), 254 retained."
+    "record_count": 255,
+    "notes": "265 raw rows from gviz, 10 filtered (header/ad/out-of-window/unnamed), 255 retained."
   },
   "records": [
     {
@@ -6341,21 +6341,14 @@
       "cost": "Free",
       "is_free": true,
       "tags": [
-        "Vibe",
-        "Special Event",
-        "Meetup",
         "Art",
-        "Founders",
         "NFTs",
         "Memecoins",
         "DAOs",
-        "Culture",
-        "Music",
-        "Film/TV",
-        "Comedy",
         "SOL",
         "BTC",
-        "ETH"
+        "ETH",
+        "Networking"
       ],
       "link": "https://luma.com/493pkfe7",
       "has_food": false,
@@ -6533,6 +6526,32 @@
       "link": "https://luma.com/78mzpdvi",
       "has_food": true,
       "has_bar": true,
+      "note": null,
+      "source": "planwtf"
+    },
+    {
+      "id": "5611187bc1807597",
+      "date": "2026-05-09",
+      "day_of_week": "Sat",
+      "start_time": "17:00",
+      "end_time": "20:00",
+      "start_iso": "2026-05-09T17:00:00-04:00",
+      "end_iso": "2026-05-09T20:00:00-04:00",
+      "organizer": "OKX Wallet",
+      "name": "Vibe Coding Club:Miami",
+      "address": null,
+      "cost": "Free",
+      "is_free": true,
+      "tags": [
+        "Panel/Talk",
+        "Networking",
+        "Devs/Builders",
+        "ETH",
+        "SOL"
+      ],
+      "link": "https://luma.com/ip2tjoau",
+      "has_food": true,
+      "has_bar": false,
       "note": null,
       "source": "planwtf"
     }

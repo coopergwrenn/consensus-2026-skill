@@ -1,6 +1,6 @@
 {
   "meta": {
-    "baked_at": "2026-05-08T09:53:59.892Z",
+    "baked_at": "2026-05-08T11:45:45.122Z",
     "schema_version": 1,
     "source_url": "https://consensus.coindesk.com/agenda/venue/-{slug} × 9 venues",
     "source_label": "Consensus 2026 Miami official agenda (CoinDesk)",
@@ -10412,7 +10412,7 @@
       ],
       "url": "/agenda/event/-the-2026-election-stakes-97",
       "active": true,
-      "mdate": "2026-05-07T13:54:49-04:00"
+      "mdate": "2026-05-08T07:18:06-04:00"
     },
     {
       "id": "11F13C06534E74A6AE260263DE4AB8DB",
